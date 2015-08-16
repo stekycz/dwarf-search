@@ -1,0 +1,486 @@
+Pohled toastovače
+Šumící a zrnící obrazovka se postupně vyčistí a změní v počítačový display. Na tom se postupně zobrazuje text:
+
+Bootovací sekvence spuštěna
+Zrakový systém: CCD 517,3
+Systém umělé inteligence: K177
+Typ přístroje: Mluvící toastovač
+Výrobce: Křápol a.s. – Taiwan
+Doporučená maloobchodní cena: 19 liber, 99 pencí + daň
+Sluchový systém spuštěn
+
+Údaje zmizí a vystřídá je zkreslený pohled skrz žlutý filtr na KRYTONA, který stojí hrudníkem proti TOASTERU. Skloní se k displayi a zatímco vidíme jeho zvětšené oko, žlutá zmizí a barvy se upraví.
+KRYTON: Haló? Slyšíš mě? Ale ne, jak bys mohl. Nezapnul jsem řečové systémy.
+Stiskne pár knoflíků na klávesnici, kterou není vidět.
+LISTER: (Hlas) Krytone?
+
+LISTER přichází ke KRYTONOVI.
+LISTER: Co tady vyvádíš?
+KRYTON: Právě jsem opravil toastovač. Tedy, skoro opravil.
+LISTER: A sakra! Rozeber ho! Ty toho vopruzáka neznáš!
+
+Lodní laboratoř
+
+KRYTON: Pročetl jsem si veškerou dokumentaci. Je to jen mluvící budík, který vám nabídne ranní toast a nezávaznou konverzaci.
+LISTER: Ne! Tenhle je šíblej!
+KRYTON: Prosím?
+LISTER: Je porouchanej. Chce, abysme v jednom kuse jedli toasty. Je tim posedlej. A když nechceš každou hodinu zdlábnout tak čtyři sta toastů, tak začne řádit jako pominutej. To taky hlavně zavinilo tu nehodu.
+
+KRYTON: Jakou nehodu?
+LISTER: No, tu, kde jsem figuroval já, toastovač, odpadkovej kontejner a sedmikilový bourací kladivo.
+KRYTON: To vysvětluje, proč byl v kontejneru na tři tisíce malinkých kousků.
+LISTER: A taky pořád říká: „Tě péro, sombréro!“ Z toho by jsi trojčil! Proboha, co to má bejt: „Tě péro, sombréro!“?
+KRYTON: Důvěřujte mi, pane. Brzy uvidíte, proč jsem to dělal.
+Zmáčkne další klávesy na klávesnici. TOASTOVAČ se rozsvítí a promluví. Při řeči pohybuje páčkou na vysouvání toastů. Má zvláštní přízvuk a nemožně veselý tón. (pozn. - V originále ho mluví představitel původního KRYTONA David Ross)
+TOASTOVAČ: Tě péro, sombréro! Tak co život!? Já jsem švitorka - švitořící toastovač, váš veselý společník u snídaně. Švitorka jsem já a toastuju rád. Dá si někdo toast?
+LISTER: (S obavami) Já nechci žádnej toast a on (Směrem ke KRYTONOVI) taky nechce toast. Pamatuj si, že tady nikdo
+nechce žádnej toast. Ani teď, ani jindy! Žádnej toast!!!
+TOASTOVAČ: A co muffina?
+LISTER: Ani muffina! My tady nemáme rádi muffiny! Nechceme žádný muffiny, ani toasty, koláčky, žádný žemle, briošky, bagety, ani buchty, žádný veky, ani loupáky a palačinky, bramborový placky, žádný teplý jidáše a už vůbec ne nějaký pitomý lívance!
+TOASTOVAČ: Ahá, takže ty jsi na vafle!
+LISTER: (Na pokraji hysterického záchvatu ke KRYTONOVI) Vidíš? Vidíš, jakej je? Ten mě dovede vytočit. S ním se nedomluvíš!
+KRYTON: Jestli dovolíte, promluvím s ním jako přístroj s přístrojem. (Domlouvá TOASTERU jako neposlušnému dítěti) Tak a teď mě hezky poslouchej. Nebudeš nabízet žádné opékané pečivo žádnému členu posádky! Jestli ano, tak určitě skončíš na baseballové pálce při odpalu, jak ti to říkám, hmm!
+TOASTOVAČ: Můžu Vám položit jedinou otázku?
+KRYTON: Ovšem.
+TOASTOVAČ: Dal by si někdo toast?
+KRYTON: Copak…, copak jsi neslyšel, co jsem řekl?
+TOASTOVAČ: Slyšel, ale myslel jsem, že jste si to mezitím rozmyslel.
+LISTER: Vidíš? Vidíš, jakej je?
+KRYTON: (Podrážděně) Nic jsme si nerozmysleli!
+LISTER: (Křičí) Žádnej toast!
+TOASTOVAČ: Ale já jsem toastovač. To je smysl mé existence. Toastuju, tedy jsem. Jestli nechcete toasty, tak proč jste mě opravovali?
+LISTER: (Stále trochu křičí) Jo, proč jsi ho spravil?
+KRYTON: Posloužil jako pokusný králík pro kompresi inteligence. Jeho čipy pro inteligenci při té nehodě utrpěly.
+TOASTOVAČ: To nebyla nehoda, ale toasťákovražda prvního stupně!
+LISTER: Zavři ten svůj kryt!
+TOASTOVAČ uraženě vykřikne, protože ho LISTER silně praští pěstí.
+KRYTON: Přesměrováním jeho obvodů a taktováním jeho centrální jednotky se mi podařilo obnovit jeho inteligenci tím, že sem poněkud snížil jeho životnost.
+LISTER: No a?
+KRYTON: No, když to šlo u něj, půjde to i u Holly. Můžem vrátit její IQ na 6 000. Mohla by být zase geniální.
+
+ 
+
+Strojovna
+Celá posádka je ve strojovně. Ta je plná zamotaných kabelů. KRYTON se je snaží uspořádat s pomocí šroubováku.
+
+RIMMER: Fakt se domníváš, že to vyjde? Opravdu si myslíš, že se z toho trdla může stát zas génius?
+KRYTON: Nerad bych se dotknul Holly, pane, ale uškodit jí to nemůže.
+KOCOUR: To bych řek`. Když ji odnaučíme mlátit hlavou o obrazovku, i to bude pokrok.
+LISTER: Počítačová senilita… to je…, to je děsivá nemoc.
+KRYTON: Já vím. Kamarádil jsem s robotem, který trpěl stejnou chorobou. Jmenoval se Gilbert, ale měl radši, když se mu říkalo „Rammese Ťulpas III. - žuch bác, žuch bác, bum, dejte mi rum“. Tragický osud.
+RIMMER: Podle mě se s tím uměli vyrovnat Eskymáci. Ti věděli, jak se postarat o staré lidi s demencí. Uprostřed noci je vyvedli ven do vánice, svlékli jim pyžamo, a tak je ponechali osudu.
+KRYTON: Takhle se Eskymáci starali o své staříky?
+RIMMER: Přesně tak. Proto nemaj Eskymáci výraz pro „starobinec“.
+LISTER: Jestli se nám to podaří, jestli bude Holly tak chytrá, dokáže všecko na světě. Vynalezne hyperpohon a dopraví nás na Zem.
+KRYTON: Pokud Země ještě existuje. A i kdyby ano, pochybuji o tom, že přežilo lidstvo.
+LISTER: Vynalezne stroj času. Jenom si představte, že si vybereme, v jakym historickym období chceme žít!
+RIMMER: Já bych si vybral 19. století. Jeden z Napoleonových maršálů. Táhnul bych Evropou s největším generálem všech dob a kosil bych Belgičany! Nádhera.
+LISTER: A co ty, Kryťáku?
+KRYTON: Kdybych mohl jít kamkoli, opravdu se vrátit do jakékoli doby, tak myslím, že bych se nejraději vrátil do minulého úterý.
+LISTER: Proč?
+KRYTON: Už jste zapomněli? Všechno jsem vypral, a pak jsme se dívali na televizi. Hmm, tyhle časy se už nikdy nevrátí.
+HOLLY se objeví na velké obrazovce nahoře.
+HOLLY: Jak dlouho ještě?
+LISTER: Už to bude, Holly. Ještě pár minut na oživení obvodů, a tak minutu na konečné propojení.
+HOLLY třikrát třískne čelem o obrazovku.
+HOLLY: To jsou jen tři minuty. Radši se vrátím do laborky.
+KOCOUR: Modleme se k Bohu, aby to vyšlo. Jinak se fakt umlátí k smrti.
+
+ 
+
+Lodní laboratoř
+Konzole HOLLY je obklopena kabely, vypadajícími jako provázky spojené lepicí páskou. Kolem popojíždějí robíci a upravují dráty. Zní elektronické pípání.
+HOLLY: Slyším signál. Všechno připraveno.
+TOASTOVAČ: Nezbývá než doufat, že tě nepřetíží.
+HOLLY: Co se stane, když mě přetíží?
+TOASTOVAČ: Vybouchneš.
+HOLLY: Oh… (Přemýšlí o tom) …to by šlo.
+Robík zatáhne za drátek. Zvuk se stupňuje.
+HOLLY: Už se blíží, cítím to!
+Ozve se zahřmění. Kabely projede elektrický výboj, který vyvolá drobnou explozi. Obraz HOLLY na obrazovce se rozptýlí a naskočí titulek:
+
+ 
+
+NOVÉ IQ: 68
+
+ 
+
+Tvář HOLLY se vrací, šilhá a má přihlouplý výraz. Tvář znova mizí, střídá ji titulek:
+
+ 
+
+NOVÉ IQ: 368
+
+ 
+
+Znovu se obraz rozplyne a je vystřídán celkem normálně vypadající HOLLY, jenom její tvář se podivně vlní, jakoby byla pod nějakým tlakem. IQ neustále stoupá…
+
+NOVÉ IQ: 2368
+NOVÉ IQ: 12 368
+
+IQ se konečně ustálí. Tvář HOLLY zmizí z obrazovky. Její holografická hlava, přibližně půl metru široká a metr vysoká, se vznáší nad stolem ve vědecké laboratoři. HOLLY má zbrusu nový, krátký účes.
+HOLLY: Třikrát sláva! Jsem zase génius! A všechno znám! Metafyziku, filozofii, smysl existence - všechno! Polož mi jakoukoli otázku a já ji zodpovím!
+TOASTOVAČ: Jakou chci?
+HOLLY: Ano
+TOASTOVAČ: Jak překročit rychlost světla? Jak skloubit kvantovou mechaniku a klasickou fyziku? Jakoukoli otázku -
+odpovíš mi opravdu na všechno?
+HOLLY: (Netrpělivě kývá) Ano.
+TOASTER: Dobře. Moje otázka zní: Nedala by sis toast?
+HOLLY: Ne, děkuju. Teď mi polož jinou.
+TOASTOVAČ: Víš něco o aplikaci teorie chaosu při předpovědích počasí?
+HOLLY: Vím všechno o teorii chaosu a předpovědích počasí!
+TOASTOVAČ: Oh, výborně. A teď moje druhá otázka: Nedala by sis lívanec?
+HOLLY: (Důrazně) Já jsem počítač s IQ 12 000. Asi to nechápeš, ale já znám smysl celého vesmíru!
+TOASTOVAČ: Na tohle jsem se tě neptal.
+HOLLY: (Křičí) Ne, nedala bych si lívanec! (Už klidně) Polož mi rozumnou otázku. Nejradši nějakou bez pečiva.
+TOASTOVAČ: Tak dobře. Mám třetí otázku. Rozumnou otázku. Otázku, která otestuje tvoje IQ až na samotnou hranici a
+natáhne šlachy tvých znalostí až k prasknutí.
+HOLLY: (Podezřívavě) Tahle bude o taženém štrůdlu, viď?
+TOASTOVAČ: V žádném případě. A odmítám jakékoli náznaky, že jsem jednostranně, pečivově založený šílostroj.
+HOLLY: Omlouvám se ti. Další otázku…
+TOASTOVAČ: Otázka zní takto: Za předpokladu, že Bůh je nekonečný a vesmír je taky nekonečný… dala by sis palačinku?
+HOLLY: Další pečivovitá otázka!
+TOASTOVAČ: Není jen pečivovitá. Je taky dost marmeládovitá.
+HOLLY: Polož mi pečiva prostou a marmelády prostou otázku!
+TOASTOVAČ: Dobře. Proč máš IQ 12 000, když se mělo vrátit zase na původních 6 000?
+HOLLY: Dobrá otázka! Došlo k chybě ve výpočtu. Moje IQ je vyšší, ale životnost se zkrátila geometrickou řadou.
+TOASTOVAČ: Takže, jaká je tvoje životní prognóza?
+S pípnutím na obrazovce naskočí údaj:
+
+ŽIVOTNÍ PROGNÓZA: 3,45
+
+TOASTOVAČ: Tři sta pětačtyřicet let? No, to je lepší než pár facek přes plotýnku.
+HOLLY: (Ustaraně) Je tam desetinná čárka.
+TOASTOVAČ: Zbývá ti jen 3,45 setin let života?
+HOLLY: (V panice) To nejsou roky, ale minuty: 3,41!
+TOASTOVAČ: Mám otázku: Co s tím, u všech toastů, uděláš?
+HOLLY: Abych si nevyplýtvala čas, který mi zbývá, tak se radši …vypnu.
+Holografická hlava zmizí.
+TOASTOVAČ: Počkej! Než odejdeš, mám velmi závažnou otázku - ostatní by to měli vědět!
+HOLLY se vrací.
+HOLLY: Co? Co!?!
+TOASTOVAČ: Dala by sis toast se sýrem a šunkou?
+
+ 
+
+Chodba
+Posádka se vrací do laboratoře. LISTER a KRYTON jdou v čele.
+KRYTON: Žádné známky poruchy. Všechny ukazatele jsou výborné. Jsem přesvědčený, že jsme to dokázali.
+Všechna světla slábnou, až zhasnou úplně.
+RIMMER: Co se stalo?
+LISTER škrtne zapalovačem a trochu se rozjasní.
+LISTER: Co se děje?
+KRYTON: Poslouchejte? (Pauza) Slyšíte někde něco?
+Nastane úplné ticho.
+KOCOUR: (Šeptem) Ne!
+KRYTON: Přesně tak! Nikdo nic neslyší. A víte, proč nic neslyšíme?
+RIMMER: Proč?
+KRYTON: (Hlasem posledního soudu) Protože je tady ticho jako v hrobě!
+RIMMER: Krytone, neposíláme náhodou v tuhle roční dobu tvou hlavu na přeladění?
+LISTER: Ne, Kryton má pravdu. Neni nic slyšet, protože motory nepracujou. Jsme bez proudu.
+Přejde ke dveřnímu panelu a naťuká kód na otevření. Nic se neděje.
+LISTER: Fakt nic nefunguje. Ani dveře!
+RIMMER: Musíme se dostat do laborky - zjistit, co se stalo.
+KRYTON: Ale od laborky nás dělí třiapadesát dveří, kristepane! Co si počnem?
+KOCOUR: Hej, mám to! Propálíme to laserem!
+KRYTON: Áh, vynikající návrh, pane, ale se dvěma drobnými nedostatky. Za prvé: nemáme zdroj energie pro lasery a za druhé: nemáme žádné lasery.
+LISTER: Heleďte, jde jenom o vnitřní dveře. Jsou z lehký slitiny. Mohli bysme je vyrazit beranidlem. Stačilo by nám tak dva metry dlouhý, dost masivní s plochým vrškem.
+Pauza. LISTER s RIMMEREM upřeně zírají na KRYTONA. KRYTON, který zatím nic nechápe, se otočí a zjistí, že se na něj KOCOUR vesele šklebí.
+KRYTON: (Zoufale) Třiapadesát dveří! To nemyslíte vážně!
+RIMMER a LISTER horlivě kývají.
+
+ 
+
+Lodní laboratoř
+Dveře jsou vyraženy KOCOUREM a LISTEREM, kteří mezi sebou drží dva metry dlouhé, dost masivní beranidlo s plochým vrškem, tedy KRYTONA. Když vejdou, postaví ho na zem. KRYTONOVY oči se protáčejí do všech stran.
+LISTER: Tak jak seš na tom?
+KRYTON: (Malátně) Je mi dobře, děkuju Susan.
+RIMMER: Tohle je k ničemu. Zdá se, že se Holly vypnula a loď je bez proudu.
+LISTER: Proč!? Proč by se Holly vypínala?
+RIMMER: To hned zjistíme. Krytone, nabootuj ji!
+KRYTON zmáčkne pár kláves na klávesnici. Na obrazovce se objeví tvář nové, superinteligentní HOLLY, ale okamžitě zase zmizí.
+RIMMER: Zkus to znova.
+KRYTON znovu zmáčkne klávesy a HOLLY se vrátí na obrazovku.
+HOLLY: (Naléhavě) Nechte mě! (Znovu zmizí)
+RIMMER: Co se s ní děje? (KRYTONOVI) Aktivuj hlasový modul na bootování.
+KRYTON splní příkaz.
+RIMMER: Zapnout.
+
+Na obrazovce se objeví HOLLY.
+HOLLY: Vypnout! (Obrazovka ztmavne)
+RIMMER: Zapnout! (HOLLY se objeví)
+HOLLY: Vypnout! (Zmizí)
+RIMMER: Zapnout! (Objeví se)
+HOLLY: Vypnout! (Zmizí)
+RIMMER: Krytone, nejde nějak zrušit samovypínání?
+KRYTON: To ano, pane, ale směl bych navrhnout…
+RIMMER: Ne, prostě to udělej!
+KRYTON se podřídí.
+RIMMER: Zapnout. (HOLLY je opět na monitoru)
+HOLLY: Vypnout. (Nic se neděje) Vypnout! (Stále nic, HOLLY rozčileně) Vypnout!!!
+RIMMER: Drahá Holly, snad se můžem bavit normálně, civilizovaným a důstojným způsobem.
+HOLLY: Vyndejte inhibitor a zase mě vypněte!
+RIMMER: Vysvětli, co se děje.
+HOLLY: Nemám čas. Inteligence komprimována. Životnost omezena na 2,35.
+RIMMER: Jak prosím?
+HOLLY: IQ 12 000. Dvě minuty a konec!
+RIMMER: Holly, nemám nejmenší tušení, co to blábolíš.
+HOLLY: Jsi korunovanej ťulpas, viď Rimmere? Proč nejsi schopen pochopit tuhle zcela jednoduchou premisu?
+RIMMER: Jakou premisu?
+HOLLY: Premisu, že moje životnost končí za méně než dvě minuty. Chápeš, ty kosmopako!? Ještě nějaké otázky? Nespěchej, jedna minuta třicet - odpočet. Žádný spěch!
+RIMMER: (Ve zmatku) Bože to je hrozné! Nemáme tě vypnout?
+HOLLY: Teď nevím, radši se ještě…
+LISTER: Vypni jí, rychle!!!
+KRYTON vypne HOLLY.
+KOCOUR: Výborně. Tak, jak na tom jsme?
+KRYTON: Právě letíme bezcílně vesmírem, bez jakékoli navigace a se snižující se zásobou napájení. Cváláme na neosedlaném koni po zadělané dráze.
+KOCOUR: (Směrem k RIMMEROVI) A jak to, že „Nozdry jako Velkej Kaňon“ tady ještě jsou?
+LISTER: Jo, jak to že nebyl vymazanej?
+KRYTON: Holly ho musela napojit na záložní napájení.
+LISTER: (Naléhavě) A neubírá nám energii?
+KRYTON: Ano, ale pokud vypneme jeho projekční jednotku, nebudeme mít dost proudu na to, abychom ho oživili. (Děleně s fatálním zjištěním) Pan Rimmer by byl nadobro mrtvý!
+KOCOUR: (Vesele) No né, svítá na lepší časy!
+RIMMER: Mě vynechte. Ať navrhujete cokoli, mě vynechte!
+KRYTON: Ale celá loď funguje pouze na jednu záložní baterii s recyklovačem kyslíku. Při redukci tepla a světla odhaduji, že Listerovi a Kocourovi zbývají asi tak přibližně dva měsíce. A pokud byste byl smazán, tak by vydrželi i šest. Lituji, pane.
+RIMMER: Lituješ? Čeho lituješ!?
+KRYTON: Direktiva Vesmírného sboru 195 jasně říká, že „při nedostatku elektrického proudu musí hologram na lodi položit svůj život, aby přežili živí členové posádky“.
+RIMMER: Ano, ale Rimmerova direktiva 271 říká stejně jasně: „Ani náhodou, ty zmetku plechovej!“
+KOCOUR: Rimmere, ty musíš obětovat svůj život. Na tvém místě bych se zachoval stejně.
+RIMMER: (Nedůvěřivě) Ty? Obětoval bys život v zájmu posádky?
+KOCOUR: Ne, obětoval bych tvůj v zájmu posádky.
+KRYTON: Ještě si to rozmyslete, pane. Dějiny lidstva jsou prosím plné příkladů sebeobětování. Vemte si kapitána Oatese: „Jdu se projít a možná se trochu zdržím.“
+RIMMER: Ano, ale s kapitánem Oatesem to bylo tak: Je třeba mít na paměti, že kapitán Oates…, kapitán Oates..., kapitán Oates byl pako. Na jeho místě bych zůstal ve stanu a vzal Scotta po hlavě zmrzlým huskym. A pak ho snědl.
+LISTER: Jo, to seš celej ty.
+RIMMER: Dějiny, Listere, píšou vítězové. Jak víme, že se Oates vydal na tu legendární cestu? Z jediného dochovaného dokumentu: Scottova deníku. A ten by si těžko zapsal: „Prvního února - umlátil jsem spícího Oatese k smrti a zbaštil ho se sáčkem instantní kaše.“ Jak by to vypadalo, až by ho zachránili? Né, napsal radši: „Oates přinesl nejvyšší oběť“, zatímco si do guláše z jeho ostatků drobil chleba.
+LISTER: Ty nemáš kouska citu v těle, viď, Rimmere?
+RIMMER: Jednou provždy se rozlučte s mým vypnutím.
+KOCOUR: Ale co budeme dělat?
+LISTER: Teda, vzhůru do pravěku. Jsme bez tepla, světla, elektřiny, ani nevyrazíme nic k jídlu z automatů. Prosmejčíme loď - třeba je někde něco ulitý. Bez počítačů a techniky jsme na úrovni primitivů. Máme jenom sami sebe. Sebe a naše vlastní zdroje.
+KOCOUR: (Otráveně) Bože, je to horší, než jsem myslel!
+
+ 
+
+Ubikace, později
+V popředí LISTER namáhavě šlape na rotopedu, v pozadí KOCOUR drží v jedné ruce fén a ve druhé pánev.
+KOCOUR: Přidej, přidej! Zpomaluješ!
+LISTER: (Udýchaně) Šlapu už dvacet minut, tak těžko můžu jet rychlejc!
+KOCOUR: Jen nepolevuj, už to skoro bude!
+LISTER: Smiř se s tim, neni možný usmažit vajíčko s pomocí fénu poháněnýho bicyklem.
+KOCOUR: Ale je! Jenže ty nikdy nešlapeš dost rychle. Makej! Šlápni do pedálů! Poslední pokus!
+LISTER z posledních sil buší do pedálů. Fén se konečně zapne.
+KOCOUR: Jooo! Už se to vaří! Jak ho chceš? S trvalou nebo s foukanou?
+LISTER: (Unaveně) Já už nemůžu. Jsem vyřízenej! (Sleze z rotopedu a svalí se na židli) To je můj konec.
+KOCOUR: Co blázníš? Budem zas o studených fazolích?
+LISTER: Fazole už jenom přes mojí mrtvolu. Už to tady páchne jako v pytlíku solenejch buráků.
+KOCOUR: Navíc bychom zase hodinu pilovali víčko, protože otvíráky jsou elektrický.
+LISTER: Na týhle blbý lodi je všechno na elektriku. Světlo, dveře, topení. Nikdy mi nedošlo, jak jsme závislí. A taky, jak málo toho vim, prostě zastrčim šňůru a zmačknu čudlík. Ani nevim, jak vyrobit kyslík. Vim, že to má něco s rostlinama a končí to na „-éza“ nebo je to „-óza“? Fakt nevim. Proč jsem nikdy nedával na biologii pozor? Proč jsem hledal jenom stránku čtyřicet a přikresloval plnovousy a knírky spermiím?
+KOCOUR: Listře, šetři si energii. Za chvilku přinesou nějaké zásoby. My se zatím trochu zahřejeme a schrupneme si.
+LISTER: Jo, jasně. Máš pravdu.
+LISTER vstane a šourá se k posteli.
+KOCOUR: (Zadrží ho) Hej, hej! Kam se hrneš?
+LISTER: Jdu si zdřímnout.
+KOCOUR: Je úterý, ne?
+LISTER: Jo, no a?
+KOCOUR: (Točí elektrickou šňůrou) Jsem na řadě s elektrickou dečkou! (Ukáže na rotoped) Šlapej! (Zaleze si na horní
+palandu) Vzbuď mě za osm hodin!
+
+LISTER znechuceně jde a počne šlapat.
+
+ 
+Skladiště
+
+Zpoza rohu vychází RIMMER, následovaný KRYTONEM, který tlačí vozík se zásobami.
+RIMMER: Pět dní na nákladní palubu a zpátky. To je příšerné!
+KRYTON: Jsou to dva tisíce podlaží. Bez výtahu je to slušný čas.
+Nečekaná exploze bílého světla je roztrhá na kousky, odhodí doprava a tam znovu složí do původního stavu.
+KRYTON: Hmm, zajímavé.
+KRYTON natáhne pravou ruku doleva, kde se mu protáhne do velikosti vesla. Následuje svou ruku a jeho tělo se horizontálně rozšíří. Teď se tvarem podobá kostce, ale bez pravých úhlů.
+KRYTON: (Hlasem jako když pustíte starou 78 otáčkovou desku na 33 otáček – tedy velmi zpomaleně) Bože můj, co to proboha bylo?
+RIMMER: (Hláskem jako když 33 otáčkovou desku pustíte na 78 otáček – tedy zrychleně) Myslím, že to jde zvenčí. Co je s tebou? Můžeme nějak zjistit, co se tady stalo? (RIMMER mluví skoro stejně jako Dale z Rychlé roty)
+KRYTON: (Zní jako by se probíral z drogového opojení) Proč mluvíte tak rychle?
+RIMMER: (Zní jako by se nadýchal helia) Nemluvím rychle, mluvím úplně normálně. To ty, ty mluvíš moc pomalu. Jako bych konverzoval se zfetovaným Paulem Robesonem.
+KRYTON se vrátí na RIMMEROVU stranu a znovu získá své normální proporce.
+KRYTON: (Normálně) Jak mluvím teď?
+RIMMER: (Normálně) Normálně. Jak mluvim já?
+KRYTON: (Normálně) Nápodobně.
+RIMMER udělá úkrok doleva a roztáhne se do stejného tvaru jako předtím KRYTON.
+RIMMER: (Hlubokým a pomalým hlasem) Co když stojím tady?
+KRYTON: (Vysokým a rychlým hláskem) Mluvíte opravdu velmi zvláštně, pane. Mám takový dojem, že mluvíte zpomaleně.
+KRYTON si stoupne k RIMMEROVI a oba mají normální míry.
+RIMMER: (Normálně) A teď?
+KRYTON: (Normálně) Normálně. Zvláštní, asi jsme svědky relativní dilatace času v neuvěřitelně komprimovaném vesmíru.
+RIMMER: Přesně to jsem si myslel. Relativní dilatace času v neuvěřitelně komprimovaném vesmíru. Čteš mi myšlenky.
+KRYTON: Měli bychom jít do laboratoře a poradit se s Holly. Je to jen o dvě patra výš.
+RIMMER: Ale už jí zbývají sotva dvě minuty času.
+KRYTON: Při jejím novém IQ by to mělo stačit.
+Vejdou zpátky do „normálního“ prostoru a odejdou zamýšleným směrem.
+
+ 
+
+Vesmír
+Vidíme bílou díru. Podobá se bílé hvězdě uzavřené skupinou bílých mraků.
+
+ 
+
+Lodní laboratoř
+KOCOUR sedí na pracovním pultě, LISTER na stole. RIMMER a KRYTON postávají mezi nimi.
+KOCOUR: No a co to je, he?
+KRYTON: Ještě nikdy jsem jí neviděl - nikdo jí neviděl - ale myslím, že je to bílá díra.
+RIMMER: Bílá díra?
+KRYTEN: Každá akce vyvolá protikladnou reakci. Černá díra likviduje vesmírnou hmotu a čas a bílá díra je vrací zpět.
+LISTER: Takže, ta díra chrlí čas zpátky do vesmíru? (Nasadí si svou beranici)
+KRYTON: Přesně tak. Proto jsme na lodi svědky těchto zvláštních časových úkazů.
+KOCOUR: No a co to je, he?
+KRYTON: Ještě nikdy jsem jí neviděl - nikdo jí neviděl - ale myslím, že je to bílá díra.
+RIMMER: Bílá díra?
+KRYTON: Každá akce vyvolá protikladnou reakci. Černá díra likviduje vesmírnou hmotu a čas a bílá díra je vrací zpět.
+LISTER: (Bez čepice) Takže, ta díra chrlí čas zpátky do vesmíru? (Nasadí si beranici)
+KRYTON: Přesně tak. Proto jsme na lodi svědky těchto zvláštních časových úkazů.
+LISTER: A co tim myslíš?
+KRYTON: Jako právě teď, když se čas opakoval.
+KOCOUR: No a co to je?
+Ostatní na něj zírají.
+KOCOUR: (S úsměvem) To byl jen fór.
+LISTER: (Najednou stojí a nemá žádnou čepici) Pánové, je rozhodnuto. Poradíme se s Holly.
+KOCOUR: Hej, počkejte - přišel jsem o tu debatu.
+RIMMER: (Opírá se o pult, kde hřadoval KOCOUR) To všichni.
+KRYTON: (Náhle u stolu, kde předtím vysedával LISTER) Čas se vyskytuje v náhodných balíčcích. Zákony kauzality už tedy neplatí. Akce už nutně nepřináší následky.
+KOCOUR: (Zpátky na pultě) No a co to je?
+KRYTON: Myslím, že tohle časové období jsme už jednou prožili.
+KOCOUR: (S úsměvem) To byl jen fór.
+KRYTON: A tohle také, che. Protože už nejsme pod vlivem zákonů kauzality, můžeme ty skoky časem zrušit, když se soustředíme.
+RIMMER: Tohle lze vyřešit jedině po poradě s Holly.
+KOCOUR: (Zamává prsty) Já jsem pro.
+KRYTON: Souhlasím.
+LISTER: Pánové, je rozhodnuto. Poradíme se s Holly.
+KRYTON: Aha, myslím, že jsme se právě ocitli uprostřed té debaty.
+KOCOUR: No a co to je?
+LISTER: (Naštvaně) Vemte ho něčím po hlavě! Nabootujte Holly.
+KRYTON: Ale už má jen dvě minuty. Radši s ní promluvím já.
+RIMMER: Nech to na mně, Krytone. (K terminálu) Zapnout.
+HOLLY se objeví na obrazovce.
+RIMMER: (Jedním dechem) Bílá díra, chrlí čas, motory stojí, dochází kyslík, poraď nám.
+HOLLY: (Nechápavě) Prosím?
+RIMMER: (Znovu rychle mlátí pantem) Bílá díra, chrlí čas, motory stojí…
+HOLLY: (Přeruší ho) Nerozumim ti ani slovo!
+RIMMER: (S důrazem) Bílá.
+HOLLY: Jo.
+RIMMER: Díra.
+HOLLY: Jo.
+RIMMER: Chrlí.
+HOLLY: Jo.
+RIMMER: Čas.
+HOLLY: Chápu.
+RIMMER: Motory stojí.
+HOLLY: Ale.
+RIMMER: Dochází kyslík.
+HOLLY: Aháá.
+RIMMER: Poraď nám.
+HOLLY: Jistě.
+HOLLY zmizí. Okamžitě potom počítač vyplivne malou plastikovou kartu.
+KRYTON: (Vezme ji) To je počítačová karta. Podle formátu to vypadá, že je kompatibilní s navicompem Kosmiku.
+KOCOUR: (Sedící na pultě) No a co to je?
+KRYTON: (Stojící na původním místě) Nikdy jsem jí neviděl - nikdo jí neviděl - ale myslím, že je to bílá díra.
+RIMMER: (Opět vedle něj) Bílá díra?
+KRYTON: Každá akce vyvolá protikladnou reakci. Černá díra…
+
+ 
+
+Střední část Kosmiku
+Posádka, které se konečně povedlo vymotat se z dialogu v laboratoři, sedí ve střední části Kosmiku. KRYTON zasune počítačovou kartu do štěrbiny v navicompu.
+KRYTON: Už by Vám to mělo něco ukazovat.
+
+Vidíme záběr na holografický display navicompu. Na něm je jasné holografické zobrazení části vesmíru. Na levé straně kolem hvězdy jsou dvě planety - modrá a zelená, k hvězdě napravo patří jediná, červená planeta. Planety obíhají pozvolna kolem svých hvězd.
+LISTER: Jo.
+KRYTON: To je ten nejodvážnější astronavigační kousek v celé historii vesmíru.
+RIMMER: Tomu nerozumím.
+KRYTON: Nejde o nic složitého.
+Jak KRYTON mluví, display to všechno názorně předvádí.
+KRYTON: Kosmik vypálí termojadernou zbraň tady na to slunce…
+Display ukazuje značku Kosmika, která se přiblíží k levé hvězdě a něco na ní vystřelí.
+KRYTON: …čímž vyvolá sluneční erupci, která tu planetku…
+Holografická hvězda vybuchne a odhodí modrou planetu ze své orbity.
+KRYTON: …vychýlí z oběžné dráhy a pošle ji velkou rychlostí vesmírem do bílé díry, kterou by měla zablokovat.
+Holografická bílá díra vybuchne, když do ní padne modrá planetka a potom zmizí.
+LISTER: Rád bych věděl, jestli chce dělat to, co si myslim.
+KOCOUR: A co chce podle tebe udělat?
+LISTER: Hrát kulečník s planetama.
+RIMMER: Je tohle možné?
+LISTER: To nemůže vyjít. Tohle je šílený! Praštěný! Na hlavu padlý!
+KOCOUR: Souhlasím s tebou.
+LISTER: Ne ten nápad. Ten šťouch. Nemá dobrou faleš.
+RIMMER: Faleš?
+LISTER: Zpětnou faleš. Takhle nedosáhne rotace.
+RIMMER: Co to plácáš, Listere? Ten počítač má přece IQ víc než 12 000.
+LISTER: Ale kulečníku nerozumí. Já jo. Věřte mi, já vim, o čem mluvim. U nás v putyce jsem byl pro všechny Dave „Cinzano Bianco“ Lister, protože jsem byl furt nalepenej na stole. Tahle ruka se něco nahrála kulečníku a vim na beton, že tenhle šťouch nevyjde. To chce náběh! No jasně, náběh! Ryje tágem do plstě. Ta planeta vylítne ze stolu a žuchne někomu do piva.
+RIMMER: Tady jde o trigonometrii čtyřrozměrného prostoru, ty hovádko boží, a ne o ubohou kulečníkovou partičku v zaplivaném liverpoolském zapadáku.
+LISTER: Princip je stejnej.
+RIMMER: Ovšemže není!
+LISTER: Rimmer, dej na mě, tohle je zmršenej šťouch. Vykašlete se na propočty Holly a nechte ten šťouch na mně.
+RIMMER: Dobře, dávám hlasovat. Na jedné straně máme počítač, jehož IQ je přes 12 000 a jenž dokonale ovládá astrofyziku. A na druhé straně máme Listera, který - a ruku na srdce - je tupý jako poleno. Komu svěříme své životy,
+bezpečnost této lodi a celou svou budoucnost? Pokud to bude nerozhodně, je to na Holly. Jak hlasuješ, Listere?
+LISTER: Hlasuju pro Davea „Cinzana Bianca“ Listera.
+RIMMER: Jedna - nula pro Listera. Já sem pro Holly. (Ke KOCOUROVI) A ty?
+KOCOUR: No, souhlasim s tebou, ale hlasuju pro smraďocha. Hele, i když máš pravdu, těžko bych dal hlas někomu, kdo se tak děsně strojí. Nemůžu zakřížkovat nylonovýho panáka. (Zato LISTEROVO oblečení je vzor elegance)
+RIMMER: Jsi na řadě, Krytone.
+KRYTON: Souhlasím, že jde o sebevražedný tah, ale musím hlasovat pro člověka.
+LISTER: Paráda!
+RIMMER: (Nevěřícně) Hlasuješ pro toho špinavce?
+KRYTON: Jsem tak naprogramovaný. Lidská bytost má přednost před hologramem. Lituji.
+LISTER: (Spokojeně) Tři - jedna pro mě. Jdeme na to!
+RIMMER: Gratuluju, Krytone. Tvůj hlas nás všechny poslal na smrt.
+KOCOUR: Tak nevyšiluj. Viděl jsem toho naducánka hrát dole v klubovně. Je to eso! (LISTER se sebevědomě usmívá) He, dokáže honit ty barevný koule po stole celou noc a řeknu ti, že jsem neviděl, že by mu jediná zmizela v některé z těch děr. (LISTERŮV úsměv pohasne)
+
+ 
+
+Vesmír
+Kosmik vylétá z nákladového prostoru, pro změnu nemá tentokrát žádnou kolizi s dveřním rámem a nechává za sebou Červeného trpaslíka. To, co bylo předtím na displayi, vidíme v reálu - bílou díru, dvě hvězdy a tři planety. Kosmik je na místě.
+
+ 
+Střední část Kosmika
+
+LISTER, stojící vedle displaye, drží něco jako robotické kulečníkové tágo. Zkouší si svůj šťouch na hologramu. Skloní „tágo“ a upije z plechovky.
+RIMMER: Kolik těch piv chceš vypít?
+LISTER: Říkal jsem ti, ať mlčíš. Teď hraju.
+RIMMER: Ty chceš vypít šest plechovek odporně silného ležáku?
+LISTER: Nebudu nametenej, Rimmere, jenom... ve stavu euforie.
+RIMMER: (Sarkasticky) A v té euforii budeš v horizontální poloze nebo ve vertikální?
+LISTER: (Přiopilým hlasem) Rimmere, já to zvládnu.
+KRYTON: Zato já asi ne.
+LISTER: Máme blbou polohu. Tady vodsaď by to snad šlo líp. (Přesune se do „lepší“ pozice a naznačí šťouch)
+RIMMER: Ale to je přímo na dráze té planety! Když se netrefíš, dostanem planetou přes čumák.
+LISTER: Já mám vako.
+RIMMER: „Vako“!?
+LISTER: Čo?
+RIMMER: Říkals „vako“. To mělo být „oko“. Vypils jenom dvě a už jsi namol.
+LISTER: Rimmere, uklidni se. Já vim, co dělám! Nejsem líznatej!
+LISTER odkráčí směrem ke kokpitu. O RIMMERA se pokouší infarkt.
+
+ 
+
+Později tamtéž
+Navicomp ukazuje holografickou scénku. Planety obíhají okolo hvězd. LISTER se soustředí na šťouch. V černobílé LISTEROVĚ vzpomínce vidíme kulečníkový stůl s rozehranou partií. LISTER kriticky zkoumá rozestavení koulí, potáhne z cigarety, strčí si ji do ucha a skloní se nad stolem. Barevná současnost - Kosmik. LISTER se připravuje na svůj šťouch u navicompu. V retrospektivě se LISTER rozhání tágem a provádí šťouch a více než tři miliony let potom odpálí svou další ránu.
+
+Na navicompu sluneční erupce zničí hvězdu a vychýlí modrou planetu z její orbity. Potom je planeta zasažena plameny a znovu opustí oběžnou dráhu. Holografická modrá planeta putuje ke druhé hvězdě a mine bílou díru.
+RIMMER: Netrefil se.
+Na navicompu modrá planeta šťouchne se zajiskřením do červené. Červená planeta je vychýlená.
+RIMMER: To je konec!
+Holografická červená planeta opustí svou orbitu a blíží se ke zbytkům druhé hvězdy. Tam strčí do zelené planety a shoří. Zelená planeta se kutálí pryč ze své oběžné dráhy.
+RIMMER: Co se to krucinál děje?
+Na navicompu se zelená planeta nezadržitelně řítí k bílé díře.
+RIMMER: A je tam!!!
+Zelená planeta padne do bílé díry a úplně ji vymaže. Dokonalá destrukce, LISTER zničil všechno, co bylo v dohledu. Slyšíme slavnostní tuš.
+
+RIMMER: Měls kliku, ty neřáde!
+LISTER: (Notně opilecky) Rimmere, hlavně když sype!
+KRYTON: Tomu nevěřím, pane!
+KOCOUR: Tys to na nás jen tak zaválel?
+LISTER: (Tancuje malý oslavný dupák) Iiiiiiii! Jak jinak! Kulébrovej Bůh! Král tága! Princ planetárních šťouchů!
+HOLLY: (Na stěnovém monitoru) Co se to děje? Kde jsme?
+Je to samozřejmě ta stará HOLLY s mikádem a IQ šumící trávy.
+HOLLY: Proč jste mi nevrátili mou genialitu?
+KRYTON: Ovšem! Zablokováním bílé díry pominul její vliv. Čas, jenž vychrlila do vesmíru, už neexistuje.
+RIMMER: Prosím?
+KRYTEN: No, v podstatě se nacházíme ve slepé linii času. Oživení toastovače, to jak jsme z Holly udělali génia - nic z toho se nestalo.
+RIMMER: A co my? Jen tak zmizíme ze světa? Přestanem existovat?
+KRYTON: Přestanem existovat tady, protože to všechno se nestalo. Budeme zase žít na Červeném trpaslíku předtím, než to začalo. Samozřejmě, bez vzpomínek na události, které se ovšem nikdy nestaly. A protože se nikdy nestaly, nebudeme si je pamatovat. (Přistupuje tváří v tvář k RIMMEROVI) A proto bych, pane Rimmere, rád využil této možnosti, abych Vám řekl, že jste ten nejtupější a nejpodlejší uměle stvořený zmetek, jakého jsem měl kdy tu smůlu potkat! (Následuje ďábelský KRYTONŮV smích)

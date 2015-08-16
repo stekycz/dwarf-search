@@ -1,0 +1,5 @@
+services:
+	- DwarfSearch\Searching\SearchManager
+	- DwarfSearch\Elastic\MappingCreator
+	- DwarfSearch\Characters\CharacterFinder
+	- DwarfSearch\Episodes\EpisodesFinder

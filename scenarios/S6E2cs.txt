@@ -1,0 +1,835 @@
+Kuchyňka Kosmiku
+
+RIMMER vchází do kuchyně, kde KRYTON právě krájí mrkev.
+
+RIMMER: Je deset, střídáme. Máš pro mě něco?
+
+KRYTON: Stále se opožďujeme za Trpaslíkem. Dělí nás od něj čtyřiadvacet hodin. Jinak to byla docela klidná směna, až na jeden menší šok před pár hodinami, kdy jsme si všimli invazní flotily mimozemšťanů na pravoboku. Díkybohu se ukázalo, že to je starý kýchanec pana Listera, který zaschl na monitoru.
+
+RIMMER: Jak jsme na tom s palivem?
+
+KRYTON: Zatím beze změny. Ovšem zásoby potravin se nám nepříjemně tenčí. Vodu jsme už recyklovali tolikrát, že chutná jako holandský ležák.
+
+RIMMER: Ale jídla máme dost, ne?
+
+KRYTON: Mezi námi, pane, ne! Nemáme maso, luštěniny a skoro žádnou rýži. A co je horší, lékořicové bonbóny jsou jen ty černé, zakroucené, které nikdo nejí. A korunou všeho jsou vesmírní mouční moli, kteří sežrali obilí.
+
+RIMMER: Tak co to griluješ?
+
+KRYTON: Vesmírného mola.
+
+Vytáhne pánev z grilu. RIMMER se s odporem odvrací.
+
+RIMMER: Nemůžeš podávat vesmírného mola. Ani Lister s posledním zbývajícím chuťovým pohárkem nebude pojídat tu hmyzí verbež. V jeho případě by šlo o kanibalismus.
+
+KRYTON položí ugrilovaného mola na talíř a přizdobí ho čerstvou zeleninou.
+
+KRYTON: Ale je nesmírně výživný. Koneckonců, živí se obilím.
+
+RIMMER: Tohleto jíst nebude.
+
+KRYTON: Důvěřujte mi, pane. Říká se, že člověk jí očima. Záleží na tom, jak ho upravíte.
+
+Přidá na jídlo ještě nějaké koření a pak zvedne talíř jednou rukou jako číšník.
+
+KRYTON: Et voila!
+
+Kokpit Kosmiku
+
+Mezitím v kokpitu - LISTER znuděně sedí u řídícího pultu. Vedle něj se povaluje časopis. Přichází KOCOUR.
+
+KOCOUR: (Ve dveřích) Střídáme! Něco nového?
+
+LISTER popadne svůj časopis a vstane.
+
+LISTER: Nic moc. Elektrická bouře, mimozemšťani, falešnej poplach … jako obvykle.
+
+KOCOUR se otočí k LISTEROVI, který míří ven.
+
+KOCOUR: Koukej, jak to tu vypadá! Proč nikdy neuklidíš, když se střídáme?
+
+LISTER krčí rameny. KOCOUR si sedne do křesla, které LISTER právě uvolnil.
+
+KOCOUR: Co je to tady sakra pod mou židlí? Buráky?
+
+LISTER: (Nevinně) Né, stříhal jsem si bradavice.
+
+KOCOUR: (Zhnuseně) Nad tvými zlozvyky by se červenala i opice.
+
+LISTER: Ty si fakt myslíš, že jsem odpornej úchyl, co? Jsou to buráky, jasně.
+
+KOCOUR: Doopravdy?
+
+LISTER: Jo.
+
+KOCOUR: (Hodí si jeden burák do pusy) Kdes je našel?
+
+LISTER: Na tom vraku před nedávnem, ve starym mundúru toho mrtvýho kapitána.
+
+KOCOUR ztuhne a zírá na něj.
+
+LISTER: No neksichti se tak, tobě taky chutnala ta mentolka, ne?
+
+KOCOUR: A kdes jí vzal?
+
+LISTER: Cucal ji, když ho zastřelili. Musel jsem mu rozevřít čelisti heverem.
+
+KOCOUR: Uh, ty si myslíš, že skočím na všechno, co řekneš, že jo? To jsi na omylu. Koukej vypadnout! Teď si musím dát bacha na ten asteroid ve tvaru tančícího losa, o kteréms mluvil.
+
+Střední sekce Kosmiku
+
+LISTER vychází z kokpitu.
+
+LISTER: Ahoj, puso, už jsem doma.
+
+Usadí se ke stolu, když vidí přicházet KRYTONA a RIMMERA. KRYTON před něj položí zakrytý podnos a videokazetu.
+
+KRYTON: Večeře, pane. A večerní film. Lituji, pane, je to zase naučný snímek. Prosím, nebijte mě.
+
+LISTER zvedne poklop z podnosu a ztuhne. Soustředěně zírá na obsah talíře.
+
+LISTER: (Mrazivě) Co je tohle?
+
+KRYTON: Pane?
+
+LISTER vyndá z talíře potravinu, která ho pohoršila.
+
+LISTER: Syrová mrkev? Krytone, víš jakej mám názor na čerstvou zeleninu - ta je pro vegetariány, vitamínový paka... (Štítivě odhodí mrkev na stůl) ...co cvičej.
+
+KRYTON: Nezlobte se, pane.
+
+LISTER otevře časopis a ukousne si z odporně vypadajícího mola. Zarazí se s výrazem rozmrzelosti a odporu ve tváři.
+
+KRYTON: Něco není, jak má?
+
+LISTER: To teda není. Ňákej vůl vyplnil ten kvíz - „Slouží ti paměť?“
+
+KRYTON: Ale to jste byl Vy, pane. Minulý týden.
+
+LISTER: Fakt?
+
+KRYTON: Hm. Podívejte: Nikdo jiný nepíše čtvrtek se „š“.
+
+LISTER: To víš, já chodil na uměleckou školu.
+
+LISTER pokračuje v přežvykování.
+
+RIMMER: (Nakloní se k němu) Jaká je večeře, Listy?
+
+LISTER: (S plnou pusou) Výborná. Nevěděl jsem, že máme ještě garnáty.
+
+KOCOUR se objeví ve dveřích kokpitu a vypadá znepokojeně.
+
+KOCOUR: Nerad vás obtěžuju s technikou, ale všichni na palubu, vířivá věc na obzoru!
+
+Kokpit
+
+V kokpitu je pohotovost. Všichni čtyři už zaujali svá místa. KOCOUR je na sedadle hlavního pilota vpravo vpředu, LISTER vedle něj nalevo u komunikátoru a navigace. RIMMER sedí za LISTEREM u krátkodosahových senzorů a KRYTON vzadu vpravo kontroluje lodní systémy a dálkové senzory.
+
+LISTER: Kde?
+
+KOCOUR: Ještě není na radaru, ale cítím jí.
+
+RIMMER: Tady nic.
+
+KRYTON: Široko daleko nic. Pane, co když tu jen řádil čichový šotek?
+
+KOCOUR: (Dotčeně) Hele, ty placatá hlavo, mé chřípí vibruje rychlejc než péra v posteli Španěla o líbánkách. Říkám vám, že tam něco je!
+
+KRYTON: Nemusíte hned mňoukat jako Janek. Vaše čichová integrita je nám svatá.
+
+RIMMER: Modrý poplach!!!
+
+LISTER: Co blbneš? Koho chceš plašit? Jsme všichni tady.
+
+RIMMER: Dost by se mi ulevilo, kdybych věděl, že jste připraveni k akci a berete situaci vážně.
+
+LISTER: Za co nás sakra máš?
+
+RIMMER: Můžu vám připomenout direktivu 34123?
+
+KRYTON: 34123? „Se zubní protézou se nevěnujte orálnímu sexu při stavu beztíže.“
+
+RIMMER: Táhněte k čertu nebo do Haagu! Já chci vyhlásit modrý poplach!
+
+LISTER: Tak jo, jenom klid.
+
+Stiskne knoflík a nápis „Poplach“ začne modře blikat.
+
+RIMMER: Děkuju. Konec amatérismu.
+
+KRYTON: Moment! Něco mám - dám to na monitor.
+
+ 
+
+Vesmír
+
+Pohled na oranžovou věc podobnou kometě.
+
+Kokpit
+
+LISTER: Na loď je to moc malý ... možná řízená střela.
+
+KRYTON: To zatím nelze rozpoznat. Ale je jasné, že mají mnohem vyspělejší techniku než my.
+
+LISTER: To měl i albánskej státní podnik na pračky.
+
+RIMMER: Červený poplach!
+
+KRYTON: Pane, jste si naprosto jistý? To znamená vyměnit žárovku.
+
+RIMMER: Vždycky si najdete nějakou výmluvu.
+
+LISTER: Vzdálenost 5 000 vágusů a přibližuje se.
+
+KRYTON: Letí přímo na nás. Úhybný manévr.
+
+KOCOUR: Zapínám forsáž.
+
+ 
+
+Vesmír
+
+Kosmik se snaží uhnout.
+
+Kokpit
+
+LISTER: Je nám v patách!
+
+KOCOUR: Jo.
+
+LISTER: Nějakej druh infrastřely - neutečem jí!
+
+KOCOUR: To je konec! Jsme pasé jako klobouky!
+
+RIMMER: (Ke KRYTONOVI) Co navrhuješ?
+
+KRYTON: Pane, nejlépe bude, když mě nabijete do zpětných trysek a potom mé tělo použijete jako živou střelu. Následkem čehož bych byl rozprášen po vesmíru a nemohl dokončit velké prádlo, za což se vám předem omlouvám.
+
+RIMMER: Krytone, nech toho žvanění a vlez do té trysky.
+
+KRYTON kývne a odchází.
+
+LISTER: Krytone, sednout! Nemám chuť si žehlit sám.
+
+KRYTON se opět usadí.
+
+RIMMER: Třeba se s tím rozumně domluvíme. Otevři komunikační kanály, vysílej na všech frekvencích a ve všech známých jazycích, včetně velštiny.
+
+LISTER splní jeho požadavek.
+
+RIMMER: Pověřený vyšší důstojník Arnold J. Rimmer z Jupiterské důlní společnosti se hlásí z lodi Kosmik. Dávejte pozor, nebudeme to opakovat: Vzdáváme se bez jakýchkoli podmínek, děkujeme. A ještě dodatek: díky za váš drahocenný čas, promiňte. Moc děkujeme. Pa. Promiňte. Děkujeme. Sbohem.
+
+LISTER: Rimmere, ty seš podělanej víc než splašený stádo velbloudů se salmonelózou.
+
+RIMMER: S něčím se vám svěřím. Jako generál George Patton věřím v reinkarnaci. A jsem pevně přesvědčen, že jsem byl ve všech svých minulých životech vojákem, chrabrým válečníkem, (Postaví se) jenž bohužel v této inkarnaci dostal tělo bídného poseroutky. Takže mě omluvte, jdu se vyrovnat se záchvatem paniky pod stolek scanneru.
+
+Odběhne dozadu.
+
+KOCOUR: Už je to tady!
+
+LISTER: Pět vagusů do srážky, držte si výplatní sáčky!
+
+ 
+
+Vesmír
+
+Kosmik zasáhne střela. Okamžitě potom je uzavřen do obrovské koule, která je tvořena stovkami zářících bodů spojených do sítě a vypadá jako počítačový model molekuly.
+
+Kokpit
+
+Uvnitř v kokpitu má všechno oranžový nádech.
+
+KOCOUR: Řízení nefunguje!
+
+RIMMER, který zjistil, že jsou stále naživu, se vrací.
+
+RIMMER: Saturne dobrý, co to bylo?!
+
+KRYTON: Nějaký vlečný paprsek. Stahuje nás dolů.
+
+LISTER: Brzdící motory.
+
+KOCOUR: Nejdou.
+
+LISTER: Záložní proud?
+
+KOCOUR: Nejde.
+
+LISTER: Joystick?
+
+KOCOUR: Nic. Celý panel je pohřbený jako kalhoty do zvonu s kapsami na kolenou.
+
+KRYTON: Zachytil jsem zdroj paprsku. Podívám se na to.
+
+ 
+
+Vesmír
+
+Kosmik je stahován k neznámé, důmyslně vypadající vesmírné stanici. Vlečný paprsek ho dovede až k hlavní ose stanice a pak s ním zamíří k hangáru. Kosmik, obklopený sítí, přistává v hangáru. Hangár je z bílého mramoru a má šachovnicovou podlahu. Síť po přistání zmizí.
+
+Ubikace Kosmiku
+
+RIMMER: Tak co je to?
+
+LISTER: Vypadá to, že nás polapil nějakej porouchanej naváděcí paprsek, (Zní trochu rozhořčeně) kterej pomáhá lodím při přistávání. Už jsme ho ale zneškodnili.
+
+KOCOUR: Je tady někdo?
+
+LISTER: Žádnej život, nic.
+
+KRYTON: Identifikátor je paličatý jak mezek. Jediné, co jsem dostal z jeho protivného CD, bylo něco o vojenském výzkumu. Nechtěl mi udat podrobnosti, jen jména fyziků, kteří na něm pracovali - Heideger, Davro, Holder, Quayle - prostě géniové třiadvacátého století. Takové mozky musely bádat nad něčím mimořádným.
+
+RIMMER: Hmm. Nešlo by to něco šlohnout?
+
+LISTER: Vždycky se dá něco štípnout.
+
+RIMMER: Pánové, strategie je jasná. Vyzbrojíme se a jdem na nákup!
+
+Chodba na stanici
+
+Všichni společně vcházejí do stanice. Ta vypadá opravdu jako nákupní středisko, ale je mnohem čistší a elegantnější. KRYTON drží psychoscan, který vydává tiché zvuky. Nedojdou moc daleko, když se KOCOUR zastaví a zavětří.
+
+LISTER: Co je? Máš něco?
+
+KOCOUR: Nevím jistě. Něco mám.
+
+Podivná mlha prolétne kolem nich a odvane dozadu. Nikdo si jí nevšimne.
+
+KOCOUR: Ale je to mimo moje čichové spektrum.
+
+Mlha přistane vlevo nahoře, kde se zhmotní v postavu, která sleduje příchozí. Zvuky z psychoscanu zesílí až se spojí v naléhavý tón.
+
+KRYTON: Zvláštní - známky života.
+
+RIMMER: Proč se to neukázalo předtím?
+
+CIZINEC přímo před nimi vystoupí z výtahu. Má zelenou kombinézu s viditelným pletencem stříbrných střev a na tváři masku s šikmýma očima a hadičkou v ústech.
+
+CIZINEC: Vítám vás, přátelé. Uplynulo mnoho století od doby, kdy jsem tu měl naposledy návštěvu. (Obrátí se na KRYTONA) Vy jste jistě Kryton.
+
+Potřese mu rukou a přejde k RIMMEROVI.
+
+CIZINEC: A vy jste Rimmer, hologram. Mohu?
+
+Než může RIMMER zareagovat, natáhne CIZINEC ruku a uchopí RIMMEROVO holosrdce. RIMMER se začne vytrácet až zmizí úplně. CIZINEC otevře holosrdce ...
+
+CIZINEC: Tak co?
+
+.... a začne z něj vytahovat dráty, zatímco si pro sebe mumlá…
+
+CIZINEC: Ano, ovšem. Primitivní. Tak zastaralé. Vytáhne zbytek drátů, potom dovnitř vloží malý přístroj a znovu holosrdce zapne. Hodí ho na místo, kde předtím stál RIMMER. Ten se znovu objeví, ale místo své červené budny má modrou. Chvíli lapá po dechu.
+
+RIMMER: Koukejte mi věrohodně vysvětlit, co jste právě udělal, přítelíčku.
+
+CIZINEC: Oh, pouze jsem převedl Vaši projekční jednotku z měkkého světla na tvrdé.
+
+RIMMER: Na tvrdé světlo? (Nevěřícně po sobě přejede rukama, LISTER do něj šťouchne) Já mám tělo? Můžu se dotýkat? (Nejistě se dotkne LISTEROVA ramene) Cítit?
+
+KRYTON: Sada na opravu duší již na Vás čeká.
+
+RIMMER: Ale jak?
+
+CIZINEC: Vynalezl jsem pohon na tvrdé světlo před mnoha lety. Mozek mi už neslouží tak, jako kdysi. (Otočí se na LISTERA) Vy, příteli, jste Lister.
+
+LISTER: Jak to, že nás tak znáte?
+
+CIZINEC: Máte bolest. Tady…
+
+Dotkne se místa na jeho břiše.
+
+LISTER: Ne, jenom jsem sněd trochu moc kari.
+
+CIZINEC: Ne, je to něco vážnějšího. Mohu?
+
+LISTER: Jo.
+
+LISTER rozhalí svou bundu a košili. CIZINEC pomocí nástroje, podobného laserovému skalpelu, udělá čistý, bezbolestný a nekrvavý řez do jeho břicha. Sáhne do rány a cosi vytáhne.
+
+CIZINEC: Vaše slepé střevo. Jak jsem si myslel, neměl jste daleko k zánětu pobřišnice. (Podává mu ho)
+
+LISTER: (Rozechvěle si od CIZINCE bere svůj apendix) Děkuju vám.
+
+CIZINEC: A vy jste Kocour.
+
+KOCOUR: (Couvne od něj) Přibliž se ke mně a budeš nosit ty svý střeva místo kulicha.
+
+CIZINEC: Jste všichni unavení a vyhladovělí. Pojďte něco pojíst.
+
+RIMMER: (Úslužně) Jak se jmenujete?
+
+CIZINEC: Říkejte: „Legie“.
+
+Jídelna
+
+LEGIE je přivádí do jídelny, plné vytříbených uměleckých děl. V pozadí zní tichá cemballová hudba.
+
+LEGIE: Udělejte si pohodlí, prosím.
+
+KRYTON: Pane Legie ... tyhle sochy ... to jste dělal sám?
+
+LEGIE: Před lety. Tenkrát jsem byl jiný člověk.
+
+KRYTON: Podle mého znaleckého čipu splňují všech deset požadavků na pravého mistra.
+
+RIMMER: Ty máš znalecký čip?
+
+KRYTON: To, že vypadám jako filmový kaskadér, neznamená, že nedovedu ocenit umění!
+
+LEGIE: Dojdu pro pohoštění.
+
+RIMMER: Můžu jíst? Totiž v tomhle těle je to možné?
+
+LEGIE: Pane Rimmere, v těle z tvrdého světla můžete dělat všechno, s jednou výhodou. Jste téměř nezničitelný!
+
+RIMMER: Nemůžu být zraněn?
+
+LEGIE: Vaše příjemné a bolestivé pocity zůstávají, ale nemůžete být poškozen. Omluvte mě.
+
+LEGIE odchází a RIMMER se mu podlézavě uklání. LISTER se svalí do jedné židle a hodí nohy na stůl. Vedle něj si sedne poněkud nervózní KOCOUR.
+
+KRYTON: (Odloží psychoscan) Má jedinečnou buněčnou strukturu. Řetězce DNA, jaké jsem neviděl. Kombinace robota a živé tkáně.
+
+RIMMER: (Postaví se za opěradla židlí) Musíme ho přesvědčit, aby letěl s námi. S ním jsme doma za pár týdnů! Budem bezvadný tým! Legie se svým intelektem geniálního vědce, kulturou a úrovní a my s... (Zarazí se, protože zjišťuje, že jeho plán má malou trhlinu) S...
+
+LISTER: S modrou žárovkou na poplach? Radši si stopnem taxík, aby nás zavez` do reality. Tenhle frajer s náma nepoletí. Zbláznil by se. Už ho vidim, jak s náma jede až do rána a mrská šipky na rosničku.
+
+RIMMER: To je fakt. Ale až s námi odfrčí do vesmíru, bude pozdě na to, aby si to rozmyslel. Stačí jen vzbudit dojem, že nejsme tak beznadějní pitomci jako ty.
+
+Otevírání dveří signalizuje návrat LEGIE.
+
+LEGIE: (Tlačí jídelní vozík) Pohoštění. Je to tradiční mimosianský banket ze čtyřiadvacátého století.
+
+LEGIE začne servírovat jídlo a RIMMER opět přejde do servilní pozice.
+
+RIMMER: Jak neskonale božské, Legione. (Pečlivě artikuluje s francouzským přízvukem) Ačkoli musím říci, že naše duše jsou již nasyceny uměleckou hostinou, již skýtají Vaše sny. (Ukazuje na umělecké výtvory všude kolem)
+
+LEGIE: (Mírně pobaveně) Netušil jsem, že se zajímáte o umění, pane Rimmere.
+
+RIMMER: V noci si vždycky najdeme trochu času, abychom obdivovali Caravaggia a hovořili o koncepci, obsahu a formě.
+
+KOCOUR: Šipky na kozatou rosničku už nemaj šanci.
+
+RIMMER: Úchvatné. (Přistoupí k malé hranaté krabičce na zdi vedle dveří) Kupříkladu tato trojrozměrná skulptura je vskutku geniální. Ta jednoduchost, ty dokonalé strohé linie... Smím znát její název?
+
+LEGIE: Vypínač.
+
+RIMMER: Vypínač!?
+
+LEGIE: Ano.
+
+RIMMER: Asi není na prodej.
+
+LEGIE: Bohužel, potřebuju ji na ovládání světla.
+
+RIMMER: (Zkouší zachránit svou důstojnost) To je škoda, protože kdyby to nebyl vypínač, mohlo by to být v mnoha ohledech mistrovské dílo.
+
+Přejdou ke stolu.
+
+LEGIE: Krytone, najezte se s námi, prosím. Mimosianská kuchyně je vhodná i pro roboty.
+
+KRYTON: Ano. Už dlouho sním o tom, že ochutnám její jedinečné pokrmy.
+
+LEGIE: Pusťte se do jídla.
+
+Vytáhne dýchací hadičku z ústního otvoru své masky. Ostatní mezitím bezradně zkoumají své příbory. Místo nože a vidličky má každý dva podivné nástroje, připomínající metlu do šlehače spojenou s modelem ethanolové molekuly. Legie si všimne jejich rozpaků.
+
+LEGIE: Promiňte. Někteří z vás neumějí používat mimosianské hůlky z antihmoty.
+
+LEGIE zapne na pár sekund své hůlky, které začnou rotovat a vydávat elektrický šum.
+
+KRYTON: Já jsem zcela v obraze. Jsem naprogramovaný tak, abych zvládl všechny známé vesmírné stravovací techniky, včetně saturnského mluvícího nože a často smrtící marťanské bumerangové lžíce.
+
+LEGIE: Ale ostatní.
+
+Zmínění ostatní drží nemotorně svoje antihmotové hůlky a přihlouple se usmívají.
+
+LISTER: Hůlky z antihmoty? (Snaží se předvést) S těma jíme pořád.
+
+KOCOUR: Už ani nevím, jak vypadá lžíce.
+
+RIMMER: Neusuzujte z několika zaschlých, pudinkových skvrn na Listerových kalhotách, že nám chybí vzdělání.
+
+Nastartují hůlky. Hrouda jídla se zvedne z talíře a cestuje přes celý stůl až do úst LEGIE, což všichni sledují s těžko utajovaným úžasem.
+
+KRYTON: Vtip je v tom, že se nesmí nikdy, za žádných okolností, zapnuté hůlky vzájemně dotknout, což ovšem my všichni tady přece víme.
+
+KRYTON použije své hůlky a zvedne něco podobné ptačímu hnízdu. Není ovšem takový expert jako LEGIE: jídlo se kolébá ve vzduchu a uhýbá před jeho otevřenými ústy.
+
+RIMMER: Tak, dobrou chuť. Dej se do toho.
+
+LISTER: Ne, ne, až po tobě, Rimmere.
+
+RIMMER: Dám ti přednost.
+
+LISTER zkouší použít hůlky na pokrm před sebou. Snaha se mu vyplatí, ale jídlo se zvedne z jiného talíře, než o který usiloval. Zkouší si ukousnout, ale ztratí kontrolu nad hůlkami a hrouda odletí doprava... a zasáhne RIMMERŮV obličej.
+
+KRYTON: (Tlumeně) Pane, vytváříte zpětné pole. Elektrony musí proudit jedním směrem.
+
+Mezitím má KOCOUR jiný problém. Jeho jídlo se vznáší dvě stopy nad jeho hlavou a KOCOUR usilovně mele hůlkami.
+
+KOCOUR: Jak si to sakra mám stáhnout dolů?
+
+KRYTON: (Potichu) Prostě přehoďte iontovou fázi na klesající křivce pulsního rozhraní.
+
+KOCOUR: Pochopil jsem to až k tomu „prostě“.
+
+KRYTON: Takhle.
+
+Vloží se do toho svými hůlkami. Jídlo proletí mezi ním a KOCOUREM a přistane... na RIMMEROVĚ rameni. Zatímco je RIMMER zmrazuje pohledem, KRYTON si všimne LISTEROVÝCH marných pokusů zvednout sklenici s vínem.
+
+KRYTON: (Naléhavě šeptá) Pane, ta sklenička je tam napevno. Je to mimosianské, telekinetické víno.
+
+LISTER: (Nechápavě) Jak se to pije?
+
+KRYTON: Silou vůle přenesete tekutinu do úst a pak telepaticky rozhodnete o její chuti. Takhle…
+
+Soustředí se na skleničku před sebou. Tekutina vystříkne tenkým proudem přímo do jeho úst. KRYTON chvíli pije a pak vydechne.
+
+KRYTON: Áh, dobrota.
+
+LISTER to opakuje po něm. Mocně zašilhá na sklenici a nasaje. Tekutina prudce vytryskne z poháru a postříká celou LISTEROVU tvář.
+
+LISTER: (Zoufale) Krytone! Pomoz mi!
+
+KRYTON se zkoncentruje a proud zastaví. LISTER namáhavě lapá po dechu. Všimne si, že LEGIE je pozoruje a chabě se na něj usměje. Mezitím došlo mezi KOCOUREM a RIMMEREM k drobné neshodě...
+
+RIMMER: (Plnou, vzpouzející se pusou) Kocoure, to je moje!
+
+KOCOUR těžce zápasí s hůlkami, které se zaměřily na jídlo v RIMMEROVĚ puse. Přitahované jídlo po straně nadouvá RIMMEROVU tvář.
+
+KOCOUR: Nemůžu si pomoct, nějak se nám zkřížily vlnové délky!
+
+RIMMER: Je to, jako kdybys mi trhal zuby!
+
+KOCOUR: Tak to spolkni!
+
+RIMMER: Zkoušel jsem to... třikrát!
+
+Náhle jídlo vyklouzne z jeho úst. Mine KOCOUROVY hůlky a připlácne se na jedné umělecké malbě.
+
+LEGIE: Přátelé, mám pocit, že se snažíte udělat dojem, ale to není nutné.
+
+RIMMER: Pane Legie, mohu být upřímný? Zřídka potkáme jedince, o němž si myslíme, že by mohl být přínosem pro náš opravdu špičkový tým. Ale ve Vás jsme ho našli. Na svých cestách jsme poznali přesně jedenatřicet osob - třicet jednu. A žádné z nich jsme nenabídli, aby se stala členem posádky. Pravda, většinou nám chtěli víceméně vycucnout mozek ... nebo nás všechny vymazat z historie. Především ale, jsme měli pocit, že nikdo z nich není ten pravý. Něco nám říká, že jste jiný. Vy nám připadáte jako jeden z nás. Jste odvážný a čestný jedinec jako my, hoši z Trpaslíka.
+
+Spokojen se svým projevem RIMMER nevěnuje pozornost hůlkám a dá je přes sebe.
+
+KRYTON: (Úpěnlivě k RIMMEROVI) Pane! Nesmíte je překřížit!
+
+Veškeré jídlo na stole se začne třást. Naráz se zvedne do vzduchu a vrhne se na RIMMERA. Když příval konečně ustane, je Arnie kompletně pokrytý jídlem.
+
+LEGIE: Pane Rimmere, jsem dojat výmluvností Vašeho pozvání, ale bohužel nemohu opustit hranice institutu.
+
+RIMMER: (Celý upatlaný mimosianskými dobrotami) Kvůli Listerovi, co? Odradil vás.
+
+KRYTON: Nemůžeme Vás nějak přesvědčit?
+
+LEGIE: V žádném případě.
+
+KRYTON: Tak to se musíme rozloučit. Máme před sebou dlouhou cestu.
+
+LEGIE: Nesmysl. Žádnou cestu před sebou nemáte, přátelé. Zvu vás, abyste zůstali tady u mě. Budete mými čestnými hosty – (Fatálně) počínaje dnešním dnem, až do smrti!!!
+
+RIMMER si setře jídlo z obličeje a povzdechne.
+
+RIMMER: Třicet dva.
+
+Ložnice
+
+LEGIE přivádí LISTERA do ložnice. Stěny jsou pokryty plakáty a z juke-boxu zní pronikavá hudba - možná Rastabilly Skank. Na posteli leží stříbrná, naleštěná kytara a v rohu pokoje stojí lednice.
+
+LEGIE: To bude Vaše cela, Davide.
+
+LISTER: Moje cela? Vy jste fakt cvok, viďte?
+
+Přejde ke stolu. Na něm je láhev vína uložená v kbelíčku s ledem a přikrytý podnos. LISTER zhodnotí šampáňo a zvedne poklop.
+
+LISTER: Vločkový sendviče, ty mám moc rád.
+
+LEGIE: Nenajdete tu nic, co by nebylo podle vašeho gusta. Pokoj je zařízený v souladu s vašimi osobními zálibami a nároky.
+
+LISTER prozkoumává ledničku.
+
+LISTER: (Vytáhne jednu botu) Dva tucty balíčků adidasek po osmi párech a pár navíc. Mrazák využitej do mrtě.
+
+Zaklapne lednici a skočí na postel.
+
+LEGIE: Vaše oblíbená hudba a Vaše milované filmy. Ani jeden naučný snímek. Nebude Vám tu nic chybět.
+
+LISTER: Nic? A co společnost? Co kumpáni?
+
+LEGIE: V komplexu je kyberpark. Můžete navštívit jakékoli období, které si vyberete a oddávat se jakýmkoli fantaziím s lidmi, které si vyberete.
+
+LISTER: A z toho mám bejt jako vodváznej? (Pauza) Eee... promiňte, zopakujte mi to ještě.
+
+LEGIE: Se svými společníky se uvidíte ráno. (Zesláble) Teď mě musíte omluvit, už usínají. (Vzchopí se) Musím jít.
+
+Potichu odejde. LISTER popadne kytaru a zkusmo hmátne do strun. Zvuk, který následuje, je úděsný.
+
+LISTER: Paráda. Nepotřebuje ani naladit.
+
+ 
+
+Vesmír
+
+Záběr celé stanice.
+
+Jídelna, ráno
+
+Ráno se všichni scházejí u snídaně v jídelně. Poslední přichází RIMMER.
+
+KRYTON: Dobré ráno, pane.
+
+RIMMER: (Ignoruje ho) Co tím sleduje? Proč nám chce mermomocí splnit každé přání?
+
+KRYTON: Taky nám to vrtá hlavou. Byl Váš pokoj taky takový - dokonalý v každém ohledu?
+
+RIMMER: Perfektní. Od přeškrobených pyžam až k boxerským rukavicím. A co tvůj?
+
+KRYTON: Špinavé stěny, zablácené podlahy, mop a kbelík ... byl jsem v sedmém nebi, pane!
+
+LISTER: Až jednou napíšu průvodce po cvokárnách, tahle dostane nejvíc bodů. Ubytování - skvělý, jídlo - prvotřídní, správce cvokárny - zdvořilej a slušnej. Celkový hodnocení - pět a půl pračky Whirpool. Značka vítězů.
+
+KRYTON: Nesmíme se nechat zlákat příjemným způsobem života. Ať už je Legie jakkoli ušlechtilý, jsme stále jeho vězni. A s každou vteřinou se vzdalujeme od Červeného trpaslíka.
+
+LISTER: Máš pravdu, Kryťáku. Trochu kaviáru.
+
+KOCOUR mu podá žádanou pochoutku. LISTER vstane, opře se jednou nohou o židli a obrátí se k ostatním.
+
+LISTER: Šampus a džus.
+
+KOCOUR mu podá džbánek a LISTER si nalije.
+
+LISTER: Musíme pryč z týhle pekelný díry.
+
+KOCOUR: Kdo je ten šikmoočko? A proč tak chce, abychom byli šťastni?
+
+KRYTON: Je možné, že je naše blaho nějak spojeno s jeho.
+
+LISTER: (Znovu naplní svou sklenici: Myslíš, že se živí našima emocema?
+
+KRYTON: Když jsme sem přiletěli, scannery nezaznamenaly známky života. Třeba ho pouhá naše přítomnost zde nějak bezděčně probudila.
+
+LISTER upře svou pozornost na velkou bílou surrealistickou sochu ve tvaru ženy. Ušklíbne se.
+
+LISTER: Něco mě napadlo ... věděl bych, jak se odsud dostat. Viděl někdo „Pomstu surfujících sexyvampů v bikinách“?
+
+KRYTON: Řekl bych, že nám to uniklo, pane.
+
+LISTER: Je tam jedna scéna, ve který krásná, zajímavá, nekonvenční novinářka, co nosí brejle a těsnej svetřík, uvízne hluboko v doupěti surfujících sexyvampů v bikinách a vymyslí plán útěku, kterej by zasloužil Nobelovku ...
+
+Jídelna, později
+
+LEGIE vstupuje do jídelny. KRYTON, KOCOUR a RIMMER sedí u stolu a falešně se usmívají. Na židli, která je zády ke dveřím, je socha oblečená do LISTEROVY bundy a čepice. LISTER v podvlíkačkách stojí za dveřmi a drží nad hlavou těžký předmět - jinou sochu, kterou si předtím prohlížel.
+
+RIMMER: Ááá, pan Legie. Zvážili jsme svou situaci a rozhodli jsme se, že nejlepší bude, když začneme nový život. Tady u Vás.
+
+LEGIE: Vážně jste si mysleli, že vám skočím na ten ubohý plán z „Pomsty surfujících sexyvampů v bikinách“?!
+
+Jediným úderem srazí sochu ze židle. LISTER na něj hodí svou zátěž a přitom strhne jeho masku. Tvář LEGIE je noční můra. Na čele má stříbřité „H“, plasticky formované křivky, tesáky a každé oko je jiné: jedno umělé, druhé lidské. Prostě jde o kombinaci obličejů všech čtyř trpaslíkovců.
+
+LEGIE: Chci jen, abyste byli šťastni!
+
+Popadne LISTERA a odhodí ho dopředu. LISTER klouže po celé délce stolu a ostatní vstávají a odklízejí mu z cesty jídlo a pití. Na konci stolu sletí LISTER na zem a praští hlavou do zdi. LEGIE zavrčí a obrátí se tváří ke svým hostům. Jeho obličej se zachvěje, změní a znovu uspořádá. Teď obsahuje pouze tři druhy tváří, bez LISTEROVI.
+
+LEGIE: Vidíte, k čemu jste mě donutili?
+
+LISTER se se sténáním probere k vědomí. Tvář LEGIE se znovu změní a vypadá jako předtím.
+
+KOCOUR: Kdo k čertu seš?
+
+LEGIE: (Znovu si nasadí masku) Kryton to ví.
+
+KRYTON: Ano?
+
+LEGIE: Máte jisté podezření.
+
+KRYTON: Nejste snad vyšší bytost, ne obyčejný tvor, ale postava složená z mnoha různých jednotlivců?
+
+LEGIE: Jmenuji se Legie, protože „nás“ je mnoho.
+
+LISTER si těžce sedá.
+
+LISTER: Páni, Vy jste my? Všichni čtyři? Ah, kombinace našich mozků, směsice osobností?
+
+LEGIE: A ještě mnohem víc než to. Mnohonásobně víc. Celek je mnohem lepší než součet jeho částí.
+
+RIMMER: Jsme v pasti, protože Vy jste my. Jste stvořen z nás. Když odejdeme, bude s vámi konec.
+
+LEGIE: Bez vás, přátelé, jsem doslova - nula.
+
+KOCOUR: (Se širokým úsměvem) Ale, když je z nás, tak se nás nedotkne, ne?
+
+KOCOUR se pokusí protančit kolem LEGIE, který ho rychle vyvede z omylu úderem přes celou délku stolu. KOCOUR přistane v náruči LISTERA, stále sedícího tam, kam ho LEGIE poslal.
+
+KOCOUR: Omyl.
+
+KRYTON: Ale to je šílené. Když zraníte nás, tak i sebe. Naše bolest je Vaše bolest.
+
+LEGIE: Krytone, zapomněl jste. Nejenže v sobě nosím kombinaci vašich intelektů a paměti, je ve mně též obsažena suma vaší zuřivosti, vzteku a hněvu. Mnohonásobně zvětšená! Dokážu se chovat velmi bláznivě a iracionálně. Dívejte se.
+
+Položí svou levou ruku dlaní na stůl. Do pravé ruky vezme skalpel a prudce si ho vrazí do hřbetu vlastní ruky. Ostatní zakvílejí strašnou bolestí, kterou právě cítí.
+
+LEGIE: Ještě jeden náznak vzpoury a skalpel skončí ... tady. (Míří skalpelem do intimních partií)
+
+KRYTON: Pane Legie, tyhle drsné řeči nás nevyděsí.
+
+OSTATNÍ: Vyděsí!
+
+LISTER: Ale co ty sochy a mistrovský díla a ta technika? Kde se to vzalo?
+
+LEGIE: Moje první inkarnace. Hostil jsem pět nejchytřejších mozků své generace. Experimentovali s kolektivní inteligencí. Byl jsem produktem jejich výzkumu.
+
+KRYTON: Heideger, Quayle a ostatní - součet jejich génia? Váš mozek musel být něco úžasného!!!
+
+LEGIE: Příliš brzo si ale jejich vysoký věk začal vybírat svou daň. A jak postupně umírali, odcházel jsem i já. Až jsem nakonec nebyl. Zbyla jen bezduchá podstata, vířící kolem pozůstatků mých úspěchů a čekající na to, až zase začne existovat.
+
+KOCOUR: Jednomu stále nerozumím.
+
+RIMMER: Co je to?
+
+KOCOUR: Ea, všechno.
+
+KRYTON: (LISTEROVI) Pane, dovolíte otestovat jeden nápad?
+
+LISTER: Povoluje se.
+
+KRYTON: Důvěřujte mi.
+
+KRYTON zvedne židli a roztříští ji LISTEROVI o hlavu. Když se LISTER skácí v bezvědomí na zem, Legie znovu sejme svou masku. Část jeho tváře, kterou tvořil LISTERŮV příspěvek, zmizí. Kupodivu LEGIE nijak nezasáhne. KRYTON se otočí ke KOCOUROVI.
+
+KOCOUR: Co sakra blbneš?
+
+KRYTON: Legie potřebuje naše vědomí, aby mohl existovat a když upadnem všichni do bezvědomí, jeho moc se zmenší. Mohu vás omráčit, pane?
+
+KOCOUR: Dělej, co musíš, ale nerozcuchej mě.
+
+KRYTON: Děkuji.
+
+KRYTON vyřadí KOCOURA úderem pěstí  do brady a pak se začne přibližovat k RIMMEROVI. Ten před ním zbaběle ustupuje. KRYTON ho následuje. Cestou popadne velkou modrou vázu a schová ji za zády.
+
+RIMMER: Krytone, nemáš nějaký účinnější plán útěku?
+
+KRYTON: Pane, vyhnout se tomu nemůžete.
+
+RIMMER: Jsem alergický na rány po hlavě!
+
+KRYTON: (Zesílí své sevření kolem vázy) Nic neucítíte. Uvedu Vás do bezvědomí ionským nervovým chvatem.
+
+Nervózní RIMMER zavře oči a zatne zuby. KRYTON mu sevře rameno.a roztříští mu vázu o hlavu.
+
+RIMMER: To není ionský nervový chvat! Praštils mě po hlavě!
+
+KRYTON: Žádný takový chvat neexistuje. Teď klidně stůjte, ať Vás můžu praštit.
+
+Popadne velký podnos a třískne s ním RIMMERA po hlavě. RIMMER se zapotácí, ale nepadne.
+
+KRYTON: Vaše tvrdé světlo je tužší než skopové vindaloo!
+
+Rozhlíží se po vhodné zbrani. Jedné si všimne a ukáže na ní.
+
+KRYTON: Tohle snad zabere.
+
+Vytrhne ze zdi kus těžce vypadající roury.
+
+RIMMER: To nemyslíš vážně!
+
+KRYTON začne systematicky třískat RIMMERA do hlavy. Úder!
+
+RIMMER: Přitlač!
+
+Úder!!
+
+RIMMER: Ještě!!
+
+Úder!!!
+
+RIMMER: Ještě!!!
+
+Úder!!! Úder!!! Úder!!!
+
+RIMMER: Dost! Dost! Dost!
+
+Nepatrně zavrávorá a potřese hlavou.
+
+RIMMER: Proboha živého, co si člověk neudělá sám, to nemá!
+
+Přejde k nejbližší stěně a začne do ní mlátit hlavou, zatímco KRYTON, stojící za ním, pokračuje v úderech zezadu. Rána! Úder! Rána! Úder! Rána! Úder!
+
+RIMMER: Dost!
+
+KRYTON pokračuje dál.
+
+RIMMER: Dost, Krytone! Je jasné, že to nepůjde. Jsem hologram na tvrdé světlo a knockoutuvzdorný.
+
+KRYTON: Hm. Asi máte pravdu.
+
+Úder!
+
+RIMMER: Krytone!
+
+KRYTON: Promiňte, pane. Chtěl jsem vás překvapit.
+
+Úder!
+
+RIMMER: Krytone!! Snažím se přemýšlet, ty eunuchu s gumovou hlavou! (Uvažuje) Jo, mám to. Vypneš holosrdce.
+
+KRYTON: To nejde, neproniknu tvrdým světlem. Musíte si ho vyndat sám.
+
+RIMMER ponoří jednu ruku do svého břicha. Jeho tvář ztuhne v úsilí a zmizí. KRYTON se otočí k LEGII, z jehož obličeje se vytratí i RIMMERŮV rys a LEGIE teď vypadá celý jako KRYTON.
+
+KRYTON: Šance jsou stejné.
+
+LEGIE: Jsem jenom ty. Takže pat.
+
+KRYTON: Kdepak. Tvoje duše obsahuje jen moje ingredience a proto nejsi schopen zloby. A protože lidský život má přednost před životem robota, jsi nucen nám umožnit bezpečný odchod na Kosmik.
+
+LEGIE: Dokud ostatní zůstanou v bezvědomí, nemá tvoje logika chybu.
+
+LISTER se pohne a začne se probírat. Zatímco stále sleduje LEGII, ťukne KRYTON LISTEROVOU hlavou o podlahu.
+
+KRYTON: Ty poneseš Kocoura, já pana Listera.
+
+LEGIE: Částečně se mi ulevilo. Sdílet jejich duševno, neurózy, podivné pohnutky; návrat do limbu nebytí mi připadá jako výhoda.
+
+KRYTON: Ještě jednu věc: v původní inkarnaci, když jsi byl složený z takových mozků, neobjevili jste někdy něco, co by nám pomohlo dohonit Trpaslíka?
+
+ 
+
+Vesmír
+
+Kosmik odlétá z vesmírné stanice.
+
+Strojovna Kosmiku
+
+Později v Kosmiku jsou všichni shromážděni u vynálezu LEGIE, který je přišroubován k podlaze strojovny. Je to zvláštní věc, vypadající jako tři stopy velká stříbrná dětská káča, zasazená v kovové konstrukci.
+
+KRYTON: A jdeme na to. Spouštím zážehovou sekvenci.
+
+LISTER: (Pochybovačně) Bude to fungovat?
+
+KRYTON: Nevidím důvod, proč by nemělo. Všechny testy potvrzují, že je to plně funkční hvězdný pohon. Jestli jsme ho správně napojili na motory Kosmiku, doženeme Červeného trpaslíka během několika nanosekund!
+
+LISTER: Jo, ale určitě se to podělá, viď?
+
+KRYTON: Pane?
+
+RIMMER: Nám se vždycky všechno podělá.
+
+KOCOUR: Má pravdu! Je nad slunce jasné, že tento hvězdný pohon je k ničemu.
+
+KRYTON: Pánové, nepotvrdilo se teď, že když táhneme všichni za jeden provaz, jsme pak lepší, než součet našich částí? Když myslíme stejně a přejeme si totéž, není pro nás vůbec nic nemožné. Tento hvězdný motor bude fungovat. My tomu věříme.
+
+OSTATNÍ: (S nulovým nadšením) Věříme.
+
+KRYTON: (Skandovaně) My - tomu - věříme!!!
+
+OSTATNÍ: (Rozmrzele) Věříme.
+
+Zapnou pohon. Ten začne zářit a točit se. Jak všichni sledují nárůst energie, pomalu se zvedá. Výš a výš. Kabely, které ho spojují s motory, se s jiskřením přetrhají a hvězdný pohon putuje po strojovně. Konečně prorazí zeď a pokračuje do vesmíru. Všichni jsou vtahováni do vzniklé díry a drží se všeho, co mají po ruce.
+
+KRYTON: (Překřikuje vichr) Jedno víme, pane!
+
+LISTER: A co?
+
+KRYTON: Že to funguje!!!

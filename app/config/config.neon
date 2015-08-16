@@ -1,0 +1,35 @@
+# WARNING: it is CRITICAL that this file & directory are NOT accessible directly via a web browser!
+# http://nette.org/security-warning
+
+parameters:
+
+includes:
+	- extensions.neon
+	- console.neon
+	- webloader.neon
+	- components.neon
+	- services.neon
+
+php:
+	date.timezone: Europe/Prague
+
+application:
+	errorPresenter: Error
+	mapping:
+		*: DwarfSearch\*Module\Presenters\*Presenter
+
+session:
+	expiration: 14 days
+
+monolog:
+	name: dwarf-search
+
+elasticSearch:
+	debugger: on
+
+doctrine:
+	metadata:
+		DwarfSearch: %appDir%/../libs
+
+services:
+	router: App\RouterFactory::createRouter

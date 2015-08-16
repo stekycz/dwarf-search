@@ -1,0 +1,48 @@
+{
+	"name": "legendik/dwarf-search",
+	"description": "Search Red dwarf messages really fast",
+	"type": "project",
+	"license": [
+		"MIT",
+		"BSD-3-Clause",
+		"GPL-2.0",
+		"GPL-3.0"
+	],
+	"require": {
+		"php": ">= 5.4.0",
+		"nette/application": "@dev",
+		"nette/bootstrap": "@dev",
+		"nette/caching": "@dev",
+		"nette/di": "@dev",
+		"nette/finder": "@dev",
+		"nette/forms": "@dev",
+		"nette/http": "@dev",
+		"nette/mail": "@dev",
+		"nette/robot-loader": "@dev",
+		"nette/safe-stream": "@dev",
+		"nette/security": "@dev",
+		"nette/deprecated": "@dev",
+		"nette/utils": "@dev",
+		"latte/latte": "@dev",
+		"tracy/tracy": "@dev",
+		"kdyby/console": "@dev",
+		"kdyby/monolog": "@dev",
+		"kdyby/events": "@dev",
+		"kdyby/autowired": "@dev",
+		"kdyby/translation": "@dev",
+		"kdyby/doctrine": "@dev",
+		"kdyby/curl": "@dev",
+		"JanMarek/webloader": "@dev",
+		"kdyby/elastic-search": "@dev"
+	},
+	"require-dev": {
+		"nette/tester": "~1.4",
+		"kdyby/tester-extras": "@dev"
+	},
+	"autoload": {
+		"classmap": [
+			"app/",
+			"libs/"
+		]
+	}
+}

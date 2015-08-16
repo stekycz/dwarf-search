@@ -1,0 +1,867 @@
+Neznámý měsíc
+
+Je vidět město uvnitř průhledné kopule.
+
+ 
+Ložnice
+
+Muž středního věku spí v potemnělé ložnici. Ve dveřích se objeví vysoká postava s černým pláštěm, s kouřem u kotníků a s černobílou maskou podobnou lebce. Zaduní podivným hlasem.
+
+INKVIZITOR: Thomasi Allmane!
+
+ALLMAN, tlusťoch s šedivými vlasy, nahmatá na nočním stolku své brýle.
+
+INKVIZITOR: Thomasi Allmane, byl jsi shledán nehodným své existence.
+
+ALLMAN: To jsi ty, mami?
+
+INKVIZITOR: Tvůj život a veškeré vzpomínky na tebe budou vymazány z historie. Místo, které jsi zabíral v časoprostorovém kontinuu, bude přiděleno někomu, komu nebyl nikdy dán dar života. Kéž bys byl strávil svůj čas moudřeji.
+
+INKVIZITOR vystřelí oranžovo-červený paprsek světla na ALLMANA z rukavice, kterou má na ruce a vytvoří kolem něho záření.
+
+ALLMAN: Ne, prosím! Proč já? Jiní taky promarnili svůj život!
+
+INKVIZITOR: Nikdo soudu neujde.
+
+Obrázek ALLMANA na jeho nočním stolku se změní na obrázek štíhlejšího, vyššího muže s tmavými vlasy a s knírkem. Tento tmavovlasý muž se pak objeví v pokoji v záblesku žluto-zeleného světla.
+
+INKVIZITOR: Dokonáno. Zbývá jen vymazat tvojí fyzickou podobu.
+
+INKVIZITOR vystřelí další červeno-oranžový paprsek na ALLMANA, který se rozplyne. INKVIZITOR se otočí na nového ALLMANA.
+
+INKVIZITOR: Promiňte, že ruším, pane. Kontrola autenticity.
+
+Inkvizitor zasalutuje, otočí se a zmizí.
+
+ 
+
+Kokpit Kosmika
+
+Jsou tu LISTER, RIMMER a KRYTON. KRYTON podává LISTEROVI šálek.
+
+KRYTON: Káva, pane. S dvojitou dávkou kofeinu i cukru.
+
+LISTER: Bezvadný.
+
+KRYTON se dívá LISTEROVI přes rameno, co čte.
+
+KRYTON: Á, Vergiliova Aeneas. Epos o Agamemnónově boji o Helenu Trojskou - dílo největšího římského básníka, jenž se kdy brkem dotkl pergamenu.
+
+LISTER: Jo, tohle je komiksová verze.
+
+KRYTON: Vážně?
+
+LISTER: Ale je to dobrý. Přímo našlapaný dějinama.
+
+RIMMER se na ně znechuceně podívá.
+
+KRYTON: (Čte z komiksu) Prásk, bum, pic ho, zhebni v posteli, ty trojskej prasopse, bác, plesk. Vycházejí z původního textu. Jsem si jist, že by Vergilius souhlasil.
+
+RIMMER: Krytone, neodrazuj ho. Je to jediná věc, kterou kdy četl, krom leporela.
+
+LISTER: Ale toho dřevěnýho koně v tý trojský ptákovině, to jim nesežeru, to ne.
+
+RIMMER: To je jeden z nejslavnějších vojenských manévrů!
+
+LISTER: Koukni, Řekové byli deset let před Trójou a prásk ho, bác ho a bim ho vobčas na ňákýho Trójana, že jo?
+
+RIMMER: No a?
+
+LISTER: A ty se jednou ráno probuděj a Řekové jsou v tahu. A hned za městskejma branama nechali ten dar; výraz úcty ke svejm sokům: ohromnýho koně, dost velkýho na to, aby se do něj vešlo pět set Řeků v plný zbroji a ještě zbylo dost místa na hygienický zařízení. A podle tebe se žádnej Trójan neptal: „Co že je to za divnej dáreček? To nám nemůžou dát pajc na holení a ňáký fusekle?“ Ne, oni si ho odtáhnou dovnitř a jako na potvoru jdou všichni brzo na kutě! Blbost těchhle lidí musela bejt potrestaná tím, že je někdo voddělal v posteli. A víš, co je největší prča? Podle tehdejších Řeků se dodneška říká „Dát  někomu danajskej dar“ a přitom by se to mělo jmenovat podle Trójanů „dacanskej dar“.
+
+RIMMER: Děkuji za vysvětlení, Schliemanne.
+
+Kosmik se zakymácí. KOCOUR přiběhne zezadu. LISTER začne mačkat cosi na ovládacím panelu.
+
+KOCOUR: Co to bylo?
+
+HOLLY: Zvláštní, změnili jsme kurs.
+
+KRYTON: Ale žádnou změnu nemáme naprogramovanou.
+
+Loď se opět otřese. Začnou svítit červená světla a houkat poplašné sirény.
+
+HOLLY: A zase! O 180 stupňů! Letíme zpátky k Červenému trpaslíku.
+
+LISTER: Sakra, dej mi manuál, Holly.
+
+Když se LISTER dotkne kormidla, přeskočí z něj oblouk elektrického proudu a dá mu ránu.
+
+LISTER: Jau!
+
+HOLLY: Máme poruchu!
+
+KRYTON: To není porucha, něco ovládá naše vozítko.
+
+RIMMER: Holly, vidíš nějaká tělesa?
+
+HOLLY: Radar nic neukazuje.
+
+KRYTON: To není možné, něco tam je…
+
+KRYTON je přerušen, když se náhle LISTER vzpřímí a vytrčí paži. Oblouk elektřiny jiskří mezi jeho hlavou a ovládacím panelem Kosmika. Je slyšet INKVIZITORŮV hlas, ale LISTEROVY rty se nehýbou.
+
+INKVIZITOR: Zmocnili jsme se člověka známého jako Lister. Nestavte se mi na odpor.
+
+KOCOUR: Co s ním je, konečně mutuje?
+
+KRYTON: (Hlasitě) Řekněte, kdo jste!
+
+INKVIZITOR: Děs a hrůza provází mne, jsem Inkvizitor!
+
+KRYTON: Inkvizitor?!
+
+INKVIZITOR: Vaše vozítko je pod mou kontrolou. Doveze vás na vaši mateřskou loď, kde budete postaveni před soud. Každý z vás pronese řeč na obhajobu své existence. Pokud neuspějete, budete vymazáni beze stopy!
+
+Inkvizitor opustí LISTEROVO tělo. LISTER klesne do židle.
+
+KRYTON: Není Vám nic, pane?
+
+LISTER: Ne, nic. Aspoň doufám. (Vstává) Akorát se třesu.
+
+KRYTON: No, ale pro jistotu vás ještě prohlédneme na Mediscanu.
+
+LISTER: Jo, jasně.
+
+ 
+Vesmír
+
+Kosmik se vrací k Červenému trpaslíku.
+
+ 
+Střední část Kosmika
+
+Všichni sedí ve střední části; LISTER je zabalený do ručníku.
+
+RIMMER: Krytone, už jsi slyšel o „Inkvizitorovi“?
+
+KRYTON: (Velmi dramaticky) Jen různé mýty; děsivé příběhy; strašidelné historky, jež se vyprávějí u blikajícího ohně o půlnoci, vždy když se sejdou ošlehaní vesmírní vlci a při lahvince se předhánějí v příhodách, při nichž krev tuhne v žilách!!!
+
+RIMMER: Stačilo by říct normálně „ano“.
+
+HOLLY: (Potichu) Tak kdo to je?
+
+LISTER: Jo, a o co mu jde?
+
+KRYTON: Legenda vypráví o androidovi - o samoopravovacím robotu, jenž přežije do konce času; až do konce věčnosti. A po milionech let samoty nakonec dojde k závěru, že není žádný Bůh, ani posmrtný život a jediným důvodem a pravým důvodem existence je žít užitečný život. A tak android zkonstruuje stroj času a bloudí věčností, navštíví každou duši v dějinách a každou podrobí zkoušce. A vymaže všechny, kdo promarnili svůj život, a nahradí je těmi, kteří nikdy neměli šanci žít, neoplodněnými vajíčky, spermiemi, které neuspěly. To je Inkvizitor - vymýtí darmožrouty, vygumuje mizery a smete budižkničemy!
+
+RIMMER: Jsme v tom až po uši.
+
+LISTER: Kdo může posoudit, co je bezcenný?
+
+KOCOUR: Ale běž! Stačí mi jeden pohled! Přečti si své heslo „Kdo je nikdo!“
+
+LISTER: Ne, vážně! Kdo je soudce? Kdo má právo říct, co stojí za to?
+
+RIMMER: Smiř se s tím, hochu. Válet se celý den na kavalci, číst „Malýho cyklistu“ a pojídat cornflakey, to ti asi jen tak neprojde.
+
+LISTER: Jenom proto, že jsem nevymaloval Sixtinskou kapli, jsem určenej k likvidaci?
+
+HOLLY: Ne, ale proto, že jsi naprosto bezcenný vesmírný povaleč a nemytý šmudla.
+
+KRYTON: Přesně tak. Kritériem není sláva, ale pouze to, jestli jste žil užitečný život.
+
+RIMMER: (S hlavou v dlaních kňourá) Proč mi tohle někdo neřekl dřív? Kdybych věděl hned od začátku, že má člověk žít užitečný život, mohl jsem s tím něco udělat! Do kolika dobročinných televizních akcí jsem volal a slíbil příspěvek - vědět tohle, dal bych jim pravé číslo kreditky.
+
+KRYTON: Pane, nemusíte být velkým filantropem ani misionářem. Stačilo by, kdybyste byl využil daru života.
+
+RIMMER: Ale ne!
+
+KRYTON: Něčím přispěl!
+
+RIMMER: Ale ne!
+
+KRYTON: Byť i něčím malým!!
+
+RIMMER: Ale ne!
+
+KRYTON: Stačilo by, kdybyste nevedl život tak zcela egocentrický, prázdný a sobecký.
+
+RIMMER: Tohle mi děláš naschvál, viď!
+
+KRYTON: Snažím se vám jen ulevit, pane!
+
+RIMMER: Tak zavři zobák!
+
+LISTER: Nevim, proč bysme se měli bát nějakýho ujetýho toulavýho robota, co se prohlásil za soudce a porotu celýho lidstva. Proč bysme měli před nim padnout na zadek?
+
+Inkvizitor převezme opět kontrolu nad LISTEROVÝM tělem. Napřímí se mu páteř a jiskří kolem něj oblouk elektrických výbojů.
+
+INKVIZITOR: Protože mám takovou sílu, že tvý tělo přetrhnu jako hada!
+
+LISTEROVO tělo se uvolní.
+
+LISTER: Jo, už chápu, kamaráde!
+
+ 
+Nákladní dok
+
+Kosmik přistává.
+
+ 
+Chodba Červeného trpaslíka
+
+LISTER, RIMMER, KRYTON a KOCOUR jdou temným koridorem.
+
+LISTER: No tak, kde je?
+
+INKVIZITOR se objeví v zářivé mlze. Blokuje koridor.
+
+INKVIZITOR: Pohleďte a třeste se! Inkvizice začíná! Dokažte mi, že jste hodni svého života, jinak budete celou věčnost pít plnými doušky ze studny nicoty.
+
+KOCOUR: Nesnáším otázky na buď a nebo.
+
+INKVIZITOR: Kdo bude první?
+
+KOCOUR a RIMMER: (Společně ukazujíc) Lister!
+
+Inkvizitor zmrazí LISTERA, KOCOURA a KRYTONA v bublině modré energie.
+
+INKVIZITOR: Ty, holograme! Ty budeš první.
+
+RIMMER: (Přiškrceně) Pardon? Pane?
+
+Inkvizitor vystřelí na RIMMERA žluto-zelený paprsek a on zmizí. Střih na detail Inkvizitorovy tváře. Kamera ustupuje a my ho vidíme sedět na trůnu ve tvaru gryfa.
+
+ 
+Temná místnost
+
+RIMMER stojí před ním v temné místnosti s množstvím zapálených svíček v pozadí.
+
+INKVIZITOR: Byl ti dán největší dar ze všech: dar života. Řekni mi, cos udělal, aby sis zasloužil tuto výjimečnou přízeň štěstěny.
+
+RIMMER: Víte, neberte to jako nedostatek úcty k Vám, ale máte snad právo se ptát - ne, vlastně - požadovat po mně odpověď, vaše excelence? (Udělá pukrle a ukloní se)
+
+INKVIZITOR: Všichni se musejí zodpovídat Inkvizitorovi!
+
+RIMMER: Bude ale můj soud spravedlivý?
+
+INKVIZITOR: Jistě, jako všichni, kdo stojí před Inkvizitorem, budeš svým vlastním soudcem...
+
+Inkvizitor odklopí masku a objeví se ...RIMMERŮV obličej.
+
+INKVIZITOR: (Od teď mluví jako RIMMER) ...ty sám!
+
+RIMMER: Hernajs!
+
+INKVIZITOR: To máš tedy pravdu, kamaráde!
+
+RIMMER: Každého soudí jeho vlastní já?
+
+INKVIZITOR: Zavání to metafyzikou, ale spravedlivější způsob není. Tak do toho, ospravedlň se.
+
+RIMMER: Tak nejdřív jsem…
+
+INKVIZITOR: (Přeruší ho) Lháři!
+
+RIMMER: Konal jsem dobro.
+
+INKVIZITOR: Ne, nekonal!
+
+RIMMER: Ze všech sil jsem se vždycky snažil konat dobro.
+
+INKVIZITOR: Ne, nesnažil.
+
+RIMMER: Víte, svým způsobem jsem vedl dobrý život.
+
+INKVIZITOR: Kdy?
+
+RIMMER: Ááá! (Ukazuje za trůn) Kdo to támhle stojí? Sám archanděl Gabriel! To jsem teď já, jsem nový člověk! Aleluja!
+
+INKVIZITOR: Jsi pouze odporný a páchnoucí, slizký a hnusný zelený lidský výkal, že?
+
+RIMMER: No... tak něco, ano.
+
+INKVIZITOR: Takže se už laskavě ospravedlň!
+
+RIMMER: Nemoh´ jsem být jiný. Můj otec byl šílený zkrachovalý voják, matka semetrika ze Semetrikova. Mí bratři měli krásu i talent. A co jsem měl já? Střapaté vlasy a zarůstající nehty. Ano, přiznávám, že jsem nula. Ale vzhledem k mému zázemí je nula pokrok.
+
+RIMMER zmizí a na jeho místě se objeví KOCOUR. Inkvizitor má teď KOCOURŮV obličej a hlas.
+
+KOCOUR: Čau, frajere!
+
+INKVIZITOR: Tvůj soudný den již přišel. A šetřit tě nebudu! Souzen budeš jako všichni.
+
+KOCOUR: Jsem naladěn na FM!
+
+INKVIZITOR: Nezbývá než tě vyzvat: ospravedlň svou existenci - co dobrého jsi vykonal?
+
+KOCOUR: Dal jsem světu potěšení ze svého půvabného těla!
+
+INKVIZITOR: To je pravda.
+
+KOCOUR: Už můžu jít?
+
+INKVIZITOR: To je všechno?
+
+KOCOUR: To je ti málo?
+
+INKVIZITOR: Řekl bych, že je to dost povrchní argument.
+
+KOCOUR: Taky jsem dost povrchní kluk. Povrchní, ale s krásnou figurou!
+
+INKVIZITOR: Někdy uvádíš v úžas i mě!
+
+KOCOUR: Děkuju!
+
+Místo KOCOURA se objeví KRYTON. INKVIZITOR teď vypadá a mluví jako KRYTON.
+
+INKVIZITOR: Tak, Krytone, máš možnost se obhájit.
+
+KRYTON: Nejsem si jist, jestli mohu.
+
+INKVIZITOR: Tvůj život byl naplněn užitečnou prací. Není snad tvora, který by žil tak nesobecký život.
+
+KRYTON: Jsem naprogramován, abych žil nesobecky. A proto dobré skutky nevycházejí z dobrých úmyslů, ale jsou výsledkem série binárních povelů, které jsem povinen poslouchat.
+
+INKVIZITOR: Ale jak se tedy může jakýkoli robot obhájit?
+
+KRYTON: Možná kdyby zkusil ukončit svůj program a žít podle souboru hodnot, které si potom nezávisle vytvoří.
+
+INKVIZITOR: Tvůj argument si říká o vymazání.
+
+KRYTON: Jsou to tvoje pravidla, ne moje.
+
+INKVIZITOR: Přeješ si být vymazán?
+
+KRYTON: Jsem naprogramován, abych si nic nepřál. Sloužím.
+
+INKVIZITOR: U člověka lze tvé chování považovat za tvrdohlavost.
+
+KRYTON: Ale já nejsem člověk a ty taky ne. A není na nás, abychom je soudili. Nevím, proč to děláš.
+
+INKVIZITOR sklopí masku.
+
+INKVIZITOR: (Majestátním hlasem Inkvizitora) Už dost!!!
+
+INKVIZITOR znovu odklopí masku. Objeví se LISTERŮV obličej.
+
+INKVIZITOR: Tak co? Jak z toho vybruslíš, vobludo?
+
+LISTER: O čem to mluvíš?
+
+INKVIZITOR: Víš, kde si moh` bejt, kdyby ses trochu snažil? Čím ses moh´ stát?
+
+LISTER: No a?
+
+INKVIZITOR: Dyť ti to pálí, kamaráde! A nikdy jsi toho nevyužil!
+
+LISTER: No a?
+
+INKVIZITOR: Tak se koukej ospravedlnit!
+
+LISTER: Polib mi.
+
+INKVIZITOR opět sklopí masku a vrátí se mu jeho hlas.
+
+INKVIZITOR: Inkvizice skončila. Dospěl jsem k verdiktu.
+
+ 
+Chodba Červeného trpaslíka
+
+LISTER, RIMMER, KRYTON a KOCOUR spolu teď stojí v koridoru.
+
+INKVIZITOR: Dva z vás se nedokázali stát tím, čím velmi snadno mohli být. Promarnili jste život, a tak jste vlastně vůbec nežili!
+
+INKVIZITOR vystřelí na RIMMERA a KOCOURA zelené světlo a oni zmizí.
+
+LISTER: Ty hajzle! Ty jsi je vymazal!
+
+KRYTON: (Drží LISTERA zpátky) Pane!
+
+LISTER: Je to cvok, Krytone! Vymazal Kocoura a Rimmera!
+
+INKVIZITOR: Těm nic nehrozí.
+
+KRYTON: Pane... vymazáni budeme podle všeho my dva.
+
+LISTER: Aha.
+
+INKVIZITOR udělá cosi na své rukavici a LISTEROVI a KRYTONOVI se objeví na zápěstích a kotnících pouta svazující oba dohromady.
+
+LISTER: Vedli snad užitečnější život než my dva?
+
+INKVIZITOR: Kocour je sobecké a povrchní stvoření, stejně jako ten hologram. Vzhledem ke svým nízkým nárokům se ale ospravedlnili. Zatímco ty a robot jste měli navíc.
+
+INKVIZITOR je obklopí červeno-oranžovou bublinou energie.
+
+LISTER: Co je zase tohle?
+
+KRYTON: Řekl bych, že nás chirurgicky odstraňuje z času. Každá vzpomínka na nás, každý náš čin je vygumován. Tímto vymazal naše životy.
+
+INKVIZITOR: Je to hotovo. Linie času jsou spleteny. Náhoda je poopravena. Zbývá jen zprovodit ze světa vaši fyzickou podobu.
+
+LISTER: Jestli máš nějakej úžasnej tajnej plán v rukávu, je čas se s nim vytasit.
+
+KRYTON: Nemám plán, pane. (Ukazuje své mechanické paže) Nemám rukávy.
+
+Další KRYTON se objeví za INKVIZITOREM. Má stejnou rukavici jako INKVIZITOR.
+
+KRYTON Z BUDOUCNOSTI: Výborně! A tak, ea, co jsem udělal pak?
+
+KRYTON Z BUDOUCNOSTI zapne řetězovou pilu a uřízne Inkvizitorovi ruku i s rukavicí. Zatímco je INKVIZITOR ochromen bolestí, kopne KRYTON Z BUDOUCNOSTI rukavici LISTEROVI a KRYTONOVI.
+
+KRYTON Z BUDOUCNOSTI: Tak honem! Zvedněte tu rukavici a zmizte!
+
+LISTER: Do prčic, co je zase tohle?
+
+KRYTON Z BUDOUCNOSTI: Nemám čas na vysvětlování! Jsem z budoucnosti, zachráním Vás. Tak běžte! Honem!
+
+KRYTON: A co já? Totiž... ty... totiž... my?
+
+KRYTON Z BUDOUCNOSTI: Nás bohužel zabijou.
+
+KRYTON: Zabijou? Jak?
+
+KRYTON Z BUDOUCNOSTI: Zatímco tady stojím a vysvětluju vám to, Inkvizitor na mě skočí zezadu, takhle.
+
+INKVIZITOR skočí na KRYTONA Z BUDOUCNOSTI zezadu a začne mu drtit hlavu o stěnu.
+
+KRYTON Z BUDOUCNOSTI: Nemůžete mě zachránit. Než dojde k rozhodujícímu střetu ve skladišti, musíte dešifrovat ovládání rukavice.
+
+LISTER: Jak? Napověz nám.
+
+KRYTON Z BUDOUCNOSTI: No, já... já... nemohu to vysvětlit. Z nějakého důvodu jsou moje poslední slova „Enig“.
+
+LISTER: „Enig“?!
+
+KRYTON Z BUDOUCNOSTI: Ano, enig…
+
+Ozve se křupavý zvuk, jak INKVIZITOR konečně rozdrtí hlavu KRYTONA Z BUDOUCNOSTI. Zbylý KRYTON začne tahat LISTERA pryč koridorem.
+
+KRYTON: Honem, pane, musíme jít!
+
+LISTER: Zrovna tě zabili, Krytone!
+
+KRYTON: Pane! Musíme jít!
+
+INKVIZITOR si regenerací obnoví ruku.
+
+ 
+Jiná chodba
+
+LISTER a KRYTON běží koridorem, pokoušející se utéct, když tu náhle začnou blikat červená světla a houkat poplašné sirény. Přiběhnou k zamčeným dveřím. LISTER přitiskne svou dlaň na skleněný obdélník vedle dveří. Rozsvítí se čtverec a je slyšet hluboký tón. Na obrazovce ve stěně se objeví HOLLY.
+
+HOLLY: Nejste registrován jako personál této lodi. Prosím, uveďte jméno a kód.
+
+LISTER: To jsme my, Holly!!!
+
+HOLLY: Prosím, uveďte jméno a kód.
+
+LISTER: Lister D., tři nuly jedna šest devět.
+
+HOLLY: Nemám tu záznam o otisku Vaší dlaně.
+
+Začnou houkat sirény.
+
+HOLLY: Poplach vetřelec!
+
+LISTER pokyne KRYTONOVI, aby to vyzkoušel. KRYTON položí ruku na zařízení otisků dlaní.
+
+KRYTON: Obnovuju iniciaci!
+
+Sirény přestanou houkat.
+
+HOLLY: Prosím, uveďte jméno a kód.
+
+KRYTON: Název série: Kryton. Registrační kód: Doplňkový, nula nula jedna.
+
+HOLLY: Nemám tu záznam o Vaší CPU.
+
+Sirény začnou znovu houkat.
+
+LISTER: Tady už neexistujeme!
+
+Bílý kouř vyrazí ze stěny vedle LISTERA. Ten uskočí stranou a přikryje si rukama obličej.
+
+KRYTON: Slzný plyn!!!
+
+Oba běží chodbou jiným směrem. Další oblak slzného plynu vystřelí z protějšího konce chodby. Stáhnou se tedy do středu. Otevřou se dveře a vstoupí RIMMER a KOCOUR. KOCOUR drží bazukoid.
+
+LISTER: Ha, díky Bohu, to jste vy.
+
+KOCOUR: Hni se a je z tebe žrádlo pro psy.
+
+LISTER: Cože? To jsme my!
+
+RIMMER: Co jste zač a co tady chcete?
+
+LISTER: Rimmere, to jsem já!
+
+RIMMER: Odkud mne znáte?
+
+KOCOUR: Nezbašti mu to, jméno zná z uniformy!
+
+KRYTON: (K LISTEROVI) Pane, oni nás neznají. Jsme v předpeklí mezi dvě dvěma světy. Vůbec si nás nepamatují.
+
+RIMMER: Tak, zeptám se ještě jednou: co tu chcete?
+
+LISTER: Nejsme nepřátelé! Někde tady pobíhá chlap, co vymazává všechny tvory z historie! Bejvali jsme na lodi s váma.
+
+RIMMER: (Sarkasticky) Jenže jsme na vás zapomněli.
+
+LISTER: Ano!
+
+RIMMER: (Stejně ironicky ke KOCOUROVI) Tím jste mě tedy přesvědčili.
+
+LISTER: Znám tě jako svý boty!
+
+RIMMER: Když mě znáte tak dobře, budete vědět, že jsem typ neoblomného, tvrdého astromariňáka, se kterým si není radno zahrávat.
+
+LISTER: Ne, nejsi!
+
+RIMMER: Žádám vás naposled, aby…
+
+LISTER: (Přerušuje RIMMERA) Fiona Barringtonová! Když ti bylo patnáct. Zašil jsi se s ní ve skleníku. Slintal jsi blahem, ale ukázalo se, že jsi měl ruku v teplym kompostu. Jak bych tohle věděl, kdybych tě neznal?
+
+RIMMER: (Koutkem úst ke KOCOUROVI) Vymýšlí si!
+
+LISTER: Máš tři bráchy: Johna, Howarda, Franka. Jsi hroznej skrblík. Jsi poseroutka všech poseroutků. Strávil jsi den jako služba na lince důvěry a čtyři lidi spáchali sebevraždu! Tvý druhý jméno je Jidáš, ale říkáš si Jonathán. Podepisuješ úřední dopisy A.J. Rimmer B.P.D., což znamená Bronzovej Diplom za Plavání. Jsi prolhanej, úskočnej a svinskej prevít s šarmem a společenskou grácií filcky!
+
+KOCOUR: (K RIMMEROVI) Hochu, ten tě má prokouknutýho.
+
+RIMMER rezignovaně kývá na souhlas.
+
+KRYTON: Musíte nám pomoct! Inkvizitor udělá cokoli, aby nás vymazal!
+
+Otevřou se dveře a vejde DRUHÝ KRYTON a DRUHÝ LISTER. Jsou velmi podobní prvnímu KRYTONOVI a LISTEROVI, ale hlava DRUHÉHO KRYTONA je zaoblenější. DRUHÝ LISTER je oblečen podobně jako LISTER, ale je trochu menší a má horší sestřih.
+
+DRUHÝ LISTER: Do prčic, co je to za chlápky?
+
+LISTER: Do prčic, na to se vykašli. Kdo seš sakra ty?
+
+DRUHÝ LISTER: Já jsem sakra Lister!
+
+KRYTON: Ovšem! Vaše alternativní já! Jeden z mnoha Davidů Listerů, který nedostal šanci žít.
+
+LISTER: Jsme něco jako... siamský spermie?
+
+KRYTON: Ano, pane.
+
+DRUHÝ KRYTON: Decentně řečeno, pane.
+
+KOCOUR: Co s nima uděláme?
+
+RIMMER: Já bych je zabil.
+
+LISTER a DRUHÝ LISTER: (Společně) Rimmere, polib si!
+
+DRUHÝ LISTER: Je to děsnej ťulpas!
+
+LISTER: To mi povídej!
+
+RIMMER: Jsou to jen lháři spoutání řetězy jako Sydney Poitier a Tony Curtis v „Útěku v řetězech“. Otevřem dveře na věčnost a vykopnem je.
+
+DRUHÝ LISTER: Rimmere, zabíjet se nebude, rozumíš?
+
+LISTER: Jo, jasně!
+
+RIMMER: Ty jsou z nějaké podivné alternativní dimenze, chtějí unést loď a udělat s námi... uéé, různé nechutnosti. Vlezem s nimi do výtahu, vyvezem je nahoru a strčíme do basy.
+
+KOCOUR: Nerad to říkám, ale „Nozdry jak vítěznej oblouk“ mají jednou pravdu. Honem, hněte sebou!
+
+RIMMER: Jaks mě to nazval?
+
+ 
+Výtah
+
+Záběr na všechny nahuštěné ve starém výtahu s mřížemi místo dveří. LISTEROVÉ si povídají.
+
+LISTER: Hele, ty víš, vo co de.
+
+DRUHÝ LISTER: Jak to, že vim, vo co de?
+
+LISTER: Protože seš já. Jsme vystřelený z jedný hlavně. Akorát že jeden z nás plaval prsa a druhej kraula.
+
+DRUHÝ LISTER: Co to má znamenat?
+
+LISTER: Znamená to…
+
+LISTER je přerušen, když se INKVIZITOR objeví v poschodí nad nimi a začne na ně střílet oranžové paprsky skrz podlahu z kovových mříží, na níž stojí.
+
+LISTER: Padáme, hoši!
+
+Zavládne panika, jak se každý pokouší utéct. LISTER a KRYTON se oddělí od skupiny. DRUHÝ LISTER a DRUHÝ KRYTON jsou zasaženi INKVIZITOROVÝM laserem a explodují.
+
+KRYTON: Tudy, honem, jdeme.
+
+LISTER: Jdem zpátky! Rychle zpátky!
+
+Vrátí se tam, odkud slyšeli explozi. LISTER se sehne nad těly DRUHÉHO LISTERA a DRUHÉHO KRYTONA. Byli doslova rozmetáni na kusy.
+
+LISTER: Pane Bože. Počkej moment, tohle se může hodit. (Sebere cosi ze země) Padáme!
+
+Oba pokračují v útěku.
+
+LISTER: Jestli se dostaneme do hangáru, třeba se nám podaří šlohnout Kosmika a odfrčet.
+
+Přiběhnou k zamčeným dveřím.
+
+KRYTON: Můžeme to zkusit ventilací.
+
+LISTER: To není nutný.
+
+KRYTON: Pane?
+
+LISTER: Hele, teď udělám něco …  něco hrozně nechutnýho. Nesmíš se dívat. Otoč se.
+
+KRYTON: Ale co?
+
+LISTER: Věř mi a nechtěj to vědět!
+
+KRYTON se neochotně otočí. LISTER vytáhne cosi z bundy; je to ruka DRUHÉHO LISTERA. Přitiskne ruku na zařízení otisků dlaní, dveře se otevřou. Zastrčí ruku zpátky do bundy a otočí se. KRYTON má znechucený pohled ve tváři.
+
+KRYTON: Logicky existuje jen jeden způsob, jak byste mohl ty dveře otevřít. Je mi až na zvracení. Kde to je?
+
+LISTER: Co myslíš?
+
+KRYTON: Ééé, pane!! Máte to schované v té bundě!
+
+LISTER: Dostal jsem nás z díry, ne?
+
+KRYTON: Pane, Vy jste zvrhlík! Jste zvrácený, zvrácený člověk!
+
+LISTER: Neblbni.
+
+KRYTON: Jak Vás něco takového mohlo napadnout?
+
+LISTER: Sklapni! Nebo tě tím plácnu po hlavě!
+
+KRYTON: Pane, kdyby roboti mohli zvracet, plnil bych už pátý sáček. Jste zvrácený člověk! Opravdu zvrácený!
+
+LISTER: (Táhne KRYTONA) Dělej, pojď už! Honem!
+
+ 
+
+Kokpit Kosmika
+
+LISTER a KRYTON sedí v Kosmiku. LISTER se pokouší přeseknout pouta, zatímco KRYTON zkoumá rukavici.
+
+LISTER: K čemu tohle je? Proč se snažim utýct? Stejně to máme spočítaný.
+
+KRYTON: Ale vůbec ne! Víme jen to, že zemřu. A pokud Vám můj malý gambit nakonec zachrání život, pak to bude dobrý tah. Co se mě týče, já se smrti nebojím.
+
+LISTER: Vážně?
+
+KRYTON: Jsem naprogramovaný, abych obětoval život. Proto byla série robotů 4000 vyhlášena „Androidem roku“ pět let za sebou! Záleží mi proto na životě jako lumíkovi v chronické depresi.
+
+LISTER: To není pravda, že jo?
+
+KRYTON: Prosím?
+
+LISTER: Už to tak není. A za to můžu já. Všechno je moje vina. Já tě donutil ukončit program. Naučil tě lhát. Samostatně se rozhodovat. Kvůli mně jsi... lidštější. Dal jsem ti život, abys ho ztratil.
+
+KRYTON: Pane, při vší úctě, tohle je do nebe volající blábol. (Poklepává nervózně pravou nohou)
+
+LISTER: Krytone, poznám, když lžeš. Podupáváš pravou nohou. Ani o tom nevíš.
+
+KRYTON: Nesmysl. (Podupává silněji) Já se nebojím zemřít. (Stále silněji) Vůbec se smrti nebojím. (Jeho noha teď skáče tak, že hýbe celým tělem) Věřím v křemíkové nebe! Věřím v posmrtný život androidů! Ještě jste se nezbavil těch pout!?
+
+LISTER: (Zařve) Krytone!!! (Udeří kladivem) Nedovolím, aby si umřel.
+
+KRYTON: Příčina a následek. Už je vlastně po mně. Teď se jen pokusíme zachránit Váš život. (Uchopí rukavici) Myslím, že to mám, je to varianta dešifrovacího systému Enigma.
+
+LISTER: Enigma! Enig … Enigma!
+
+KRYTON: „Enig“, ovšem! Moje poslední slova, ha! Takže jestli nám to vyjde, měla by ta pouta zestárnout o půl milionu let.
+
+LISTER: A když to nevyjde?
+
+KRYTON: Vymažu celý vesmír.
+
+KRYTON stiskne knoflík na rukavici. Vystřelí z ní žluto-zelený paprsek, který změní pouta a řetězy na prach.
+
+LISTER: Co teď?
+
+KRYTON: A teď máme moc.
+
+Jsou vyplašeni jakýmsi kovovým zvukem vzniklým při otevírání dveří. KOCOUR a RIMMER vtrhnou dovnitř.
+
+KOCOUR: Tak hele, nevim, kdo jste, ale jak jsme viděli toho šílence, jsme s vámi.
+
+RIMMER: Chladnokrevně zabil dva členy naší posádky.
+
+KOCOUR: Já jsem Kocour, tohle je Rimmer.
+
+LISTER: Jo. (Příslušně ukazuje) Lister. Kryton.
+
+RIMMER: Tak aby bylo jasno, nejsem zrovna nadšen tím, že se musím paktovat s vámi, ale toho ďábla sami nepřemůžem.
+
+LISTER: Ty si mě fakt nepamatuješ, co? Jak ti všechno, co jsem dělal, lezlo na nervy. Jak jsem si stříhal nehty tvym sekáčkem na maso a podobně. Úplně jsi z toho šílel.
+
+KRYTON: Pane, musíme honem dolů do skladiště. Vzpomínáte, co jsem nám řekl - tam svedeme s Inkvizitorem tu rozhodující bitvu.
+
+KOCOUR: To máte v plánu? Vlítnout tam a bojovat s ním? To je prima. Mám se zmalovat jako terč?
+
+LISTER: Hele, lámal jsem si trochu hlavu, něco mě napadlo.
+
+KRYTON: Ano, pane?
+
+LISTER: Poprvé v životě použiju svůj mozek.
+
+KRYTON: Myslíte, že je to za daných okolností skutečně moudré?
+
+LISTER: Dej mi rukavici času.
+
+KRYTON mu ji podá.
+
+KRYTON: Vždyť ji neumíte použít!
+
+LISTER: Budeš na mě křičet instrukce.
+
+KRYTON: Ale tak si ji vezmu rovnou.
+
+LISTER: Ty si jí nemůžeš vzít!
+
+KRYTON: Proč ne?
+
+LISTER: Nemáš program na zabíjení.
+
+ 
+
+Skladiště Červeného trpaslíka
+
+LISTER, RIMMER, KRYTON a KOCOUR jdou skladištěm. INKVIZITOR se objeví za nimi. Všichni se rychle otočí.
+
+INKVIZITOR: Tak, smrtelníci se chtějí bít s mistrem!
+
+INKVIZITOR vystřelí z rukavice červeno-oranžový paprsek na RIMMERA a KOCOURA a zabije je. LISTER a KRYTON utečou za roh.
+
+LISTER: (Třímá rukavici) Krytone, nevim, jak se s ní zachází.
+
+KRYTON: Gama, delta, jedna, čtyři, pět.
+
+KRYTON běží opačným směrem. LISTER a INKVIZITOR se objeví na opačných stranách skladiště. Oba zároveň stisknou knoflík na svých rukavicích a vystřelí na sebe. Oba paprsky se setkají uprostřed cesty a vzájemně se zruší. LISTER se snaží
+
+namačkat něco dalšího, ale Inkvizitor to má dříve a zasáhne ho první žluto-zeleným paprskem. LISTERA to odhodí. Paprsek udělal z LISTERA malého, osmi až devítiletého, chlapce.
+
+LISTER: Do prčic! Omladils mě!
+
+INKVIZITOR: Útok začíná!
+
+Trefí LISTERA znovu a ten se změní na starého muže.
+
+LISTER: Do kosmu, cos to se mnou udělal teď?
+
+INKVIZITOR udeří starého LISTERA do tváře, srazí ho k zemi a začne něco programovat na rukavici. KRYTON se připlíží za INKVIZITORA.
+
+KRYTON: Promiňte, mohl byste mi věnovat chvilku pozornost?
+
+INKVIZITOR: Heh?
+
+INKVIZITOR se otočí a LISTER ho zmrazí modrým paprskem. KRYTON vezme INKVIZITOROVI rukavici a vrátí LISTERA do jeho normálního věku.
+
+LISTER: (Posmívajíc se KRYTONOVI) „Promiňte, mohl byste mi na malou chviličku věnovat pozornost?“?
+
+KRYTON: Tohle bylo to nejlepší, na co jsem se v onu chvíli zmohl.
+
+LISTER: Dostal Kocoura a Rimmera.
+
+KRYTON: Já vím. Poslyšte, musím se vrátit v čase a obětovat se, abychom se nejdříve mohli dostat do toho maléru, ve kterém teď jsme.
+
+KRYTON začne něco programovat na rukavici.
+
+LISTER: (Sklíčeně) Jo, jasně.
+
+KRYTON: Dnešní den se moc nevydařil, že, pane?
+
+LISTER: Jak dlouho potrvá, než rozmrzne? Deset minut?
+
+KRYTON: Ne. Osm celých čtyři.
+
+LISTER: Doufám, že se nepleteme.
+
+KRYTON: Já vím. Rukavice.
+
+Vymění si rukavice.
+
+KRYTON: Takže co řeknu, když se objevím za Inkvizitorem?
+
+LISTER: Á... (Dívajíc se nahoru) „Perfektní, co udělám teď…“
+
+KRYTON: Dost. To je ono, to je ono. Už vím, už to mám. Nic mi neříkejte - mám to.
+
+KRYTON na sebe vystřelí paprsek z rukavice a zmizí.
+
+LISTER: (K zmraženému INKVIZITOROVI) Tak vobludo, trochu se pohoupeme.
+
+ 
+Nějaký sklad na Trpaslíkovi
+
+LISTER kouká přes zábradlí. Inkvizitor se houpe na provaze nad velmi hlubokou propastí.
+
+LISTER: Nějak se to s tebou houpá.
+
+INKVIZITOR: Co to děláš?
+
+LISTER: Tak nebo onak, dneska jsi zabil spoustu mejch přátel. Řekl bych, že sis to u mě definitivně rozházel.
+
+LISTER si zapálí cigaretu. Upustí kovovou krabičku pro demonstraci hloubky propasti.
+
+LISTER: Hopla.
+
+INKVIZITOR: Takže, ty mě teď zabiješ? Myslím, že ne. Jsi malý tlustý človíček, který nemá kuráž.
+
+LISTER: Blbě kecáš na chlapa, co se houpe nad propastí.
+
+INKVIZITOR: Nahlédl jsem ti do srdce. Ty na to nemáš.
+
+LISTER zapálí provaz, který je uvázán na háku ve zdi.
+
+LISTER: Že ne? Vsadíš svůj život?
+
+Provaz se přepálí, ale LISTER ho na poslední chvíli chytne a přitáhne s námahou INKVIZITORA do bezpečí.
+
+LISTER: Neměl jsem v úmyslu tě zabít.
+
+INKVIZITOR: Ne?
+
+LISTER: Ne. Chtěl jsem ti zachránit život.
+
+INKVIZITOR: Zachránit mi život? Proč?
+
+LISTER: Když ti zachráním život a ty mě vygumuješ, nebudu ti moct zachránit život a zhebneš. Přeber si to, hochu.
+
+LISTER zahodí cigaretu, zašlápne nedopalek a hodí rukavici zpátky INKVIZITOROVI.
+
+INKVIZITOR: Vracíš mi moji rukavici?
+
+LISTER: Mám to v suchu. Nemůžeš na mě. Ostatní jsi zabil, ale já jsem v klidu. (Otočí se a chce odejít)
+
+INKVIZITOR: Stůj, ještě něco. Pokud tě vymažu z historie, tak jsi nikdy neexistoval a nemohls ohrozit můj život.
+
+LISTER: Na tom něco je.
+
+INKVIZITOR: Takže tě můžu vymazat bez rizika.
+
+LISTER: Jo.
+
+INKVIZITOR mačká knoflíky na rukavici, ale místo, aby energie vystřelila ven špičkou prstu, vystřelí dozadu ze zápěstí a uzavře INKVIZITORA do červeno-oranžové bubliny.
+
+INKVIZITOR: Co?
+
+LISTER: Jo! Starej trik se zpětnym plamenem rukavice času. Právě sis koupil lístek na věčnost, ty bezbožnej ubožáku.
+
+INKVIZITOR: Moje dílo! Moje velkolepé dílo bude zničeno!
+
+INKVIZITOR i rukavice času se rozpustí. Objeví se KRYTON.
+
+LISTER: Uf, vyšlo to!
+
+KRYTON: Vyšlo to?
+
+LISTER: Krytone, seš génius!
+
+KRYTON: Ale ne, byl to Váš plán. Já jsem jen přeprogramoval rukavici.
+
+LISTER: A co bude teď?
+
+Opodál se objeví RIMMER.
+
+KRYTON: No, počkáme, až se časoprostorové kontinuum zase vrátí zpět.
+
+Objeví se KOCOUR.
+
+KRYTON: Řekl bych, že je vhodná příležitost, abyste mi podal ruku, pane.
+
+LISTER: Chceš podat ruku? Mám lepší nápad. (Ukáže utrhlou ruku) Podám ti hned tři!

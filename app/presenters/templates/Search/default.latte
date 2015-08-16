@@ -1,0 +1,17 @@
+{block description}
+	Která oblíbená postava z Červeného Trpaslíka řekla "{$search->getInput()}"?
+{/block}
+{block breadcrumb}
+	<li class="active">Vyhledávání: "{$search->getInput()}"</li>
+{/block}
+{block content}
+<div class="row">
+	<h1 class="page-header h1" n:block="title">Vyhledávání: {$search->getInput()}</h1>
+	{foreach $results as $result}
+		{first 3}<div class="row">{/first}
+		<div class="col-sm-4">
+			{control searchBox, $result}
+		</div>
+		{last 3}</div>{/last}
+	{/foreach}
+</div>

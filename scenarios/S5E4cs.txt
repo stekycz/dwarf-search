@@ -1,0 +1,863 @@
+Planeta
+
+Kosmik přistává nedaleko staré základny na pustě vypadající planetě. Zuří sněhová bouře.
+
+ 
+
+Kokpit Kosmiku
+
+KRYTON: Gravitace 1,5. Vítr 40 uzlů, proměnlivý. Souřadnice nastaveny. Vypusťte skauta.
+
+KOCOUR se natáhne ke kontrolkám.
+
+RIMMER: (Zastaví ho) Počkej s tím. Já na téhle lodi zodpovídám za letový provoz. Já, pane Krytone, jsem ten, kdo říká: „Vypusťte skauta.“
+
+KRYTON: Omlouvám se, pane. Já jsem Vám nechtěl lézt do zelí.
+
+RIMMER: (Ke KOCOUROVI) Vypusť skauta.
+
+Nikdo nic nedělá. Všichni RIMMERA ostentativně ignorují.
+
+RIMMER: (Důrazně skrz stisknuté zuby) Vypusť skauta.
+
+Stále si ho nevšímají. RIMMER se rozhlédne kolem s výrazem, jaký má někdo, když je ztrapněn.
+
+RIMMER: (Ustupuje) Budu teď vzadu, korelovat... tam vzadu.
+
+KRYTON: (Potichu ke KOCOUROVI) Byl byste tak laskav a vypustil prosím skauta?
+
+KOCOUR odpoví hlasitě s viditelným potěšením, že ho RIMMER musí slyšet.
+
+KOCOUR: (Salutuje) Provedu, pane! (Přehodí výhybku a znovu salutuje) Skaut vypuštěn.
+
+ 
+
+Povrch planety
+
+Zatímco skaut se přibližuje k opuštěné základně, vidíme prostředí z jeho pohledu, přes nějž lze vidět tyto statistické údaje.
+
+ 
+
+*--------------------------------------*
+
+| ROZLIŠENÍ: Nízké                          |
+
+| LOKOMOČNÍ MÓD: Auto              |
+
+| ZVÝŠENÁ: Grafika                           |
+
+|                                                           |
+
+|                                                           |
+
+|                       TÍHA: 10.90                 |
+
+|                       TEPLOTA: Nízká        |
+
+| SENZOR: CCD                                 |
+
+*--------------------------------------*
+
+ 
+
+Střední část Kosmiku
+
+Rozmrzelý RIMMER se snaží tvářit zaměstnaně. LISTER, KRYTON a KOCOUR přicházejí z kokpitu.
+
+KRYTON: Pane, zdá se, že jsme objevili vědeckovýzkumné středisko.
+
+LISTER: A vevnitř někdo je - trosečník.
+
+KRYTON: Doktorka Hildegard Lanstromová.
+
+RIMMER: (Chladně) No, jak je vidět, jsem tu zbytečný, protože v současné době celé operaci schopně velí android, který byl stvořen k mytí záchodů. (Ke KRYTONOVI) Takže mě z toho vynechte, kapitáne Pisoáre.
+
+LISTER: Ta žena je hologram.
+
+KRYTON: A k její záchraně budeme muset použít Vaši dálkovou projekční jednotku, pane.
+
+RIMMER: Á, už mi to došlo. Nejdřív se rozhodnete, že nejsem schopen vydat rozkaz „Vypusťte skauta“, a teď mě posadíte do únikového modulu a kapitán Mísa mě zbaví velení.
+
+LISTER: (Smířlivě) Rimmere, proč si to bereš tak osobně? Jinak ji dostat k nám nemůžeme.
+
+RIMMER: K čemu potřebujem na lodi další hologram?
+
+KRYTON: Je to lékařka, pane. Byla by přínosem pro náš tým.
+
+RIMMER: (Výsměšně) A jako obvykle mi nezbývá než poukázat na chybu v tvé logice.
+
+KRYTON: Chybu?
+
+RIMMER: Na téhle lodi, pánové a kvaziandroidi, na tom červeném drobečku, může být jen jeden hologram. Á, nebo jste zapomněli?
+
+LISTER, KOCOUR a KRYTON ho sledují prázdným pohledem.
+
+RIMMER: (Raněn) Zapomněli.
+
+LISTER: Tak něco vymyslíme. Něco jako „směnnej provoz“.
+
+RIMMER: Jak to myslíš? Za co mě máš? Za pitomou fabriku?
+
+KRYTON: Rád bych Vám připomněl, že direktiva Vesmírného sboru 169 jasně říká -
+
+RIMMER: (Přeruší ho) Holly, připrav ten modul. Udělám cokoliv, abych prchnul před (Paroduje KRYTONA) „další hloupou direktivou...“
+
+KRYTON: Pane, direktivy jsou od toho, aby nás chránily. Není to soubor zlomyslných nařízení namířených proti komukoli.
+
+RIMMER: A viděl snad někdo tu legendární brožuru s direktivami Vesmírného sboru?
+
+LISTER a KOCOUR si vymění překvapené pohledy.
+
+LISTER: To ne.
+
+RIMMER: Vymýšlí si to, viďte? Ta pitomá knížka neexistuje.
+
+KRYTON: Pane, ujišťuji Vás...
+
+RIMMER: Proč je vždycky vytasí proti mně? Proč nebuzeruje Listera? Proč ho nikdy neslyšíme citovat direktivu, která jasně stanoví, že si „člen posádky nesmí čistit zuby E-strunou ze své kytary poté, co zasviní postel nadřízeného obsahem svého sendviče“? To nikdy neslyšíme, že?
+
+KRYTON: Holly, dala bys laskavě panu Rimmerovi holografickou kopii manuálu s direktivami Sboru?
+
+RIMMER: (Netrpělivě) No tak, kde je? (Natáhne ruku dlaní vzhůru) V jeho ruce se objeví kniha v černých deskách formátu A5.
+
+RIMMER: To je ono ?
+
+KRYTON: (Se zadostiučiněním) Měl byste ji prostudovat ve volném čase během své cesty zpátky na loď.
+
+Poražený RIMMER, se dá na odchod. Cestou ho ale něco napadne. Otočí se ke KRYTONOVI.
+
+RIMMER: Změnil ses, víš to?
+
+KRYTON: (Nevinně) Změnil?
+
+RIMMER: Oni to nevidí, ale já ano. Já vím, o co jde. Stal se z tebe nebetyčný drzoun.
+
+KRYTON: É, pane, jsem pouze, é...
+
+RIMMER: Jsi pouhý robot - nic víc, nic míň. Na to nezapomínej. (Otočí se a odejde)
+
+KRYTON: To je ma... To je ma... To je ma - góóóóóór.
+
+ 
+
+Výzkumná stanice
+
+Je tu pochmurná atmosféra, ke které schází už jen nějaká uslintaná příšera. Všechno se zdá být bez života a zaprášené. Posádka - bez RIMMERA - prochází opatrně stanicí.
+
+LISTER: Paní doktorko?
+
+KRYTON: Paní doktorko, jste tam?
+
+ Přijdou k nějakým trezorovými dveřím. LISTER z nich začne stírat prach. Postupně odhaluje výstražné značky.
+
+„ODDĚLENÍ VIROLOGICKÉHO VÝZKUMU.“
+
+LISTER: No paráda !
+
+„VELMI NEBEZPEČNÉ“ s lebkou a zkříženými hnáty.
+
+„VSTUP POUZE V BIOSKAFANDRU“  s obrázkem bioskafandru a výstražné značky. Nakonec se objeví trojúhelníkové varování s děsivým obrázkem muže, zvracejícího obsah svých střev, ve chvíli, kdy exploduje.
+
+Zděšení KOCOUR si přitiskne na nos a ústa kapesník. LISTER si zakryje obličej svým šátkem, který má kolem krku. 
+
+KRYTON: Nemáte se čeho obávat. Kdyby byly ve vzduchu nebezpečné virové kmeny, psychoscan by je už jistě dávno zachytil.
+
+KRYTON se zarazí se a zatřepe s přístrojem.
+
+KRYTON: Tohle ještě nikdy neudělal.
+
+Otočí se a praští s ním o zeď.
+
+KRYTON: Zatracené laciné marťanské baterie! Vymění baterie a zkouší to znovu.
+
+KOCOUR: (Znepokojeně mumlá přes kapesník) Tak co tam máš?
+
+KRYTON: Prosím ještě o chvilku strpení, staré tři sta pětačtyřicítce chvilku trvá, než se zahřeje. Přesto předčí tři sta šestačtyřicítku v mnoha ohledech. Je to malý zázrak, tři roky po sobě se stala „Psychoscanem roku“. Kvalita za pakatel.
+
+Á, jsou tu výsledky. Jo. Budeme... žít.
+
+LISTER: (Úlevný povzdech) Takovouhle akci by vymyslel snad jenom Mickey Mouse.
+
+KOCOUR: Mickey Mouse? To by nenapadlo ani Rampu!
+
+Pokračují v pátrání. KRYTON najde zaprášený kovový kufřík. Otevře ho. Zevnitř se vyvalí bílý kouř. Když se rozptýlí, odhalí v kufříku řadu zavřených laboratorních zkumavek.
+
+KRYTON: To je zvláštní! K nevíře!
+
+Prohlíží zkumavky a pár si jich schová do své příruční brašny.
+
+LISTER: (Mimo záběr) Hele, koukněte na tohle!
+
+LISTER a KOCOUR si prohlížejí řadu dvoumetrových kovových válců u zdi. KRYTON jde za nimi.
+
+LISTER: Samý stázový boxy!
+
+Lehce zavadí o kontrolní panel. Jeden válec se vysune ze zdi a začne se otvírat.
+
+LISTER: Museli jsme něco spustit.
+
+KRYTON: Paní doktorko? Paní Lanstromová.
+
+Otevřený stázový box vypustí páru, ale jinak zatím není nic vidět.
+
+LANSTROMOVÁ: (Hlas se silným německým přízvukem) Copak jste zač?
+
+LISTER: Zdravíčko. Letěli jsme jenom kolem a zachytili jsme signál.
+
+LANSTROMOVÁ: Schopenhauer měl pravdu, nemyslíte? Život bez bolesti nemá smysl.(Krátká pauza) Pánové, chci dát vašim životům smysl.
+
+LANSTROMOVÁ se zvedne ze své ležící polohy. Vypadá jakoby byla v  rozkladu. Její očí září fluorescentní červenou barvou a hned z nich začne střílet elektrické blesky na LISTERA, KRYTONA a KOCOURA. Ti na nic dalšího nečekají a dají se na útěk.
+
+LISTER: Proč nikdy nepotkáme někoho hodnýho?
+
+KOCOUR: A nebo někoho, kdo umí střílet?
+
+ 
+
+Planeta
+
+Kosmik stále stojí ve sněhu.
+
+ 
+
+Kosmik
+
+RIMMER, který značně otálí s odletem, mluví právě s HOLLY.
+
+RIMMER: Říkám ti, Kryton tady přebírá moc. Pomalu, ale jistě. Pamatuješ si, jaký býval? Ublafaná ruina, neasertivní, nulové sebevědomí, výčitky svědomí, s duchem podřazenosti. (Zasněně) Tehdy jsem ho měl moc rád.
+
+HOLLY: Modul je zkontrolován a připraven.
+
+RIMMER: No, tak... ho zkontroluj znovu.
+
+HOLLY: Provedla jsem tři prohlídky - můžeš startovat.
+
+RIMMER: Dobře, tak já jdu.
+
+Konečně vyjde ze dveří, ale vzápětí se vrací zpátky.
+
+RIMMER: Hlavně mě vytáčí tím, jak si myslí, že mi může rozkazovat! No co, kdo si s předpisy zachází, ten s nimi také schází. (Poklepe na knihu s direktivami)
+
+Najednou se zapne radiová vysílačka. Je to LISTER a zní vyplašeně.
+
+LISTER: (Trochu zkresleným hlasem) Rimmere, slyšíš nás? Lanstromová má ňákěj holovirus. Je úplně mešuge!
+
+RIMMER: (Přejde k vysílačce) Listy?
+
+LISTER: Potřebujeme zoufale pomoc, a to hned!
+
+RIMMER: (S širokým úsměvem) Všechno, jak má být?
+
+LISTER: Co? Ty mě neslyšíš?!
+
+RIMMER: (Nestydatě lže a vesele se šklebí) Promiň Listy, je tě špatně slyšet.
+
+KRYTON: (Který přebral vysílačku) Doktorka Lanstromová má nějaký zmutovaný holomor a popadl ji děsivý
+
+záchvat psychopatického běsnění.
+
+RIMMER: (Baví se) Nádhera! Jsem si jistý, že bude přínosem pro náš tým.
+
+KRYTON: Pane, přeladím na jinou frekvenci. Slyšíte mě teď?
+
+Blesk vyrazí KRYTONOVI vysílačku z ruky. KRYTON s LISTEREM utečou a nechají doruda rozžhavenou vysílačku na místě. LANSTROMOVÁ ji svým laserovým pohledem telekineticky zvedne a začne vysílat.
+
+LANSTROMOVÁ: (V laškovném tónu) Nazdárek. Jmenuju se doktorka Hildegard Lanstromová a jsem úplně šílená.
+
+RIMMER: (Stále v dobré náladě) Ale vážně? To je naprostá senzace.
+
+LANSTROMOVÁ: Mám pro tebe hádanku. Co je mrtvé a mrtvé a dočista mrtvé?
+
+RIMMER: Dám se podat, paní doktorko Šáhlá.
+
+LANSTROMOVÁ: Tyyyyyyyyyyy!!!
+
+Vysílačka v Kosmiku pořádně bouchne. Výboj trochu zasáhne RIMMERA a ten uskočí.
+
+RIMMER: Tak už víme, co vám dáme k Ježíšku: lobotomii a vypolštářovanou cimru.(K HOLLY) Holly, musím už letět. Informuj mě o vývoji událostí, ano?
+
+ 
+
+Vesmír
+
+Únikový modul se vrací k Červenému trpaslíku.
+
+ 
+
+Výzkumná stanice
+
+Mezitím, ve strašidelném komplexu, neohrožené trio se opatrně plíží k východu, ve snaze vyhnout se LANSTROMOVÉ.
+
+LISTER: Bože, kde je?
+
+KRYTON: Myslím, že si s námi jen pohrává.
+
+LISTER: Jaká nemoc jí způsobila ten vražednej pohled?
+
+KRYTON: Asi tu půjde o nějaký psychovirus. Zdá se, že stimuluje spící psychické oblasti mozku, které dosud lidstvo nedokázalo řádně využít.
+
+Pár očí - patřících LANSTROMOVÉ - se objeví jako druhý obraz přes KRYTONA během jeho řeči. Doktorka je hledá pomocí své telepatie.
+
+KRYTON: A bohužel to vyžaduje tolik energie, že to odčerpává životní sílu.
+
+LISTER: Proto byla ve stázovym boxu?
+
+KRYTON: Přesně tak. Chtěla si uchovat tu špetku života, jež v ní zůstala.
+
+LISTER: Jestli jí nezbejvá moc času, mohli bysme to s ní nějak uhrát.
+
+LANSTROMOVÁ se nezpozorována objeví v pozadí za nějakými trubkami.
+
+KRYTON: Teoreticky je to dobrý předpoklad. Bohužel -
+
+LANSTROMOVÁ: (Se svým šíleným úsměvem) Bohužel vás už, hošánci, našla. Sviťte, sviťte, očička, našla vás smrt
+
+kmotřička.
+
+Její oči se znovu nebezpečně rozpalují. Než stihne zaútočit, je její energie vyčerpána a LANSTROMOVÁ se s hlasitým řevem rozplyne. Konečně ji virus dorazil.
+
+KRYTON: Ubohá žena. Zničena svým vlastním géniem.
+
+KOCOUR: (Nevěřícně) Géniem?
+
+KRYTON: Ano. Z výzkumů je zřejmé, že byla neobyčejně inteligentní, než chytila ten holovirus. Jestli se nemýlím, plody její práce by měly žít dál. (Pozdvihne svou brašnu)
+
+ 
+
+Vesmír
+
+Kosmik letí vesmírem.
+
+ 
+
+Střední část Kosmiku
+
+Na zpáteční cestě k Trpaslíku: KRYTON a KOCOUR se sklánějí nad mikroskopem, když k nim z kokpitu přijde LISTER.
+
+LISTER: Máš něco?
+
+KRYTON: Velmi pozoruhodné. Lanstromová postulovala, že jsou dva druhy virů. Pozitivní a negativní vir. Ten negativní dobře známe.
+
+LISTER: Jo, jako chřipka, vzteklina a tak.
+
+KRYTON: Ale věřila také, že jsou pozitivní kmeny virů, díky nimž se lidé cítí lépe.
+
+KOCOUR: Například?
+
+KRYTON: Tak například předpovídala jakousi „chřipku naruby“ - zvláštní virový kmen, který vyvolává bezdůvodný pocit štěstí a blaha.
+
+LISTER: To je můj případ! Mám pocit, že život stojí za kulový a ráno se probudím a je mi dobře bez zřejmýho důvodu!
+
+KRYTON: Je možné, že jste se při těchto příležitostech nevědomky nakazil virem Lanstromové. Podle ní to byla chronická nemoc diskžokejů 20. století.
+
+KOCOUR: Co je to za vodičky?
+
+KRYTON: Lanstromová tvrdí, že izolovala několik kmenů pozitivních virů: inspiraci, charisma, sexuální přitažlivost -
+
+KOCOUR: Virus pro sexuální přitažlivost? Musím do špitálu, jsem beznadějnej případ!
+
+Zatímco mu KOCOUR s KRYTONEM nevěnují pozornost, LISTER nenápadně tuto zkumavku ukryje do své bundy.
+
+KRYTON: (Ukáže na další zkumavku) Ale tohle je vůbec největší záhada. Podle jejích zápisků je to virový kmen Felicitus Populi, běžně známý jako „štěstí“.
+
+LISTER: (Nevěřícně) Štěstí je virus?
+
+KRYTON: Hm. Pozitivní virus, kterým se v průběhu života krátkodobě nakazí většina populace. (Drží jakousi lékařskou pistoli, nabitou zkumavkou s virem štěstí) A tady to je: Štěstěna v kapalné podobě. (K LISTEROVI) Zkusíte to?
+
+LISTER: Je to neškodný?
+
+KRYTON: Naprosto bezpečné. Navíc je to minimální dávka, která účinkuje pouze tři minuty.
+
+LISTER pokrčí rameny, potom si shrne stranou své dready a KRYTON mu vstřelí virus do krku.
+
+KRYTON: (Podává mu balíček karet) Vytáhněte z tohoto balíčku karet všechna esa.
+
+LISTER: Mám je zamíchat ?
+
+KRYTON: Hm..
+
+LISTER zamíchá karty a pak postupně vytahuje všechna esa. KRYTON každý jeho úspěch komentuje poměrem pravděpodobností..
+
+KRYTON: 13 ku 1. 221 ku 1. 5 525 ku 1. 270 725 ku 1!
+
+Inspirovaný KRYTON se rozhodne udělat ještě jeden odvážnější pokus.
+
+KRYTON: Pane, a teď zkuste hodit touhletou šipkou do tamtoho terče za Vámi, levačkou a poslepu.
+
+LISTER: (Vrtí hlavou) Cože? Levačkou?
+
+KRYTON: Hm.
+
+LISTER: Do terče?
+
+KRYTON: Hm.
+
+LISTER: Poslepu?
+
+KRYTON: Hm.
+
+LISTER: Nemám šanci.
+
+KRYTON: Věřte mi, pane.
+
+LISTER, stále nevěřící, zaujme pozici.
+
+LISTER: Už můžu?
+
+LISTER hodí šipkou a ta zmizí z dohledu. Chvíli je ticho.
+
+KRYTON: Pravděpodobně to znamená, že se virus štěstí vyčerpal.
+
+KRYTON se otočí. Šipka se mu zapíchla vzadu do hlavy. Kocour ji vytáhne s hlasitým „plop“.
+
+HOLLY: Až skončíte, pánové, mám takový malý problém s nákladovými vraty.
+
+LISTER: A co s nima je?
+
+HOLLY: Nechtějí se otevřít. Rimmer je zablokoval.
+
+Její tvář zmizí z obrazovky, vystřídána podezřele usmívajícím se RIMMEREM.
+
+RIMMER: Vítejte doma, pánové! Kdybyste chtěli přistát, pak pokračujte do prostoru 47.
+
+LISTER: 47? To je karanténa!
+
+RIMMER: Uhodls.
+
+KRYTON: Provedl jsem screening: nejsme infekční.
+
+RIMMER: No, nemíním zpochybňovat virový screening, který provedl automatický uklízeč záchodů, ale musím vás upozornit na direktivu Vesmírného sboru 595.
+
+KOCOUR: No to se mi snad jen zdá!
+
+RIMMER: Nemám v úmyslu nakazit se holografickým ekvivalentem vztekliny. Takže, pánové, račte pokračovat na Izolaci 152, kde strávíte příští tři měsíce.
+
+ 
+
+Přistávací plošina
+
+Kosmik přistává v sektoru 47.
+
+ 
+
+Karanténní místnost 152
+
+KRYTON, LISTER a KOCOUR vstupují se svými saky paky dovnitř, vypadají nesporně otráveně.
+
+KRYTON: Dvanáct týdnů. Jímá mne zlověstné, neblahé tušení.
+
+LISTER: Ale neboj, nějak to přežijeme.
+
+KRYTON: Je to jedna místnost! Jedna židle, jedna postel, jedna sprcha.
+
+LISTER: To zvládnem!
+
+KRYTON: Je vědecky prokázáno, že muži potřebují k životu trochu samoty!
+
+LISTER: Fakt?
+
+KRYTON: Hm! Nejmilejší kratochvíle byly vždy ty, jimž se věnovali o samotě: golf, rybolov a opájení se svou výjimečností.
+
+KOCOUR: Tohle je i u zvířat! Vemte si dva tygry zavřené pohromadě! Jeden skončí vždycky jako jednohubka!
+
+KRYTON: Tygři, lvi, škorpióni, krysy, ale i supi v zajetí jsou v nebezpečí.
+
+LISTER: (Je mu to k smíchu) Co to povídáš? Supi že potřebujou mít soukromí? Aby si dali nohy na stůl a četli časopis „Naše mršina“?
+
+KRYTON: Pane, myslím, že podceňujete vážnost situace.
+
+LISTER: Jakej je v tom teď rozdíl, proboha? Stejně jsme skoro pořád spolu.
+
+KOCOUR: Jo, ale věděli jsme, že se můžem kdykoliv zdejchnout. Ale teď ne...
+
+RIMMER se objeví za tmavým pozorovacím oknem, které je přes celou zeď karanténní místnosti. Je viditelně dobře naladěn.
+
+RIMMER: Vítejte v karanténě, hoši. Doufám, že vám ty tři měsíce uběhnou stejně rychle a příjemně jako stoletá válka.
+
+KRYTON: Pane, musím protestovat. Dal jste nám pouze jednolůžkový pokoj!
+
+RIMMER: (Drží v ruce manuál s direktivami) Direktiva Vesmírného sboru 597 říká jasně „Právo na lůžko pro toho, jenž
+
+je v evidenci“. A neboť je Lister jediný člen posádky v evidenci, máte nárok jen na jedno.
+
+KOCOUR: (Ke KRYTONOVI) Neper se s nim.
+
+KRYTON: A co právo na zábavu? Máme přece nárok na minimální možnost rozptýlení. Hry, literaturu, koníčky, promítání filmů.
+
+RIMMER: A v souladu s direktivou 312 je najdete tamhle naproti v té skříňce. Šachy, kterým chybí třicet figurek, ženský časopis s přílohou o háčkovaných čapkách, haldu křížovek s vyluštěnými tajenkami a video s nepřekonatelnou lahůdkou: „Tapetování, malování, zdobení - vymaluj si sám“.
+
+KOCOUR: (Ke KRYTONOVI) Neper se s nim.
+
+RIMMER: A abych splnil všechny dietetické požadavky, dnešní večeře, pánové, se bude skládat z brukvové polévky, dále z brukvového salátu a jako zákusek vám jistě přijde k chuti brukvový dort.
+
+LISTER: Rimmere, ty víš sakra dobře, že po brukvi krkám.
+
+RIMMER: Ale to tě lituji. Brukev budete mít téměř ke každému jídlu. (Vrtí hlavou) Ne, to je lež. Ke každému jídlu!
+
+LISTER: Jak dlouho to budeš protahovat?
+
+RIMMER: Co protahovat? Já plním jen direktivu číslo 595! Teď, přátelé, už musím letět, abych vám připravil denní příděl hudby pro rozptýlení. Tím budete nadšení: Je to nekonečná smyčka se „Slavnými tangy Raggieho Dixona“.
+
+KOCOUR: (Kterému už došla trpělivost) Tak dost! Je čas ho zmlátit. Pusťte mě na něj! Já ho zabiju!
+
+KRYTON a LISTER ho zadržují a RIMMER s rozpustilým zamáváním zmizí.
+
+LISTER: (Naléhavě) Poslouchejte, chce, abysme si lezli na nervy; a prožili dvanáct tejdnů pekla. Ale my mu to potěšení nedopřejeme. Celou dobu, co tady budeme, se ani jednou nepohádáme, nezvýšíme hlas, nepadne křivý slovo, nedojde ke slovní přestřelce. (Ke KRYTONOVI) Jo? (Ke KOCOUROVI) Tak jo?
+
+Oba souhlasně přikyvují.
+
+LISTER: Kluci z Trpaslíka.
+
+Všichni tři třepou rukama ve vzduchu jako symbol toho, že hoši z Trpaslíka drží za všech okolností při sobě..
+
+ 
+
+Karanténní místnost 152, o pět dní později
+
+LISTER je otočený zády ke kameře a zkoumá časový rozpis na tabuli. Když se obrátí, na jednom oku má výrazný monokl. Věnuje nepřátelský pohled KOCOUROVI, který sedí na kraji postele ještě v horším stavu. Má náplast přes kořen nosu a na pásce zavěšenou, zasádrovanou ruku. Kromě toho má chudák i stejné oblečení jako před pěti dny. KRYTON vyjde ze sprchy. Opatrně si ohmatává hlavu.
+
+KRYTON: Snad už je to dobré. Dvě hodiny jsem vyklepával hlavu do původního tvaru. (Nakloní se ke KOCOUROVI, který ho schválně ignoruje.) Kruci, dvě hodiny!
+
+LISTER: Pánové! Jenom klid, jo?
+
+Sedí u stolu, který je plný napůl dokončených háčkovaných čapek. LISTER si právě jednu, zvlášť děsnou, zkouší.
+
+KOCOUR: (V nebezpečném tónu) Ještě jednou mi řekne „jenom klid“ a přísahám, že mu z uší nadělám rumba-koule a na krku zatančím fandango!
+
+LISTER: Já jenom říkám, ňákej ten tejden a vězení skončí.
+
+KRYTON: (K LISTEROVI) A jestli chcete být mezi živými, až to bude jen o jeden méně, radil bych Vám, abyste radši nesmrkal.
+
+LISTER: (Který se to zrovna chystal udělat) A můžu se tě zeptat proč?
+
+KRYTON: No, pominu ten rámus a odpudivý chrčivý zvuk a přejdu rovnou k té nejodpornější fázi, kdy vždycky, skutečně pokaždé, co se vysmrkáte, musíte kapesník rozevřít a prohlédnout si obsah. (Mimicky to předvede) Nechápu, proč! Co čekáte, že tam uvidíte? Snad Gauguinovy Tahiťanky? Obličej Madonny? Neobjevený Shakespearův sonet?
+
+LISTER: (Naštvaně) Rimmer tě vymák dobře - fakt jsi se změnil. (Vstane a jde k němu) Začínáš bejt fouňa.
+
+KRYTON: (Varovně) To né, neříkejte mi tak. Víte, co se stane, když mi řeknete „fouňa“.
+
+LISTER: Jen si poslechni, jak ti říkám. Nemůžu jinak, protože ty seš fouňa! Fouňa! Fouňa!
+
+KRYTON si během jeho výkřiků zakryje rukama oba audiovstupy.
+
+KRYTON: Já vás stejně neslyším. Ani nemůžu slyšet, jak mi říkáte „fouňa“. Víte, co se stane, když mi řeknete „fouňa“?
+
+LISTER na tabuli rychle napíše „FOUŇA“ tiskacími písmeny přes celou plochu. Strhne ji ze stojanu a strčí přímo před KRYTONŮV obličej.
+
+LISTER: Fouňa!
+
+KRYTON: To ne. To ne, neříkal jsem to? Nevaroval jsem Vás, co se stane?!
+
+KRYTON demonstrativně drží videokazetu.
+
+KOCOUR: Ne.
+
+KRYTON: Ano.
+
+KOCOUR: Ne!
+
+KRYTON: Já to pustím.
+
+KOCOUR: Nepustíš.
+
+KRYTON: Ale pustím.
+
+KOCOUR: (Starostlivě k LISTEROVI) Chce to pustit.
+
+KRYTON: Jdeme na to.
+
+KOCOUR: (Nervózně) Jde na to!
+
+LISTER: Jestli to pustíš, tak ti nepomůžu. Už ti znova nepomůžu, teď už ne.
+
+KRYTON: Já už nepotřebuju Vaši pomoc. Dokážu vyndat sám svou hlavu z odpadkového kontejneru.
+
+KOCOUR: Neskončíš v odpadcích, Frankensteine. Tentokrát tvou hlavu roztavím v mikrovlnné troubě!
+
+KRYTON: Frankenstein byl náhodou hezoun, nebyl to netvor. To je rozšířený omyl, jehož se dopouštějí všichni hloupí lidé.
+
+KOCOUR: (Vyskočí) Neopravuj mě. Víš, jak tohle nesnáším. Z toho se mi ježí hrst!
+
+Postaví se přímo před KRYTONA, těsně nosem k jeho nosu.
+
+KRYTON: To je „srst“, ňoumo. Z toho se Vám ježí srst. „Hrst“ znamená něco jiného!
+
+KOCOUR: Hrst, srst, srst, prst. Ať je to, co chce, je to zježený a namířený na tebe!
+
+Tlačí do sebe navzájem čely.
+
+KRYTON: Jo?
+
+KOCOUR: Jo!
+
+LISTER: (Zasahuje ve chvíli, kdy to vypadá, že dojde ke rvačce) No tak, podívejte se, co se to s náma stalo! Jenom pět
+
+dní na brukvích, s tapetářským videem a háčkovacím časopisem a všichni jsme se z toho zcvokli!
+
+KRYTON: (K LISTEROVI) Jenom mi neříkejte „fouňa“ a nesmrkejte.
+
+KOCOUR: (Ke KRYTONOVI) A ty nepouštěj video a neopravuj mě.
+
+KRYTON: Dobře.
+
+KOCOUR: Tak jo.
+
+LISTER: No sláva. (Sedne si) Však mi to nějak zvládnem.
+
+KRYTON a KOCOUR: (Společně k němu) A neříkej(te) však mi to nějak zvládnem!!
+
+KRYTON: To trapné, hloupé ejchuchú; a vítězoslavný výraz.
+
+LISTER: (Nesmyslně se šklebí) Neni to uhozený? Jsme tady jenom pět dní. Není tady ani stopa po nějakym viru!
+
+KRYTON: (Náhle osvícen) To je ono - pět dní! Dostali jsme ho! Direktiva 699 - můžeme požadovat nový screening!
+
+KOCOUR: Odmítne to.
+
+KRYTON: Ale ne! Předpisy jsou mu nadevše! Teď je na nás krátký!
+
+RIMMER: (Jenom hlas, který zní nějak podivně) Pánové, vaše konverzace se hezky poslouchá.
+
+LISTER: (Směrem k temnému pozorovacímu oknu) Rimmere, to seš ty?
+
+RIMMER: Ano.
+
+LISTER: Jak dlouho nás posloucháš?
+
+RIMMER: Dvě, možná tři hodiny.
+
+LISTER: Nikdo z nás není nemocnej.
+
+KOCOUR: Jsme zdraví.
+
+KRYTON: Musíte udělat nový screening, podle direktivy 699.
+
+LISTER: Nikdo z nás se nenakazil a ani nikdo nezcvoknul!
+
+RIMMER: Tak to je dobře.
+
+Pozorovací okno se osvítí a odhalí Rimmera. NENÍ v uniformě. Má kostičkované šaty, čepec a blonďaté copánky.
+
+RIMMER: Je všechno v normálu?
+
+LISTER: (Nepatrně se třesoucím hlasem) Co blbneš? Jasně, co by tak nebylo v normálu?
+
+RIMMER: (Mluví potichu a jakoby malátně) Vy si to fakt myslíte? Sedím tady, mám na sobě kostičkované šaty z kanafasu a vojenské boty. Myslíte, že to je normální?
+
+KOCOUR: No jasně, že ne. Jenom jsme si mysleli, že ti hráblo! No to byl jen fór.
+
+RIMMER: Byl to takový malý test - chtěl jsem vědět, jestli jste se zbláznili.
+
+Nečekaně vydá děsivé zavytí.
+
+RIMMER: Úúúúúúúúúúú!!! Jestli něco nesnáším, tak to jsou blázni.
+
+LISTER: Ten test jsme udělali. Tak nás můžeš pustit ven.
+
+RIMMER: Nemůžu vás pustit.
+
+LISTER: Proč ne?
+
+RIMMER: Protože mi to král bramborových lidí nedovolí. Prosil jsem ho. Klekl jsem si na kolena a plakal. Chce vás držet tady. Držet vás tady deset let.
+
+KOCOUR: (Uklidňujícím hlasem) Mohli bysme ho vidět?
+
+RIMMER: Vidět koho?
+
+KOCOUR: Toho krále.
+
+RIMMER: Máte kouzelný koberec?
+
+LISTER: (Ve snaze všechno vyřešit) Jo, malej třísedadlovej.
+
+RIMMER: To mi teda vysvětlete. Chcete letět na kouzelném koberci za králem bramborových lidí a prosit ho, aby vás propustil, a tvrdíte, že jste úplně zdraví?! Řek` bych, že za tohle vyfasujete dvě hodiny BK.
+
+LISTER: A co je to BK?
+
+KOCOUR: Musel ses ptát?
+
+RIMMER: Zkrátka... Bez Kyslíku. Dvě hodiny žádný kyslík. To vás odnaučí bláznění.
+
+Zmizí.
+
+LISTER: (Znepokojeně) Co budeme dělat?
+
+KOCOUR: Pomůže nám jen bramborovej král.
+
+LISTER: (Ke KRYTONOVI) Kde hergot chytil ten holovirus?
+
+KRYTON: Může se přenášet radiovými vlnami. Musel aspoň chvilku mluvit s Lanstromovou. (Ozve se tlumený zvuk naznačující vypnutí kyslíku) Odhaduji, že máme asi sedm minut, než bude vzduch tady nedýchatelný.
+
+KOCOUR: Musíme se odtud nějak dostat!
+
+LISTER: To asi nepůjde. O to přece v karanténě jde. (Zkoumá propustnost dveří) Nic se nedostane ven; a nic dovnitř. Ani mikrob. Krytone, neuměl by si dešifrovat kód zámku ?
+
+KRYTON: Naděje, že naťukám správnou kombinaci je několik miliard (Dostal nápad) ...ku jedné!
+
+LISTER: (Který dostal ten samý) Ledaže...
+
+KRYTON: Ovšem!
+
+LISTER: Virus štěstí!
+
+Spěchají ke stolu, kde KRYTON vezme do ruky lékařskou pistoli, stále nabitou virem Felicitus Populi.
+
+KOCOUR: Vy si fakt myslíte, že nás to dostane ven?
+
+KRYTON: Když píchnu panu Listerovi dost velkou dávku, stane se dočasně největším šťastlivcem, jaký kdy na světě žil.
+
+KRYTON aplikuje vir do LISTEROVA krku.
+
+LISTER: (Vrací se zpátky ke dveřím) Tak jo, co mám teď dělat?
+
+KRYTON: Naťukejte čísla, která považujete za nejlepší.
+
+LISTER: Dobře.
+
+Zmáčkne několik knoflíků na klávesnici u dveří, moc nápaditý v tom tedy není, mačká je téměř popořadě. Chvíli čeká. Dveře se neotvírají.
+
+LISTER: (Podrážděně) Grrrr!
+
+KRYTON: Ještě jedno, pane.
+
+LISTER stiskne poslední knoflík. Dveře se konečně otevřou. Nadšeně se šklebí na ostatní a všichni vycházejí ven. LISTER přitom třepe rukama v gestu „Kluci z Trpaslíka“.
+
+ 
+
+Koridor Červeného trpaslíka
+
+KOCOUR: Tak co teď?
+
+KRYTON: Teď rychle poběžíme do holografické komory, než pan Rimmer -
+
+RIMMER: (Za nimi) „Než pan Rimmer“ co?
+
+Ostatní se k němu otočí. Má na sobě stále své kanafasové šaty. Prudce zvedne svou pravou ruku. Má na ní navlečeného maňáska - roztomilého, dětského tučňáka.
+
+RIMMER: (K tučňákovi) Hošánci zlobili, viďte, pane Filuto?
+
+RIMMER dabuje tučňáka vysokým hláskem eunucha Alexandra Velikého a snaží se při tom nepohybovat rty.
+
+PAN FILUTA: Ano.
+
+RIMMER: A co se stane zlobivým hošánkům, pane Filuto?
+
+PAN FILUTA: Strýček Arnie je usmaží zaživa vražedným pohledem.
+
+RIMMER: (Kývne) To je pravda, pane Filuto.
+
+Jakmile RIMMEROVY oči začnou plát červenou barvou, ostatní, kteří vědí, co teď přijde, běží jako o život. RIMMER za nimi pošle pár energetických blesků, ale všechny naštěstí neškodně skončí na zdi koridoru.
+
+ 
+
+Vesmír
+
+Pohled na Červeného trpaslíka naznačuje, jak čas běží.
+
+ 
+
+Nákladový dok
+
+Skupina uprchlíků zaběhne za roh.
+
+KRYTON: Tudy!
+
+Objeví nějaké kovové sudy a lana, kde se zastaví a schovají.
+
+KRYTON: Holovirus je v sekundárním stádiu. Panu Rimmerovi už nezbývá moc času.
+
+Jak KRYTON mluví, objevují se přes něj jako druhý poloprůhledný obraz RIMMEROVY pátravé telepatické oči.
+
+LISTER: Čeho je schopnej?
+
+Na zdi za nimi je zajištěná, prosklená skříňka obsahující velkou sekyru. Zámek se sám od sebe odjistí.
+
+KRYTON: Viděli jsme vražedný pohled. Je téměř jisté, že jako ta žena, bude mít telepatické schopnosti a možná i telekinetické.
+
+KOCOUR: Co? Televize a kino?
+
+Prosklená dvířka skříňky se otevřou. Sekera se neklidně třese.
+
+KRYTON: Schopnost přemisťovat předměty pouze duševní silou.
+
+Sekera vyletí ze skříňky, těsně mine KOCOURA i LISTERA a zastaví se v KRYTONOVÝCH zádech.
+
+LISTER: Kryťáčku, bolí to?
+
+KRYTON: Ne, ale mám ve své páteři zaseklou sekeru střední velikosti. Taková věc dokáže pokazit den.
+
+LISTER s námahou vytáhne obživlou sekeru z KRYTONOVÝCH zad, ta se mu hned vzápětí vysmekne z rukou a odletí někam dozadu. KRYTON se začne trhavě pohybovat, blábolit nesmysly a mlátit hlavou do okolních sloupců. KOCOUR s LISTEREM ho sledují s otevřenou pusou.
+
+KRYTON: Edě-bedě-beděbe-dě. Dva a půl jezevce, prosím! E-be-e-ee-dě-aa! (Praští hlavou do sloupu) Á, né, sním si je tady. Edě-bedě-dědě-bě-bě-ba-dě-dě. (Další rána) To je lepší. A teď budu moci vybojovat sebeurčení jihoarménskému lidu! Í-ó-í-ó-edě-bedě. (Ještě párkrát třískne hlavou do sloupu a je náhle v normálu) Á, řek` bych, že už je to dobré.
+
+Dveře vedle nich po obvodu vyhoří a ve vzniklé díře stojí RIMMER. Zlostí se mu třesou copánky.
+
+RIMMER: Pan Filuta se teď moc zlobí. Neměli jste mu utéct. Co s nimi teď uděláme, pane Filuto?
+
+PAN FILUTA špitá něco RIMMEROVI do ucha.
+
+RIMMER: Ale to by asi nešlo! Kdo by to pak uklízel?
+
+Tentokrát nasadí vražedný pohled PAN FILUTA. Trojice se snaží v panice ucouvnout co nejdál od něj.
+
+ 
+
+Koridor
+
+Couvají vydšeně přes koridor a sledují, zda se někde nezjeví RIMMER s PANEM FILUTOU.
+
+KRYTON: (K LISTEROVI) Musíme použít Vaše štěstí.
+
+LISTER: Jak?
+
+KRYTON: Musíme se nějak na dálku spojit s projekčním systémem holografického disku.
+
+LISTER: Třeba takhle?
+
+Ukazuje krabici s nápisem „dálková projekce“ na straně.
+
+KOCOUR: (Nevěřícně) To je teda štěstí!
+
+KRYTON: Teď už potřebujeme jenom nějaký přenosný napájecí zdroj schopný udržet napětí do pěti milionů voltů.
+
+LISTER: (Zakopne o to) Tohle?
+
+KRYTON: Pozoruhodné. A ještě odpor B47-7RF.
+
+LISTER mu něco takového podá dvěma prsty.
+
+KRYTON: Děkuju.
+
+KOCOUR: Bacha!
+
+PAN FILUTA vykoukne vysoko zpoza rohu. Je následován RIMMEREM.
+
+RIMMER: Pan Filuta říká:
+
+PAN FILUTA: Hra skončila, hoši.
+
+RIMMEROVI a PANU FILUTOVI se oči rozpalují vražedným pohledem, ale KRYTON přehodí výhybku smontované projekční jednotky dřív, než je stihnou upálit. RIMMER se svalí v bezvědomí na zem. PAN FILUTA sebou ještě chvíli škube, ale pak z jeho ruky zmizí a stejně tak šaty. Teď má na sobě znovu svou uniformu. Všichni tři běží k ležícímu RIMMEROVI.
+
+KRYTON: Myslím, že se z toho dostane.
+
+LISTER: Dostane se z toho? (KRYTON přikyvuje) Virus štěstí se asi vyčerpal.
+
+ 
+
+Karanténní místnost 127, později
+
+RIMMER se probírá na nemocniční posteli.
+
+LISTER: (Hlas) Rimmere? Jak je?
+
+RIMMER: Co se mi stalo? Kde jsem?
+
+KOCOUR: (Hlas) V karanténě!
+
+Pozorovací okno se osvětlí a odhalí KOCOURA, LISTERA a KRYTONA, všechny tři oblečené v karkulkovském modelu ala „Šílený Rimmer“.
+
+KRYTON: Ale nebojte se.
+
+LISTER: My se ti postaráme o zábavu!
+
+LISTER zakvoká jako kuře, zamává rukama a dělá kravál, KRYTON křepčí a KOCOUR se vesele pohupuje.

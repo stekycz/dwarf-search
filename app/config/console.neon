@@ -1,0 +1,5 @@
+console:
+	commands:
+		- DwarfSearch\Scenarios\ScreenplayImportCommand
+		- DwarfSearch\Elastic\CreateMappingCommand
+		- DwarfSearch\Scenarios\ScreenplayExportCommand

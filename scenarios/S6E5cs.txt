@@ -1,0 +1,709 @@
+Vesmír
+
+Přelet Kosmika přes záběr.
+
+ 
+Ubikace Kosmiku
+
+KRYTON stiskne knoflík na kontrolním panelu, zatímco RIMMER leží na vyšetřovacím stole.
+
+KRYTON: (Přejde ke konci stolu) Tak, tím je prohlídka u konce. Teď jen počkáme, dokud se nezpracují výsledky. Bohužel jsem musel místy zasáhnout, neboť jste podváděl při očních testech.
+
+RIMMER: (Zvedne se) Ale já nepodváděl!
+
+KRYTON: Nemá cenu lhát, pane. Dobře vím, že jste se sem včera v noci vplížil a opsal si oční tabulku na své boty.
+
+RIMMER: Jo, možná jsem se na to mrknul. Ale jsem soutěživý člověk. Vždy jsem jím byl. Proto také jsem tím, čím jsem.
+
+KRYTON: Všichni si dobře uvědomujeme, co jste. Oh, konečně výsledky. Tady to máme.
+
+Jde k panelu a vrátí se s počítačovou kartou.
+
+RIMMER: (Vstane) Všechno jako hodinky?
+
+KRYTON: Eh, nechcete se na chvilku posadit?
+
+RIMMER: (Usedne na kraj stolu) Problémy?
+
+KRYTON: Vy nemáte žádné příbuzné, viďte?
+
+RIMMER: Ne, všichni umřeli na infarkt. No, nejenom na infarkt - na výduť, mrtvici, embólii - na všechno možné.
+
+KRYTON: A řekněte, jste silný jedinec, který chce slyšet celou pravdu v její nemilosrdné nahotě, či patříte k těm slabším, co dávají přednost blahé nevědomosti o té hrůze, před níž stojíte?
+
+RIMMER: Nevědomost, vždy a všude.
+
+KRYTON: (Přehnaně vesele) Blahopřeji, pane! Váš zdravotní stav je jedna báseň. Nashledanou příště.
+
+RIMMER: Takže jsem zcela zdravý?
+
+KRYTON: Zdravý jako rybička.
+
+RIMMER: Kdyby něco nehrálo, tak o tom chci vědět.
+
+KRYTON: Kdyby něco nehrálo, tak Vám to řeknu.
+
+RIMMER: I kdybych to nechtěl vědět?
+
+KRYTON: No, to ne. V tom případě budu lhát a tvrdit, že jste zdravý jako rybička.
+
+RIMMER: Krytone, chci to vědět. Proto jsem si zažádal o prohlídku. Je to se mnou špatné?
+
+KRYTON: Vypnout lhací režim. Ano, pane, už to tak bude.
+
+RIMMER: (Napůl sedíci, chytne se za hrudník) Já to tušil! To ty bolesti hlavy. A bušení srdce. A výpadky zraku. A bolesti na prsou. To s tím souvisí, viď?
+
+KRYTON: Pane, po smrti jste znovu ožil jako hologram a celá Vaše bytost byla převedena na algoritmus a elektronicky vytvořena její kopie. Pokud algoritmus obsahoval defekt, tak byl zkopírován rovněž.
+
+RIMMER: Defekt?
+
+KRYTON: Není to běžné, ale je možné, aby i hologram zemřel.
+
+RIMMER: Krytone, laskavě přejdi k věci dřív, než ti vrazím nos mezi uši a udělám z něj náplň pro ravioly.
+
+KRYTON: Vlivem genetického zatížení i prostředí jste náchylný k nervovým poruchám vázanými na stres a Vaše aktivita během posledních let dostala Váš mozek, no popravdě, za hranici kolapsu.
+
+RIMMER začne ztěžka dýchat, kašlat a sunout se po místnosti jako náměsíčník.
+
+KRYTON: Vaše T-hodnoty, které jsou ekvivalentem krevního tlaku, jsou vyšší než u hippíka třetí den rockového festivalu. A pokud se chcete vyhnout obrovské elektronické výduti, tak musíte ihned zahájit relaxační program.
+
+RIMMER: Aha, a podle tebe je nejvhodnější zahájit relaxaci sdělením, že je můj mozek před výbuchem. S pacientem zacházíš, jako kdybys kuchal slepice.
+
+KRYTON: Radím Vám, pane: Vyhýbejte se veškerým stresovým situacím. Zůstávejte déle v úsporném režimu a zlehka cvičte. A ještě tohle. (Vytáhne něco ze skříňky) Čínské koule pro uklidnění, kdykoli se budete cítit napjatý.
+
+RIMMER si podezřívavě prohlíží koule. Vejde LISTER.
+
+LISTER: Hele, máme dobrý zprávy. Pojďte se podívat.
+
+Odejde.
+
+RIMMER: (Potichu) Ea, Krytone, nechci, aby o tom ostatní věděli. Chovej se tak, jako kdyby všechno bylo normální.
+
+KRYTON: Jak si přejete.
+
+ 
+Vesmír
+
+Kosmik se blíží k replikantské lodi.
+
+ 
+Kokpit Kosmiku
+
+LISTER: Tady jí máme.
+
+KOCOUR: Spouštím identifikátor.
+
+Vejde RIMMER a zastaví se u LISTEROVA křesla.
+
+RIMMER: Co to je?
+
+LISTER: Replikantská loď, kterou jsme nedávno zlikvidovali. Chceme si z ní vzít nějaký zásoby.
+
+KRYTON: Je to rozumné, pane? Podle monitoru je nestabilní a mohla by se každou chvilku zhroutit.
+
+RIMMER: A co kdy je někdo z nich naživu?
+
+KOCOUR: Kočky mají jedno rčení: „Chceš-li jíst rybu, počítej s kostmi.“
+
+RIMMER: (Už na svém sedadle) Lidé mají rčení: „Když chceš blábolit, počítej s bolestí.“
+
+LISTER: Hele, my to risknem, tak zavři zobák.
+
+RIMMER: Nezavřu. Jsou to kyberneticky narušené stroje na zabíjení. Tobě nestačí odprásknout jejich loď z oblohy, ty ještě chceš krást zbytky jejich majetku? To je totéž, jako kdybys šoupnul svoje nádobíčko lvovi do tlamy a třel mu rozkrok mokrou žínkou. Naprosté šílenství.
+
+LISTER: Od tý doby, co je chladící jednotka v čudu se živíme jenom smradlavejma houbama a mechem, co oškrábeme z nějakejch asteroidů. Už mi to leze krkem.
+
+KRYTON: To byste byl raději, kdyby šílený mechanický vrah rozlousknul Vaši lebku a hrál si s Vašimi předními laloky jako na xylofon, než abyste si dal mou polévku z vesmírných kopřiv?
+
+KOCOUR: Plechoune, já bych mu podal paličky a držel noty.
+
+RIMMER: Listere, jsou to replikanti. Proč by tedy měli mít zásoby jídla?
+
+LISTER: Protože identifikátor tvrdí, že je maj. (Otočí se k RIMMEROVI a stiskne pár knoflíků na jeho monitoru) Koukni, nadupaný až ke stropu.
+
+KRYTON: (K RIMMEROVI) Je to tak, pane. Potulní replikanti vozí značné zásoby jídla, aby prodloužili trápení mučených obětí. V některých případech je nechávají žít i čtyřicet let ve stavu věčných muk.
+
+RIMMER: Kdybych chtěl žít ve stavu věčných muk já, tak nechám Listera hrát na kytaru. Kdepak, my poletíme dál.
+
+LISTER: Krytone, co je k večeři?
+
+KRYTON: Dnes, pane? Dušené asteroidní lišejníky a pampelišková zmrzlina.
+
+LISTER: Jdeme do toho.
+
+ 
+Vesmír
+
+Kosmik přistává u replikantské lodi.
+
+ 
+Střední sekce Kosmiku
+
+KRYTON: (K LISTEROVI) Pane, copak nevidíte, že se chováte naprosto iracionálně?
+
+RIMMER: A proto ho můžeme postavit mimo službu podle direktivy 196156.
+
+KRYTON: 196156? Bude-li důstojník přistižen, jak očichává sedlo rotopedu v dámské tělocvičně, bude propuštěn bez soudu? Hmm, promiňte, ale tohleto neřeší náš problém. (K LISTEROVI) Pane, máme dost bodláků, řas a hub na to, abyste se jimi mohl ládovat až do smrti. Tenhle ztřeštěný výlet je velký hazard.
+
+RIMMER: Listere, nebuď blázen a poslechni ho. Mýlil se snad někdy? Možná, že má hlavu jako nějaký splávek na rybářský prut, ale uvažuje zcela logicky a my bychom byli šílenci, kdybychom ignorovali jeho moudré rady.
+
+KRYTON: Aspoň tedy nechte mě a pana Rimmera jít místo Vás. My jsme elektronické formy života a tím postradatelní.
+
+RIMMER: Co ty o tom víš, ty palice vylízaná?
+
+LISTER: Je tady ještě něco. Nechtěl jsem to říkat před Kocourem. (Krátký pohled na KOCOURA) Ale v rezervní palivový nádrži máme pěknou díru. Což znamená, že jsme bez šťávy tak za tři dny.
+
+KRYTON: (Kontroluje panel) Ale co ukazatele paliva?
+
+LISTER: Ty jsem srovnal, aby tu nevznikla panika.
+
+RIMMER: Ty jsi srovnal ukazatele, aby nevznikhh... ahh... ahh.
+
+Hyperventilován, najde rychle čínské koule a začne je mačkat.
+
+RIMMER: Nemůžu dýchat, udusím se!
+
+KRYTON: Klid, prosím, žádnou paniku.
+
+RIMMER: To není panika, ale poctivý hysterák!
+
+KRYTON: Tlačte na ty koule! Pořádně!
+
+RIMMER: (Tlačící) Pojďme si to ujasnit. Jestli nás chytí, tak jsme vyřízení. Nicméně, když nás nechytí, ale ta loď se zhroutí i s námi, tak jsme vyřízení. Na druhou stranu, jestli nás nechytí a ta loď se s námi čirou náhodou nezhroutí, ale my nenajdem palivo, tak jsme vyřízení.
+
+LISTER Jo, zhruba to tak vypadá.
+
+KRYTON: (K RIMMEROVI) Pak mi ty koule půjčte.
+
+LISTER: Prostě si nevybereš! To máš stejný jako ve welšským rybím bufáči. Musíme na tu loď jít i přesto, že je těsně před rozpadem. Nezbejvá než doufat, že posádka hnije někde v křemíkovým pekle.
+
+RIMMER: Vy tři si jděte. Já se odtud nehnu.
+
+LISTER: Dobrý, může bejt. Nestane-li se něco podivnýho a šílenýho, jako třeba, že když budeme pryč, tak sem naskáče parta rozdováděnejch replikantů lačnících po čerstvý krvi.
+
+RIMMER: Jdu si sbalit.
+
+Vyrazí ke schodům.
+
+LISTER: Vem si hnědý, bezpečnostní trenky. (RIMMER stoupá do schodů a usilovně svírá koule) A světelnej generátor, budeme potřebovat každou ruku.
+
+ 
+Vesmír
+
+Záběr ztroskotaného replikantského křižníku.
+
+ 
+Koridor replikantské lodi
+
+KRYTON: (Drží psychoscan) Známky života.
+
+KOCOUR: Jestli na mě někdo z nich narazí, čeká ho laserovej gril. (Odjistí bazukoid) Posledně jsem měl na sobě stejnej oblek, ale o tom si pokecaj až v hrobě.
+
+LISTER: Ještě něco a myslím, že bych vám to teď měl už říct.
+
+RIMMER: A co zase?
+
+LISTER: My ty bazukoidy nemůžeme použít. Máme je jenom z psychologickejch důvodů. Podle počítačů je ta loď tak nestabilní, že by jí mohl narušit každej silnější hluk. Proto jsem u snídaně vynechal fazole.
+
+Všimne si upřených pohledů ostatních.
+
+LISTER: Co na mě tak koukáte?
+
+KOCOUR: A jak?
+
+LISTER: Jako bych byl chlup na španělský omeletě.
+
+RIMMER: Proč jsi nám to neřekl?
+
+LISTER: Nechtěl jsem vyvolat paniku.
+
+RIMMER: Tys nechtěl vyvolat phh... hhh.
+
+Zalapá po dechu, najde koule a pečlivě je tiskne.
+
+RIMMER: Rád bych si něco ujasnil. Když narazíme na ty vyšinuté zabijáky, tak se s nimi dáme do boje potichu? Šeptnem „vpřed“ a po špičkách k nim doběhnem s pokřikem „pššš“ a pak je udusíme v Listerově podpaží? Dokonalé.
+
+ 
+Jiný koridor
+
+Posádka prochází opatrně v pořadí LISTER, KRYTON, KOCOUR a RIMMER.
+
+LISTER: (Něčeho si všimne) Teleportér?
+
+KRYTON: (Kontroluje ho) Hmm, plně funkční.
+
+KOCOUR: Seberem ty věci a naložíme je.
+
+RIMMER: Potichu!
+
+LISTER a KOCOUR naloží na teleportér různé bedny, které se pak zhmotní ve střední části Kosmika. Jednu z beden upustí. Lodí otřese varovné zachvění a všichni si vymění starostlivé pohledy.
+
+KRYTON: Moc dlouho už loď nevydrží, měli bychom toho nechat.
+
+LISTER: Ještě jedno kolo. Vezmeme ještě jednu bednu tý skvělý chilli omáčky.
+
+V pozadí se ze dveří vypotácí replikantská DŮSTOJNICE, doprovázená dalším rachocením z trupu lodi. Nezdá se v moc dobré formě.
+
+KRYTON: Pššššš.
+
+DŮSTOJNICE: (Namíří na posádku svou zbraň) Ale, ale, jestlipak to nejsou staří známí, ta lidská havěť, prašiví slizouni, smradlavé zvratky, chodící žumpy hnusného odpadu.
+
+KOCOUR: Pamatuje si nás.
+
+DŮSTOJNICE: Zničili jste moji loď, zmasakrovali moje kamarády a prakticky jste zničili i mě. Ano, pamatuji si vás.
+
+KOCOUR: (Ukáže na ni) Ale jedno bys měla vědět. Posledně jsem měl černý obleček s parádním lemem a se zlatými knoflíky. Sice to vypadá, jako bych měl dneska totéž, jenomže tohle je úplně jiný černý obleček s úplně jinými zlatými knoflíky.
+
+KRYTON: (Tlumeně) To byla důležitá informace a bylo nutné ji sdělit, avšak navrhuji, aby od této chvíle byla další jednání vedena těmi, co mají mozek větší než angrešt.
+
+KOCOUR: Trhni si, plechu.
+
+LISTER: (K DŮSTOJNICI) Hele, podívej se na to trochu rozumně. Tohle je přece patová situace. Tobě jsou zbraně k ničemu a nám taky. Takže je fajn, že jsme se poznali a necháme toho blbnutí, jo? (Laškovným tónem) A mimochodem, na vyšinutýho, bezohlednýho zabijáka seš docela kočka. Co děláš dneska večer?
+
+DŮSTOJNICE: Umírám.
+
+Vystřelí do stropu. Chvění zesílí.
+
+DŮSTOJNICE: Chceš se připojit?
+
+Za replikantkou se objeví RIMMER, který byl předtím od ostatních oddělen. Všimne si únikového modulu a opatrně se k němu přibližuje. LISTEROVA slova jsou určena RIMMEROVI, ne replikantce, která to ale nezjistí. Jak konverzace pokračuje, LISTER mluví se stále větším zoufalstvím.
+
+LISTER: Ah, tak neblázni a pojď si vážně promluvit. My jsme si s tímhle nezačali a možná TEĎ!, že přišla chvíle, abychom se dohodli. (Rozzlobeně) Přestaneme teda plácat a přejdeme rovnou k věci.
+
+DŮSTOJNICE: Na to není čas. Za šedesát sekund bude po vás.
+
+RIMMER se sune k únikovému modulu.
+
+LISTER: (K DŮSTOJNICI ale ve skutečnosti k RIMMEROVI) To nemyslíš vážně.
+
+DŮSTOJNICE: To myslím smrtelně vážně.
+
+LISTER: Nevěřím, že by si fakt chtěla zrovna tohle.
+
+DŮSTOJNICE: Nevím, proč ti dělá takové problémy, abys konečně pochopil, že jsem bezohledný zabiják bez jakékoli morálky, tak proč by sis, pro všechen sajrajt na světě, měl myslet, že to není vážně.
+
+LISTER: Stejně se tě zeptám ještě jednou. Ještě je možnost změnit názor. Neříkej mi, že všechno, co jsme spolu prožili pro tebe nic neznamená?
+
+RIMMER uvolní únikový modul. Koridor se zřítí na replikantku.
+
+LISTER: Bezva, Rimmere! Tohle se ti vážně povedlo.
+
+KRYTON: Paluba se začíná rozpadat.
+
+KOCOUR: Teleportér!
+
+Stoupnou si na stupínek k teleportéru.
+
+KRYTON: Musím vás varovat, teleportér není určen pro lidskou tkáň. Existuje dvacetiprocentní možnost, že se při proměně obrátí naruby.
+
+KOCOUR: Co mám vespod? Vnitřnosti a zelenou. To ještě jde. Tak můžem.
+
+Dematerializují se.
+
+ 
+Střední sekce Kosmiku
+
+Když se LISTER, KRYTON a KOCOUR zhmotní, okolo stolu sedí posádka z minulosti.
+
+KOCOUR: Co to je?
+
+KRYTON: Zapomněl jste? Tohle je minulý čtvrtek. V tom zmatku jsem to špatně naprogramoval.
+
+KRYTON Z MINULOSTI: (Vstane) Krytone, copak nevíš, jak je nezdvořilé vrazit sem ke své starší verzi bez upozornění? Náš den je teď postaven na hlavu. Jsem velmi rozladěn!
+
+KRYTON: Velice mě to mrzí, ale ta replikantská loď, na kterou záhy narazíte -
+
+KRYTON Z MINULOSTI: (Přeruší ho) My teď nechceme vědět, na co záhy narazíme. Nezamlouvej svoje faux-pas historkami o naší budoucnosti.
+
+RIMMER Z MINULOSTI: Kde je můj urostlý sympaťák?
+
+LISTER: Ty? Ty jsi vzal roha v únikovym modulu, ty slizkej, proradnej Jidáši.
+
+RIMMER Z MINULOSTI: Ah, jsem v bezpečí. Díky Bohu za to.
+
+KRYTON Z MINULOSTI: (K RIMMEROVI Z MINULOSTI) Nebavte se s nimi! (Ke KRYTONOVI) Vidíš, cos udělal? Vraťte se do své časové osy!
+
+KRYTON: Však už jdeme.
+
+LISTER Z MINULOSTI: Tak brzo na vašem místě.
+
+LISTER, KRYTON a KOCOUR se dematerializují.
+
+ 
+Střední sekce Kosmiku
+
+V okolí Kosmika jsou slyšet výbuchy.
+
+LISTER: Musíme hned odletět, brzo to bouchne!
+
+ 
+Vesmír
+
+Kosmik opouští replikanskou loď, která vzápětí exploduje.
+
+ 
+Kokpit Kosmiku
+
+KOCOUR: Celkově vzato stoprocentně úspěšný výlet.
+
+KRYTON: Ale přišli jsme o pana Rimmera!
+
+KOCOUR: Celkově vzato _stoprocentně_ úspěšný výlet!
+
+LISTER: Nemůžu uvěřit tomu, co provedl.
+
+KRYTON: Neměl jsem ještě možnost vám to říct, ale ráno jsem zjistil, že pan Rimmer trpí stresem vyvolaným nervovou poruchou.
+
+LISTER: Až ho potkám, bude trpět pěstí vyvolanou zubní poruchou.
+
+ 
+Vesmír
+
+Únikový modul mizí do dáli.
+
+ 
+
+Kokpit
+
+KOCOUR: Nějaké sdělení.
+
+Na monitoru se objeví RIMMER, který se zdá spokojený sám se sebou.
+
+RIMMER: Můj únikový plán se poved`.
+
+KOCOUR: Jaký únikový plán?
+
+RIMMER: Chrabrý plán, podle něhož odstartuji rozpad lodi tím, že se odvážně vrhnu do modulu, čímž odpoutám pozornost a vy budete moct... (Pauza) Jak jste se odsud dostali?
+
+KRYTON: Teleportérem.
+
+RIMMER: To nebyl jediný způsob, ale nakonec proč ne. No, doufám, že nikdo nezapomněl na neochvějnou zmužilost a dechberoucí chladnokrevnost té diverzní části plánu a že hrdinu dne dostanete rychle na palubu.
+
+LISTER: Víš, ty borče, tohle bude asi problém.
+
+RIMMER: To nechápu.
+
+LISTER: Mizíš nám mnohem rychlejc, než my můžeme vůbec letět.
+
+KRYTON: Díval jsem se na Váš počítač, pane. Replikanti ten modul ukradli z kolonizační secí lodi z 25.století. Ovládací prvky chybí, je naprogramován na nejbližší planetu s atmosférou S3.
+
+RIMMER: Za jak dlouho se dostanu zpátky?
+
+KRYTON: (Dívá se na scanner) Hned se na to podívám, ano? Nejdříve bezprostřední oblast. Ea, ne, tady nic. Teď se posunu dále. Ea, stále nic. Hehehe. Vezmu větší rádius. Extra velký rádius. Extra, extra velký rádius. Ah, tady to máme. Spočítám to.
+
+RIMMER: No? Tak jak dlouho?
+
+KRYTON: Máte ještě ty antistresové koule?
+
+RIMMER: Ano.
+
+KRYTON: Tak je roztočte tak, jak jste je ještě nikdy neroztočil.
+
+RIMMER: Jak dlouho?
+
+LISTER: Já mu to řeknu, Krytone.
+
+RIMMER: Jak dlouho?
+
+LISTER: (Usmívajíc se) Rok a půl.
+
+RIMMER: (S náznakem paniky) To je směšné! Musíte mě nějak dostat zpátky!
+
+KRYTON: Můžem se pokusit sestřelit Vás laserovým dělem.
+
+KOCOUR: Všichni hezky do fronty k zaměřovači.
+
+RIMMER: Něco jiného!
+
+KRYTON: Pane, jiná možnost tu není.
+
+KOCOUR zjistí něco na scanneru.
+
+KOCOUR: Moment! Něco se děje! Změna kurzu!
+
+LISTER: (Dívá se na svou obrazovku) Je to tak. Tvůj naváděcí systém našel bližší planetu. Letíš do červí díry na 495372.
+
+KRYTON:  To už je lepší. Měl byste přistát za čtyři dny.
+
+RIMMER: A co časový posun při průletu červí dírou?
+
+KRYTON: Ano, k tomu dojde. Vzhledem ke stlačenému prostoru, objektům v červí díře čas utíká daleko rychleji. Jedna minuta v ní představuje mnoho let v reálném čase.
+
+RIMMER: No a to je dobré?
+
+KRYTON: Připravte si koule, pane.
+
+RIMMER: Déle než rok a půl?
+
+KRYTON: Ea, ano trošičku déle.
+
+RIMMER: Tak o kolik?
+
+KRYTON: Proč chodit kolem horké kaše, o mnoho déle.
+
+RIMMER: Pořád chodíš kolem horké kaše, tak pověz.
+
+KRYTON: Vzpomínáte si na tu středověkou válku, co trvala tak dlouho?
+
+RIMMER: Na třicetiletou?
+
+KRYTON: Ne, tahle ne, pane, ta druhá.
+
+RIMMER: Stoletá válka?!
+
+KRYTON: Tak tohle číslo vezmete, vynásobíte šesti a máte to Vaše, Vaše zlaté číslo.
+
+RIMMER: (Šokovaně) Šest set let??!!
+
+KOCOUR: (Nevěřícně) Štípni mě!
+
+LISTER: Každou chvíli ztratíme spojení.
+
+RIMMER: Žít šest set let jen sám se sebou, to se přece zblázním!
+
+KOCOUR: Kočky maj jedno rčení. Ale to ti radši nepovím.
+
+LISTER: Abych tě potěšil, tak podle inventáře je na modulu dost solárních akcelerátorů. Ty budou pořád zásobovat tvůj světelnej generátor.
+
+KRYTON: A vzhledem k tomu, že modul je ze secí lodi, tak na něm bude vybavení na úpravu půdy, možná i s genetickými aplikacemi.
+
+Obrazovka začne zrnit.
+
+RIMMER: Ale to nemůžu přežít, já nejsem Robinson Crusoe. Na práci se dřevem jsem levej jak šavle. Trvalo mi rok, než jsem se naučil zatloukat stanové kolíky. Jak dlouho mi potom bude trvat dvoupodlažní dům s tekoucí vodou, terasou nebo balkónem? Šest set let? To nestihnu ani ohoblovat prkna!
+
+LISTER: Konec spojení za pár sekund. Nashle za šest století!
+
+KRYTON: Ještě slůvko, pane. Pozor na Váš stav. Ať se děje cokoliv, čelte všem nesnázím s milým úsměvem na rtech, písní v srdci a klidem na duši.
+
+RIMMER: Ty seš strašnej a hroznej a... (Vytratí se)
+
+ 
+Vesmír
+
+Únikový modul vstupuje do červí díry.
+
+ 
+Kokpit
+
+Na chvíli zavládne ohromené ticho.
+
+KRYTON: Tak a je pryč.
+
+LISTER: Co teď budeme dělat?
+
+KOCOUR: Nemůžeme dělat nic. Na palubě není šampaňské. (Usmívá se)
+
+KRYTON: Nám se bude zdát, jako by se pan Rimmer vzdálil na pouhých několik hodin. Ale z pohledu pana Rimmera nám bude trvat šest století, než se k němu dostaneme.
+
+LISTER: Kašlem na šampáňo, máme recyklovanou moč.
+
+ 
+Planeta s atmosférou S3
+
+Modul vstupuje do atmosféry. Následuje sestřih děje, doprovázený pod obrazem RIMMEROVÝM monologem.
+
+RIMMER: Toto je osobní denník hologramu Arnolda J. Rimmera. Den první: Po přistání jsem se odvážil na průzkum místa, které se mělo na další dvě třetiny tisíciletí stát mým domovem. Opuštěná planeta, jediné formy života - nejprimitivnější jednobuněční prvoci a já. Navazování kontaktu bude obtížné, ale ne nemožné. Vrátil jsem se do modulu, abych zhodnotil situaci se zásobami. Modul byl opravdu zjevně ukraden ze secí lodi. Mezi zásobami jsem našel dva podivné mechanismy, označené jako „ekoakcelarátorové rakety“. Vkládal jsem mizivé naděje do toho, že by mi mohly pomoci zlepšit můj úděl, ale přesto jsem je odpálil. Šest dní a šest noci řádila na celé planetě bouře, jakou jsem nezažil nikdy předtím ani potom. Stejně tak náhle pak i přestala. Za pouhých šest dní jsem si vytvořil vlastní svět, svěží a voňavý. Nádherný „Rimmerosvět“. Byl jsem Adamem ve svém vlastním ráji. Chybělo mi jen jediné - má vlastní Jana. Jak jsem tak studoval příručky z modulu, mé vzrušení rostlo. Zdálo se, že je možné klonováním vytvořit dospělý ženský protějšek s využitím vlastní DNA jako vzoru. To mě samozřejmě stavělo před morální dilema. Formálně by to byla moje sestra, takže by mě nemohla přijmout za svého milence. Po dlouhém sebezpytování jsem dospěl k rozhodnutí: „Ale co? Tak jí to prostě neřeknu.“ Po měsících svědomité péče kukla praskla. Něco se ošklivým způsobem nevyvedlo - ten klon nebyl nic víc než má identická kopie. Vrátil jsem se k příručkám a zkusil to znovu.
+
+ 
+Vesmír
+
+Kosmik vstupuje do červí díry.
+
+ 
+Kokpit Kosmiku
+
+LISTER: A jsme tady S-trojková planeta.
+
+KOCOUR: Navicomp nastaven. Vstup do atmosféry.
+
+ 
+Planeta s atmosférou S3
+
+Kosmik vstupuje do atmosféry.
+
+ 
+Kokpit
+
+LISTER: Něco mám. Zkus kvadrant 4972. Ukazuje mi to tam na známky života.
+
+KRYTON: Potvrzeno. Jsou jich tisíce. Buďto měl pan Rimmer velké štěstí, že přistál na obydlené planetě, nebo -
+
+KOCOUR: Nebo co?
+
+KRYTON: To je příliš hrozná představa.
+
+KOCOUR: Přistáváme.
+
+ 
+Les v Rimmerosvětě
+
+LISTER, KOCOUR a KRYTON procházejí lesem.
+
+KOCOUR: Stát, nosní poplach!
+
+LISTER: Co je, cejtíš něco?
+
+KOCOUR: To teda jo. Chloupky se mi třesou jako poprsí pěvkyně při nejvyšších tónech.
+
+PRVNÍ STRÁŽCE: Ani hnout, vy příšery!
+
+LISTER: Rimmere?
+
+DRUHÝ STRÁŽCE: Ticho, ty karikaturo!
+
+LISTER: Rimmere??
+
+TŘETÍ STRÁŽCE: Nikdy jsem nespatřil tak ohavně vyvinutého a neobyčejně zrůdného devianta.
+
+LISTER: Rimmere???
+
+ČTVRTÝ STRÁŽCE: Ticho, mutante! Jak se opovažuješ s takovouto tváří oslovit vzor? To je zpupná urážka přírody.
+
+Všichni strážci vypadají jako RIMMER a jsou oděni do starořímských uniforem a vyzbrojeni kopím.
+
+LISTER: Možná to bude znít trochu otřepaně, ale (Pauza) ani, ani se mi to nechce říct.
+
+STRÁŽCE: Říct co?
+
+LISTER: Odveďte nás ke svému vůdci.
+
+KRYTON: Oh, to ne, pane!
+
+STRÁŽCE: Ať je soudí nejvyšší.
+
+STRÁŽCI eskortují posádku pryč.
+
+ 
+Císařská místnost
+
+RIMMER - císař s „H“ na čele, usedne na trůn s dvěmi zamaskovanými konkubínami u svých nohou. Zadní část trůnu tvoří velké „H“ vytesané z kamene. LISTER, KOCOUR a KRYTON jsou předvedeni rimmerovskými strážemi.
+
+CÍSAŘ: Kdo ruší naši královskou dřímotu?
+
+LISTER: Rimmere? To jsme my.
+
+CÍSAŘ: Bože dobrý, kdo stvořil takového ohavu? Je tohle snad produkt spojení ženy s pouštní krysou?
+
+LISTER: Vzpomínáš? Před šesti sty lety jsme byli na jedný lodi. Chceme tě -
+
+STRÁŽCE: Přivedl jsem je, Vaše jasná Nozdernosti, aby byli souzeni jako karikatury.
+
+KOCOUR: (Šeptá LISTEROVI) To není ten náš magor. Má jiný zápach.
+
+KRYTON: (Šeptá z druhé strany) Souhlasím, prvky jsou organické, ne holografické. To „H“ nebude pravé. Možná, že se stalo symbolem moci.
+
+CÍSAŘ: Deformované příšery se nehodí pro zraky mých konkubín. Mé poklady tělesné nádhery, vzdalte se. (Na jednu pokývne) Odvraťte své zraky od její spanilosti.
+
+Odhrne jí závoj z tváře, která se ukáže být také RIMMEROVOU a políbí ji. Strážce se odvrací.
+
+CÍSAŘ: Mhhmm. Nechť proces začne dříve, než mi vychladne koupel.
+
+STRÁŽCE: Tyto tři obludy čelí obviněním z osmi přečinů úchylnosti. Nestačilo jim, že nevypadají jako vzor, ale dávali na odiv zvrhlé vlastnosti jako šarm, statečnost, soucit a čest.
+
+CÍSAŘ: To v nich nejsou žádné známky normality? Nafoukanost či zbabělost? Jízlivost či podlézavost? Dokonce ani špetka onoho poctivého, ryzího pokrytectví?
+
+STRÁŽCE: Ani se nepokusili podrazit jeden druhého, aby si zachránili kůži. Postrádají i základní přirozené instinkty.
+
+CÍSAŘ: Jak se obhájíte?
+
+KRYTON: Pane, rádi bychom mluvili s hologramem jménem Rimmer.
+
+CÍSAŘ: (Zvysoka a arogantně) To jsem já!
+
+KRYTON: Ne tak docela. My hledáme stvořitele vaší rasy, praotce národa, prvního Rimmera, pravzor vašeho druhu.
+
+CÍSAŘ: Dost již toho kacířství. Ta monstra budou za úsvitu popravena. A až je popravíte, tak spalte jejich těla a popel mi přineste na stříbrném podnosu. Se sklenkou chlazené minerálky.
+
+KOCOUR: (K LISTEROVI) Ten chlap je barbar. K popelu se hodí jenom červené víno.
+
+STRÁŽE je eskortují pryč a postrčí KOCOURA před sebou.
+
+ 
+Žalář
+
+LISTER, KOCOUR a KRYTON si všimnou postavy, schoulené v rohu. Je zakrytá dekou a prsty tlačí na dlani velmi malé a ošoupané čínské kuličky. LISTER ho odhalí.
+
+LISTER: Rimmere?
+
+KOCOUR: Pach odpovídá. Tohle je fakt náš starý dobrý podrazák.
+
+RIMMER: No jasně, vzpomínám si.
+
+Postupně na každého ukazuje.
+
+RIMMER: (Ukazuje na LISTERA) Custer! Derek Custer! (Na KOCOURA) Kid! (Na KRYTONA) Titan!
+
+KOCOUR: Co to s ním je?
+
+KRYTON: Jak jste tady dlouho, pane? V této Bohem zapomenuté, pekelné díře?
+
+RIMMER ukáže na zeď, na kterou čárkoval své dny.
+
+KRYTON: Početní režim. (Scanuje zeď) 557 let?
+
+LISTER: To celou tu dobu trčíš v týhletý cele?!
+
+KOCOUR: Co se stalo?
+
+RIMMER: Umíte si představit společnost složenou jen ze mě?
+
+KOCOUR: Už jsem se o to pokusil, ale trvalo mně týden, než jsem vysušil matraci.
+
+RIMMER: Tisíce a tisíce proradných, úskočných, pokryteckých, zbabělých a slizkých Jidášů. Svrhli mě. A když nemohli zničit můj světelný generátor, tak mě šoupli sem, abych neohrozil jejich neukojitelnou touhu po moci.
+
+KOCOUR: Hele, Rimmere, já chápu proč zavřeli tebe, ale co mají proti mně, Derekovi a Titanovi?
+
+RIMMER: Každý, kdo se odchyluje od vzoru, je pronásledován. Jediná chybička ve vzhledu a je postaven mimo společnost. A každý, jehož chování je označeno za charakterní nebo nerimmerovské, je trestán smrtí.
+
+LISTER: Proto tu není nikdo, kdo je odvážný, přitažlivý nebo milý?
+
+RIMMER: To všechno jsou zločiny.
+
+KOCOUR: Tak to jsem veřejný nepřítel číslo jedna, dva, tři.
+
+KRYTON: Ale cožpak si neuvědomují, že společnost se může vyvíjet jen prostřednictvím mutací v genofondu? Když se z ní vytratí rozmanitost, pak přichází degenerace a dědičná slaboduchost. Jen si vzpomeňte na ty pomatené, evropské dynastie 19. a 20.století.
+
+RIMMER: Oh, co jsem to stvořil?
+
+KRYTON: Vaše vlastní, osobní peklo.
+
+KOCOUR: No, i když je příjemné poslouchat o tvých pěti stoletích utrpení, měli bychom plánovat, jak vzít roha. Já těžko snáším představu, že by mě upálili. Plameny a růžová? Ne, to bych radši umřel.
+
+LISTER: Zkoušel jsi utýct, Rimmere?
+
+RIMMER: Celá tahle planeta je obydlená zákeřnými křiváky. Jen bych utekl, už by mě někdo udal.
+
+LISTER přejde k zamřížovanému oknu.
+
+LISTER: Nějak to jít musí. S touhle dírou si Derek Custer hladce poradí. Musíme vyškrábat tady tu maltu. Vytáhneme jednu z těch cihel a potom uděláme lano tady z těch pytlů. A použijem ho na kladku. Na strážnýho narafičíme drát, povalíme ho, Rimmera převlečeme do jeho uniformy, ten nás vyvede ven, ukradne pár mečů a probojujeme se ke Kosmikovi.
+
+KRYTON: Nebo použijem teleportér.
+
+LISTER: (Zchlazen) Nebo v nejhorším použijeme teleportér.
+
+Všichni se dematerializují.
+
+ 
+Střední sekce Kosmiku
+
+Když se zhmotní, okolo stolu sedí budoucí posádka bez LISTERA.
+
+KRYTON: A už je to tu zase. Dvě anomálie ve stejný den. Omylem jsem tam naťukal předcházející kalibraci.
+
+RIMMER: Omlouváme se, zrovna jsme na útěku z Rimmerosvěta.
+
+LISTER: Neříkej jim to. Ať nevědí, co je čeká. Chudák starej Rimmer by neměl vědět, že ho šest set let bude pronásledovat smečka jeho klonů.
+
+KOCOUR: Opatrně. Už jsem myslel, že prokecneš, že stráví dalších 557 let v žaláři.
+
+RIMMER Z BUDOUCNOSTI: Rimmerosvět?
+
+LISTER: Nic ti neřeknu. Nechci ti kazit překvapení.
+
+RIMMER Z BUDOUCNOSTI: Rimmerosvět jsme už zažili. Teď nám dělá větší starosti ta ošklivá věc, co se stala Listerovi.
+
+KOCOUR: To je pravda. Kde seš?
+
+LISTER: Jo, kde jsem? Musím to vědět!
+
+Dematerializují se.

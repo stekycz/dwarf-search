@@ -1,0 +1,3 @@
+services:
+	- {implement: DwarfSearch\Components\Search\ISearchControlFactory, inject: on}
+	- {implement: DwarfSearch\Components\SearchBox\ISearchBoxControlFactory, inject: on}

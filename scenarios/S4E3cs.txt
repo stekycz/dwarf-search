@@ -1,0 +1,784 @@
+Ošetřovna, ráno
+
+LISTER je v nemocniční posteli. Jeho hlava je zakrytá ručníkem. KRYTON vjíždí do místnosti s vozíkem, na kterém je snídaně.
+
+KRYTON: Jak se cítíte, pane Listere?
+
+Ručník se sveze z LISTEROVY hlavy. Má ji obludně oteklou.
+
+LISTER: (Slabě) Ohhh, už je to mnohem lepší. Fakt mnohem lepší.
+
+KRYTON: Ale rozhodně vypadáte líp. Daleko líp. Je úžasné, o kolik se ten Váš otok přes noc zmenšil.
+
+LISTER: Myslíš?
+
+KRYTON: No určitě. Včera málem narážel do stropního ventilátoru. Už jste skoro zase jako dřív. Stěží byste poznal, že máte vesmírné příušnice.
+
+KRYTON vytáhne velké zařízení na měření hlavy.
+
+LISTER: Kdy se budu moct podívat?
+
+KRYTON: Ne, nemyslím, že už by jste byl připraven na zrcadlo. Hezky krůček po krůčku.
+
+Měří LISTEROVI hlavu.
+
+KRYTON: Ale no né! Vidíte? Přes noc to splasklo o dvacet centimetrů. Než se nadějete, budete jako rybička.
+
+LISTER: Nevím, co bych si bez tebe ty poslední tři tejdny počal. Seš jako Matka Terezoid. Přines` jsi mi jídlo?
+
+KRYTON: Jistě. Horký ležák se smaženou houskou, přesně tak, jak jste si přál.
+
+LISTER zvedne pokličku z polévkové mísy a nabere si ležák lžící.
+
+LISTER: Když vypadáš takhle odpudivě, tak teprv poznáš skutečný kamarády.
+
+KRYTON: Odpudivý teda skutečně nejste.
+
+LISTER: Přestaň mě lakovat, Krytone. Vypadám jako žárovka. Jenom mě někam zašroubovat. A kolikrát sem za mnou přišli? Kolikrát se tu zastavili se slůvkem útěchy nebo hroznem vína?
+
+KRYTON: To ani nebylo možné. Pan Rimmer byl totiž na dovolené.
+
+LISTER: (S úšklebkem) Na dovolený? Muž s největším charismem na světě? Kampak se vydal?
+
+KRYTON: Byl na turistické túře po naftových plošinách. Deset dnů přes lodní spalovací motory se dvěma robíky. Říkal, že zaskočí a ukáže Vám diáky.
+
+LISTER: (Vyplašeně) Nedělal si srandu?
+
+KRYTON: To určitě ne, protože plní zásobník už čtyřiadvacet hodin.
+
+LISTER: Musíš ho zastavit! Diáky z naftovejch plošin? To by mě mohlo vážně dodělat. Ale čekal bych, že Kocour se zastaví.
+
+KRYTON: Poslední dobou má trochu starosti kvůli tomu modulu. (Zarazí se) Ohh, že já volodroid jsem nedržel diody na uzdě! O tomhle jsem se neměl zmiňovat!
+
+LISTER: Jakej modul?
+
+KRYTON: Ehh, není Vám dobře, tak klidně na všechno zapomeňte.
+
+LISTER: Už ses prořek`, tak to vybal!
+
+KRYTON: Včera večer jsme narazili na záchranný modul pohybující se v pásu asteroidů. Uvnitř je kryogenicky zmrazený tvor, jenž přežil vesmírnou nehodu.
+
+LISTER: Vážně?
+
+KRYTON: Vše nasvědčuje tomu, že ona je v dostatečné kondici, aby ožila.
+
+LISTER: (Se zvýšeným zájmem) Ona?
+
+KRYTON: No, jak se zdá, tak ona je ona.
+
+LISTER: Ach, to je fakt paráda. Jeden by brečel. První dámská společnost za tři miliony let a já vypadám jako něco, co patří na hruď obryně. Do kosmu!
+
+LISTER vstane.
+
+KRYTON: Vy nesmíte vstávat! Kam chcete jít?
+
+LISTER: Co myslíš, kam jdu? Na palubě je žena. Jdu se zaprsit.
+
+ 
+Ubikace
+
+Vejde LISTER.
+
+LISTER: Tak kdo je to Holly?
+
+HOLLY: Na modulu stojí: Barbora Belliniová.
+
+LISTER si prohlíží jednomístný únikový modul.
+
+LISTER: (Čte) Barbora Belliniová. Má hezký jméno. To není spravedlivý. Co jsem komu proved`?
+
+Vstupuje KOCOUR, vymóděný dofialova.
+
+LISTER: Moh` bych si nasadit turban a předstírat, že jsem z Indie!
+
+KOCOUR: Nebo si tam bodni jehlici a dělej, že jsi Taj Mahal!
+
+LISTER: Aha, to seš ty! Hele, díky, že ses ukázal, kamaráde.
+
+KOCOUR: Viděl ses? Víš, jak vypadáš? Na zvracení. Moh` bys jít na rande se Sloním mužem a on bude ten hezoun.
+
+LISTER: (Zkoumá modul) Proč to není spuštěný?
+
+KOCOUR: A co?
+
+LISTER: Jak to, že nikdo nezapnul program tání?
+
+KOCOUR: Já myslel, že to bystroň spustil.
+
+Kocour stiskne několik knoflíků a kontrolky se rozsvítí. Na displayi se odpočítává čas 29 hodin, 59 minut a 57 sekund.
+
+LISTER: Tak kdo tam může bejt, odkud je?
+
+KOCOUR: (Hladí modul) To není důležité. Konečně rande!
+
+LISTER: Jak si přišel na to, že bude chtít tebe?
+
+KOCOUR: Já ti rozumím. Sama v širém vesmíru - z toho se mohla zbláznit.
+
+LISTER: Ne. Třeba jde o normální holku, která neletí na tvůj typ.
+
+KOCOUR: O takové bych slyšel. Byla by v Ripleyově muzeu kuriozit.
+
+LISTER: A co když by chtěla někoho jinýho?
+
+KOCOUR: (Nechápavě) Jako koho?
+
+LISTER: Já nevím. Třeba... třeba mě.
+
+KOCOUR: (Směje se) Hele, máš hlavu jako vodní meloun. Co s ní chceš dělat? Pomalovat ji žlutočerně a tvrdit, že hraješ zadáka za Tygry?
+
+LISTER: Teda na chlapa, co v životě nepoznal ženskou se trochu moc naparuješ.
+
+KOCOUR: He? Snad mám oči. A dost zrcadel. Jen si to přiznej. Jeden pohled na mě a už vlhneš. (Přistoupí k LISTEROVI) Znáš zvíře zvané Íránský kulčík?
+
+LISTER: Ne.
+
+KOCOUR: Udělá sto padesát pánevních výpadů za vteřinu.
+
+LISTER: No a?
+
+KOCOUR: To jsem já na pomalý chod. Mám tam vrtačku Black and Decker a prorazím zeď, chlapče! Ouuuu.
+
+Vejde RIMMER s KRYTONEM.
+
+RIMMER: (Posměšně) Listy, neměls zůstat, kdes byl? Ve skleníku s ostatními ananasovými melouny? (Zvážní, když si všimne modulu)  Kdo spustil R.P.?
+
+LISTER: (Pomstychtivě ukáže na KOCOURA) To on.
+
+RIMMER: Ty omezený troubo! Neříkal jsem, abys počkal na mě?
+
+KOCOUR: Hele, nic se nestalo. Je uvnitř, tak ji vyndáme.
+
+RIMMER: Bohužel, splašený hormone. Tenhle modul pochází z vězeňské lodi. Z lodi, na které se trestanci vzbouřili. Došlo k velké bitce, kterou přežili jen dva. Jeden vězeň a jedna strážná. Jistá slečna Belliniová. Jeden z nich se dostal do modulu a unikl. Ale tohle by ses samozřejmě dověděl, kdyby ses seznámil s černou skříňkou.
+
+LISTER: A když tam není paní Belliniová, tak kdo?
+
+RIMMER: Nějaký vězeň. A uvážíme-li, že na lodi věznili třicet, čtyřicet psychopatických, napůl šílených, vraždících, supersilných androidů, bylo by rozumné, abychom zjistili, kdo tam je, než ho vzbudíme.
+
+KRYTON: Se vší úctou, pane, ale to nejsou androidi, ale replikanti.
+
+KOCOUR: Je v tom rozdíl?
+
+KRYTON: Ten základní je v tom, že android by nikdy neurval člověku hlavu a nenaplil mu do krku.
+
+LISTER: Jde to zastavit, Holly?
+
+HOLLY: Co? Aha. Ne, je to nevratný proces.
+
+LISTER: A nešlo by to zjistit, když modul zrentgenujeme?
+
+HOLLY: Ne, je olověný, aby moh` přežít ve vesmíru.
+
+LISTER: Ale nějak by to přece mělo jít.
+
+HOLLLY: Ale jistě. Stačí, když počkáte čtyřiadvacet hodin, a když budete mít údy roztroušené v kosmu a krk plný slin, tak bude zřejmé, že nešlo o Barborku.
+
+KOCOUR: Co kdybychom si vzali bazukoidy, počkali, až se rozmrazí a jestli to bude ten uslintanej vrahoun, dostane dávku laseru.
+
+KRYTON: Replikanti jsou skoro nezničitelní. Vydrží snadno palbu z bazukoidu nablízkou vzdálenost jen s minimálním poškozením. Určitě by přežil dost dlouho, aby z vašich střev nadělal nafukovací hračky.
+
+RIMMER: (Už hodnou chvíli hluboce přemýšlí) Máme jedinou možnost. Vystřelit ho do vesmíru.
+
+LISTER: Zbláznil ses? A co když to není replikant? Přece bys tohle neudělal s nevinnou ženskou!
+
+KOCOUR: (Dramaticky) Ale co teď? Uvnitř modulu je buď smrt nebo rande. Pokud jde o mne, jsem připraven to risknout.
+
+RIMMER: (Netrpělivě) Mezitím se modul rozmrazuje a my se ještě nerozhodli, co uděláme. Holly, nemáš nápad?
+
+HOLLY: Ano, máme jednu možnost. Černou skříňku. Jsou v ní přece souřadnice té trestanecké kolonie.
+
+RIMMER: Takže?
+
+HOLLY: Musí umět zkrotit jakéhokoliv nepřátelského tvora. Pokud to bude Belliniová, pustíme ji. A pokud replikant, šoupneme ho do cely, ať si tam shnije.
+
+RIMMER: Pokud tam ta kolonie je a pokud ještě funguje.
+
+KRYTON: Existuje staré androidní rčení, které se sem teď hodí. Je to nějak takhle: „Když neodskočíš z cyklu programu, nikdy nebudeš v podprogramu.“
+
+LISTER: No, my lidi máme hodně podobný rčení: „Odvážnému štěstí přeje.“
+
+KRYTON: Ale to androidní mně připadá trefnější.
+
+ 
+Vesmír
+
+Kosmik opouští Trpaslíka.
+
+ 
+Kokpit Kosmiku
+
+KOCOUR pilotuje. LISTER je vedle něj a má stále oteklou hlavu.
+
+KOCOUR: To musíš strašit tady?
+
+LISTER: Ten můj beďarovej kokos chce teplo.
+
+KOCOUR: Všude seš jen ty! V zrcátku vidím jen tvou kebuli! Dokonce brání i ve výhledu z Kosmika!
+
+Z vedlejší místnosti je slyšet:
+
+RIMMER: Další!
+
+ 
+Střední část Kosmiku
+
+Promítací plátno. Diapozitiv ukazuje RIMMERA v turistickém, sedícího vedle spalovacího motoru s jedním robíkem.
+
+RIMMER: Á, výborně. Čtvrtého dne jsme dorazili k tomuto zázraku. Cameron Mickantosh, čtyřiceti ventilový, sto osmdesát čtyřka. Skoro stejný jako sto sedmdesát devítka. Všim` sis toho rozdílu? Vidíš tu rafinovanost na okrajích?
+
+Reakce: KRYTON ho sleduje se zřetelně prázdným výrazem v obličeji.
+
+RIMMER: (Nadšeně) K takové nádheře se jen tak nedostaneš, tak jsme se utábořili přímo pod palivovým čerpadlem. Užili jsme si tam legrace, ale to až jindy. Protože, když nezrychlíme, nikdy se nedostaneme k pětkám. Další!
+
+Snímek připitoměle se usmívajícího RIMMERA.
+
+RIMMER: Á, tenhle mám rád!
+
+KRYTON: (Malátně) Pane, můžeme si udělat přestávku? Moje inteligenční obvody se už roztavily.
+
+RIMMER: Když si uděláme druhou přestávku, všechny je neprojdeme.
+
+KRYTON: Ano, to riziko jsem ochoten přijmout.
+
+RIMMER: (Nevšímá si ho a mele dál pantem) Takže, tohle jsou čtyřicítky. První dvojité...
+
+Je přerušen tlumenou explozí v sousedícím kokpitu. Chvilku je ticho.
+
+KOCOUR se vypotácí ven, potřísněn žlutým slizem.
+
+KOCOUR: Oh, božínku... jeho hlava pukla!
+
+LISTER vejde za ním. Jeho vlasy jsou plné hnisu a obličej je pokrytý hlenem. Potěšeně se šklebí.
+
+LISTER: To je úleva! Taková úleva! Senzace! Spad` nám všem kámen ze srdce!
+
+KOCOUR: (Plný zoufalství) Já nechci žít! Prosím vás: Střelte mě do hlavy!
+
+ 
+Vesmír
+
+Trestanecká vesmírná stanice. Kosmik se přibližuje. Stanice je ze stříbrného kovu, asi míli široká a má tvar miskových vah -tradičního symbolu zákona a pořádku
+
+.
+Kokpit Kosmiku
+
+Všichni jsou shromážděni okolo LISTERA, sedícího za řídícím panelem.
+
+LISTER: Je tam něco, Holly?
+
+HOLLY: Žádná forma života. Aspoň podle snímače.
+
+KRYTON: A co umělá inteligence?
+
+HOLLY: Ano, elektronkový mozek je funkční. Stačí se připojit k interfacu. Ano, máme to, už se ozval.
+
+HOLLYIN hlas se změní na hluboký, chraptivě mužský hlas počítače z trestanecké kolonie.
+
+SPRAVEDLNOST: Vítejte ve světě spravedlnosti. Předložte prosím očistný kód a svůj průkaz.
+
+LISTER: Nevezeme vězně. Nemáme očistný kód. Chceme jenom použít vaše zařízení.
+
+SPRAVEDLNOST: Sdělte počet a formy života.
+
+RIMMER: Čtyři. Jeden hologram, jeden android a dva lidé.
+
+SPRAVEDLNOST: Dopravte transportér do mé jurisdikce.
+
+LISTER: Tak jdem na to.
+
+LISTER nastaví směr.
+
+SPRAVEDLNOST: Po přistání prosím vystupte a pokračujte přes neutrální prostor k očistné zóně.
+
+ 
+Hangár trestanecké kolonie
+
+Kosmik přistává.
+
+ 
+Koridor v kolonii
+
+KOCOUR, KRYTON, RIMMER a LISTER procházejí opuštěným koridorem. Na zdi je nápis "Neutrální zóna".
+
+SPRAVEDLNOST: (Hlas nad nimi) Než vám bude přidělen očistný kód, dodržujte prosím všechna bezpečnostní nařízení. K vaší skupině budou doručeny eskortní boty.
+
+Zpoza rohu se vynoří čtyři páry velkých bot a blíží se chodbou k nim. Jsou z těžkého kovu, doplněné elektronkovými světly. Boty dojdou až k nim a otevřou se.
+
+SPRAVEDLNOST: Prosím, nazujte si boty.
+
+LISTER si stoupne do jednoho páru bot a ty se mu zavřou kolem nohou. Také KOCOUR obuje své boty.
+
+KOCOUR: To mám chodit v tomhle? Jsou jako zděděné po Frankensteinovi.(Volá směrem nahoru) Nemáte něco na podpatku nebo na surovce!?
+
+RIMMER: Já je nemůžu obout. Jsem hologram
+
+SPRAVEDLNOST: S tím jsme počítali.
+
+RIMMER a KRYTON si stoupnou do svých bot.
+
+LISTER: Co teď?
+
+Boty zazáří. Všichni čtyři se zakymácejí a rozběhnou se legračním stylem bez vlastního přičinění přes koridor, div že se přitom vzájemně nenakopou.
+
+ 
+Jiný koridor ve Světě spravedlnosti
+
+Skupina prochází koridorem. Každý z nich se na chvíli zastaví pod kuželem modrého světla.
+
+LISTER: Ježiši! Co je tohle?
+
+KRYTON: Ale to nic není. Jde jen o paměťovou sondu.
+
+Eskortní boty je vedou dál.
+
+ 
+Očistná zóna
+
+Eskortní boty zastaví uprostřed místnosti.
+
+LISTER: A co je to paměťová sonda?
+
+KRYTON: Počítač právě prohledal naši paměť kvůli nějakým důkazům kriminální činnosti.
+
+LISTER: Co myslíš tou kriminální činností?
+
+KRYTON: Já bych se tím netrápil. Je to jen běžný očistný postup.
+
+LISTER: Jo, jo, ale když jsi řek` „kriminální činnost“, co jsi myslel tou kriminální činností? Jak jako kriminální?
+
+RIMMER: Co to blábolíš, Listere?
+
+LISTER: Jen mi definujte kriminální činnost, nic víc.
+
+KRYTON: Představte si situaci, kdy někdo spáchá zločin a zatají ho před zákonem. A paměťová sonda ten zločin odhalí a podle toho tu osobu odsoudí.
+
+LISTER: (S náznakem paniky) Proč jste mi tohle neřekli, než jsem si nazul ty eskortky?
+
+RIMMER: (Výsměšně) Ále, Listy, Listy! Není to snad čistička splašků, co máš v kalhotách? Nebo se náš chlapeček bojí?
+
+LISTER: Ale no tak, chlapi. Každej v životě udělal něco trochu nezákonnýho.
+
+RIMMER: Já ne. Nevzal jsem ani parkovací lístek.
+
+LISTER: A krucipísek!
+
+KOCOUR: A cos proved?
+
+LISTER: Nedovolenou sklizeň. Jako kluk jsem v Liverpoolu chodíval sklízet.
+
+KRYTON: Ale ne, krást jablka, to je stěží zločin.
+
+LISTER: Jenže s partou jsme sklízeli i auta.
+
+RIMMER: A chytili tě?
+
+LISTER: Jo, pokaždý. Byl jsem hloupej.
+
+KRYTON: Pak se nebojte. Svůj trest jste si už odpykal.
+
+LISTER: Ale vyváděl jsem i jiný věci, při kterejch mě nikdy nechytli.
+
+RIMMER: Jako co?
+
+LISTER: No, třeba tenkrát v tom hotelu...
+
+KRYTON: Spousta lidí si z hotelu bere ručníky.
+
+LISTER: Já vzal postel. Spustil jsem ji klukům na kladce. Pronajal jsem si byt a nebyl zařízenej.
+
+RIMMER: To jsi šel jen tak do hotelu a ukradl postel?
+
+LISTER: Ten pokoj jsem vybílil.
+
+RIMMER: Jsi prachsprostý zloděj. Jak jsi jen mohl?
+
+LISTER: Nechci se omlouvat, ale dělal to každej. Nebyl jsem dost silnej, abych šel proti proudu.
+
+KOCOUR: Teď bych nechtěl být v tvých botách, kamaráde.
+
+LISTER: Proč? Co myslíš, že se mi stane?
+
+KRYTON: Ne, tím bych se netrápil. Jsem si jist, že je nebude zajímat menší přečin, jejž jste spáchal v pubertě před třemi miliony let.
+
+LISTER: Fakt si tohle myslíš?
+
+KRYTON: (Vesele) Páni, už přicházím na kloub lhacímu režimu. To bylo přesvědčivé, viďte? (Směje se)
+
+SPRAVEDLNOST: Android Kryton: Povolení uděleno. Můžete se volně pohybovat po lodi.
+
+KRYTONOVY boty se otevřou a on z nich vystoupí.
+
+SPRAVEDLNOST: Stvoření známé jako Kocour: Povolení uděleno.
+
+KOCOUROVY boty se uvolní.
+
+KOCOUR: Ahhhhh!! (K LISTEROVI) Klídek, prý tady mají dobrý chleba s vodou.
+
+SPRAVEDLNOST: Člověk známý jako Lister: Navzdory počtu drobných trestných činů: povolení uděleno.
+
+LISTER blaženě zavře oči. Boty ho propustí.
+
+SPRAVEDLNOST: Hologram známý jako Rimmer: Vinen vraždou druhého stupně. Jeden tisíc, jedno sto a šedesát sedm bodů obžaloby.
+
+RIMMER: (Zděšen) Né... to musí být nějaký omyl...
+
+SPRAVEDLNOST: Každý bod představuje dle zákoníku osm let donucovacích prací. Vzhledem k Vašemu holografickému stavu nastoupíte k nepřetržitému trestu odnětí svobody, jenž činí 9 328 let.
+
+RIMMER: Nikdy jsem nedostal ani upomínku z knihovny. Vražda druhého stupně? Tisíc lidí? To bych si pamatoval!
+
+SPRAVEDLNOST: Vaše vědomá nedbalost při opravě tepelného štítu způsobila smrt celé posádky kosmické lodi Jupiterské důlní společnosti Červeného trpaslíka.
+
+RIMMER: (Pauza) Jo tohle.
+
+SPRAVEDLNOST: Trest nastoupíte okamžitě.
+
+RIMMEROVY boty se rozsvítí a vyvádějí ho ven z místnosti.
+
+ 
+Pole Spravedlnosti
+
+RIMMER je unášen dál ve svých eskortních botách. Projde stěnou podivného světla.
+
+SPRAVEDLNOST: Nyní opouštíte neutrální prostor a cestujete na pole spravedlnosti. V tomto poli je nemožné spáchat jakýkoliv trestný čin.
+
+RIMMER: (Vzdaluje se) Pomoc!
+
+ 
+Vesmír
+
+Záběr trestanecké kolonie.
+
+ 
+Rimmerova cela
+
+Bíle vymalovaná místnost - skromně zařízená, ale celkově nevypadá jako vězeňská cela - postel, stůl atd. RIMMER sedí opuštěně na posteli ve futuristickém vězeňském mundúru se šipkami.Vstupuje LISTER.
+
+LISTER: Čau, vrahoune!
+
+RIMMER: Devět tisíc let. Devět!
+
+LISTER: Přines jsem ti knížku.
+
+Hodí knížku na postel.
+
+RIMMER: (Sarkasticky) Jo, díky. To mi pomůže, abych si ukrátil celá století!
+
+LISTER: Neblázni, Rimmere. My tě odsud dostanem.
+
+RIMMER: To je zbytečné. Propustí mě za pár dob ledových.
+
+LISTER: Kryton si myslí, že máš právo se odvolat a už na tom pracuje. (Rozhlédne se kolem) Tohle je dost zvláštní vězení. Nejsou tu zámky, mříže nebo stráže.
+
+RIMMER: To není ani třeba. Celé vězení je pokryto takzvaným polem spravedlnosti. Dostalo se mi otravného kázání. Je jasné, že tady nemůžeš spáchat jakýkoli zločin.
+
+LISTER: Jak to?
+
+RIMMER: Tak něco spáchej a uvidíš.
+
+LISTER: A jako co?
+
+RIMMER: Já nevím, cokoli... žhářství. Zapal tohle prostěradlo.
+
+LISTER: Dobře.
+
+RIMMER: (S potutelným výrazem) No tak to zkus.
+
+LISTER přistoupí, škrtne zapalovačem a přiloží plamen k prostěradlu. To se nevznítí, ale zatímco se o to pokouší, jeho bunda začíná hořet.
+
+RIMMER: Ať spácháš jakýkoli zločin, jeho následky postihnou tebe.
+
+LISTER, kterému je najednou podezřele teplo, se konečně ohlédne.
+
+LISTER: Kruci!
+
+Shodí hořící bundu na zem a uhasí oheň.
+
+LISTER: (Naštvaně) To se ti povedlo, Rimmere! Názornej příklad! Nemohls mi to vysvětlit aspoň ústně?
+
+RIMMER: Stejné je to s krádeží, prostě se vším.
+
+LISTER: A taky s tebou. Takže když něco štípneš, tvoje věc zmizí, že jo?
+
+RIMMER: Správně. Zkus to.
+
+LISTER: (Zapřemýšlí o tom) Ne.
+
+RIMMER: Vidíš, ten systém je dokonalý. Donutí vězně dodržovat zákony. Až se dostanou ven, budou jako beránci.
+
+Vstupuje KRYTON, následován KOCOUREM.
+
+KRYTON: Dobré zprávy. Soudce svolil, aby byl proces obnoven. Domnívám se, že právo je na naší straně.
+
+RIMMER: Opravdu?
+
+KRYTON: To není jednoduše otázka rozlišení mezi vinou a pocitem viny. To, co paměťová sonda zjistila, je Váš vlastní pocit viny. Svým způsobem jste se odsoudil sám. Na mně je, abych dokázal, že jste neurotický nedouk, citově i duševně zaostalý muž, jehož ambice zdaleka přesahují jeho minimální schopnosti a který se neustále obviňuje z nehody, za níž prostě nemůže být
+
+zodpovědný.
+
+RIMMER: Ty chceš svou obhajobu založit na tom, že jsem slabomyslný a zcela neschopný?
+
+KOCOUR: Páni! Neznám porotu, která by tuhle obhajobu nevzala.
+
+KRYTON: Vlastně ani ne tak slabomyslný. Přesněji kašpar.
+
+RIMMER: (Zamyslí se) A na čem bys obhajobu postavil? Kde bys vyčaroval důkazy?
+
+KRYTON: (Sebevědomě) Pane, pokud budu mít volný přístup k Vaší osobní složce, tak budu mít hotovou osnovu vyhraného případu tak... do oběda.
+
+ 
+Vesmír
+
+Záběr trestanecké kolonie.
+
+ 
+Očistná zóna
+
+Probíhá tu soudní proces. LISTER a KOCOUR přihlížejí. RIMMER stojí v uniformě na místě obžalovaných. KRYTON oslovuje soudní dvůr.
+
+KRYTON: Paměťová sonda slouží k tomu, aby odhalovala vinu. Avšak v případě Arnolda Jidáše Rimmera se zjištěná vina nevztahuje k žádnému zločinu. Na lodi zastával funkci malé či nulové důležitosti. Byl řadový letecký mechanik, nula, nicka, chrchel plovoucí v toaletní míse života.
+
+Záběr na RIMMERA, který si není jistý, jak na to má reagovat.
+
+KRYTON: Nicméně se nedokázal smířit s životem věčného outsidera. Jeho trapně naduté ego by to nedovolilo. Je jako strážný u hlavní brány, který sám sebe považuje za hlavu společnosti. Takže když nukleární nehoda vyhladila posádku, Arnold Rimmer přijal vinu. Byla to jeho loď: tudíž jeho chyba. Slavný soude! Vidíte tady muže. Muže, který skládal a propadl u důstojnických astronavigačních zkoušek nejméně třicetkrát. Tento nešťastník, tento hlupáček, tato parodie na muže...
+
+RIMMER: (Koutkem úst) Krytone, to jsi přehnal, na to nikdy neskočí.
+
+KRYTON: (Potichu) Věřte mi. Případ závisí na tom, že dokážu, že jste blb.
+
+RIMMER: (Rezignovaně) Pochopil jsem.
+
+KRYTON: (Nahlas) Předvolávám prvního svědka!
+
+Zvedne se LISTER, který má navlečenou děsnou, křiklavou kravatu.
+
+KRYTON: Jméno?
+
+LISTER: Dave Lister!
+
+KRYTON: Zaměstnání?
+
+LISTER: (Přemýšlí a pak pokrčí rameny) Ea, poskok!
+
+KRYTON: Popsal byste obžalovaného jako přítele?
+
+KOCOUR: (Zavolá) Odvolej se na pětku!
+
+KRYTON: Tak odpovězte prosím na otázku. Nezapomeňte, že jste pod mozkografem! Popsal byste obžalovaného jako přítele?
+
+LISTER: Ne, já bych ho popsal jako mizeru.
+
+KRYTON: Koho považujete za osobu, jež o něm smýšlí nejlépe?
+
+LISTER: (Uvažuje a pak odpoví popravdě) Sebe.
+
+KRYTON: A nikdo jiný s ním nesdílel důvěrné okamžiky?
+
+LISTER: Jenom jedna, ale tu propíchnul.
+
+RIMMER: (Jehož pohár trpělivosti přetekl) Námitka!
+
+SPRAVEDLNOST: Zamítá se.
+
+KRYTON: Takže byste ho nepopsal jako společenského tvora.
+
+LISTER: Ne. Stranil se víc, než Rudolf Hess. Byl naprosto oddanej kariéře. Měl na starosti údržbářský práce a to mu zabralo veškerej čas.
+
+KRYTON: A co tedy tvořilo hlavní náplň jeho práce?
+
+LISTER: Měli jsme spoustu důležitý práce, ale hlavně jsme zodpovídali za to, aby v lodních automatech nedošel příděl křupavých tyčinek.
+
+KRYTON: Dovedete si představit situaci, při níž by nedostatek čokoládových tyčinek s medovou náplní, způsobil smrtící radioaktivní únik?
+
+LISTER: Ne, to stoprocentně ne.
+
+KRYTON: Můžete se posadit. (Otočí se) A nyní položím jednu klíčovou otázku: Připustil by Vesmírný sbor, aby tento muž (Ukáže na RIMMERA) získal pravomoci, při nichž by mohl ohrozit celou posádku? Člověk tak bezvýznamný a omezený, který je schopen po večerech našívat jmenovky na svoje kondomy z lodních přídělů. Člověk tak strašlivě hloupý...
+
+RIMMER: Námitka!
+
+SPRAVEDLNOST: Zamítá se.
+
+KRYTON: Člověk tak strašlivě hloupý, že má námitky i proti svému obhájci. A také strašně se naparující prcek...
+
+RIMMER: Námitka!
+
+SPRAVEDLNOST: Zamítá se.
+
+KRYTON: Neschopný opravář automatů s napoleonským komplexem, který vzbuzuje u členů posádky tolik úcty jako papoušek Dlouhého Johna Silvera...
+
+RIMMER: Námitka!
+
+SPRAVEDLNOST: Vznesete-li ještě jednu námitku proti obhájci, pane Rimmere, dopustíte se urážky soudu.
+
+KRYTON: Kdo by dovolil tomu muži, této karikatuře muže, jež by nepřelstila ani čajový pytlík, aby získala postavení, z něhož by mohla ohrozit posádku? Kdo? Jedině tak jogurt. Tento muž není vinen úkladnou vraždou. Je vinen jedině tím, že je Arnold J. Rimmer. To je jeho zločin a zároveň i jeho trest. Obhajoba skončila.
+
+KRYTON si stoupne vedle RIMMERA s pohledem upřeným dopředu. RIMMER ho pokradmu pozoruje, nejistý, co si o tom má myslet.
+
+SPRAVEDLNOST: Obžalovaný, slyšte rozsudek.
+
+RIMMER se postaví do pozoru.
+
+SPRAVEDLNOST: Vzhledem k výmluvné řeči Vašeho obhájce a množství důkazního materiálu, který předložil na počítačové kartě, tento soud připouští, že ve Vašem případě není paměťová sonda přiměřenou metodou, jež by zjistila vinu. Není možné, abyste spáchal zločiny, ze nichž se obviňujete, a proto můžete svobodně odejít.
+
+RIMMER: Námitka!
+
+KRYTON: Pane, proti čemu namítáte teď?
+
+RIMMER: Žádám omluvu.
+
+ 
+Střední část Kosmiku
+
+KRYTON a RIMMER přecházejí přes rampu, následováni LISTEREM a KOCOUREM.
+
+RIMMER: (Se stopami hořkosti v hlase) Výborně, Krytone! Co můžu říct? Byls dokonalý. Dokonce i já bych tomu věřil. Jak jsi překroutil fakta, aby zapadla do tvého scénáře!
+
+KOCOUR: Přátelé, vypadnem odtud! Ani nevím, co nás přimělo lézt do téhle jámy lvové.
+
+LISTER: Já jo.
+
+Všimnou si modulu. Je otevřený. A je prázdný.
+
+KOCOUR: (Usmívá se) Mhm, cítím parfém!
+
+Ve dveřích kokpitu se objeví REPLIKANT vyzbrojený bazukoidem a zlověstně vypadající puškou.
+
+REPLIKANT: To pochybuju.
+
+KOCOUR: Nejste Vy náhodou Barbora Belliniová? (Už na útěku) Á, nejspíš ne!
+
+LISTER: Rychle!
+
+LISTER popadne bazukoid a vyběhne spolu s ostatními ven.
+
+HOLLY: Co se děje?
+
+REPLIKANT vystřelí naslepo jejím směrem HOLLY se s výkřikem schová mimo monitor.
+
+ 
+Koridor v kolonii
+
+Všichni čtyři se ženou koridorem.
+
+KOCOUR: Ah, když si pomyslím, že jsem hladil jeho modul!
+
+Přeskočí stojící eskortní boty a uhánějí dál.
+
+ 
+Stejný koridor, o kus dál
+
+REPLIKANT je pronásleduje. Pár eskortních bot se mu šourá naproti. Zničí levou. Pravá se otočí a začne se vzdalovat, ale replikant přesně zamíří a se zabijáckým úsměvem jirozstřelí také.
+
+ 
+Pole spravedlnosti
+
+Posádka na útěku proběhne známou stěnou podivného světla.
+
+SPRAVEDLNOST: Nyní vstupujete do pole spravedlnosti. V tomto poli je nemožné spáchat jakýkoliv trestný čin.
+
+LISTER a RIMMER se vrhnou na jednu stranu, KOCOUR a KRYTON na druhou. Po chvíli vbíhá i REPLIKANT.
+
+SPRAVEDLNOST: Nyní vstupujete do pole spravedlnosti. V tomto poli je nemožné spáchat jakýkoliv trestný čin.
+
+ 
+Koridor v kolonii
+
+REPLIKANT se je marně snaží najít.
+
+REPLIKANT: Haló, přátelé! Já vám nic neudělám. Potřebuju jen váš transportér. Dejte mi startovací kód. Hele! (Zvedne svou pušku) Nemám zbraň.(Odhodí pušku stranou)
+
+Střih na LISTERA a RIMMERA, kteří pozorují REPLIKANTA shora, z plošiny. LISTER ho má na mušce.
+
+RIMMER: Tak na co čekáš? Sejmi ho!
+
+LISTER: (Míří, ale klepe se mu ruka) Nemůžu. Není ozbrojenej.
+
+RIMMER: Nejde tu o skautský tábor a o vlajku za nejlepší chování. Střel ho!
+
+LISTER: To jako do zad?
+
+RIMMER: Jasně, že do zad! Jen je škoda, že je vzhůru.
+
+LISTER: Tebe by těšilo, kdyby jsi ho zastřelil ve spánku?
+
+RIMMER: S radostí bych ho zabil, kdyby byl ve střehu. Odprav ho!
+
+LISTER: To je nemorální.
+
+REPLIKANT: (Prosebným hlasem) No tak, přátelé. Nezastřelíte neozbrojeného androida.Rád bych s váma hodil kus řeči.
+
+LISTER: (Odloží bazukoid) Jdu tam a promluvím s ním.
+
+ 
+Kovová lávka
+
+REPLIKANT stojí, zdánlivě neozbrojený, když LISTER skočí před něj.
+
+LISTER: Tak jsem tady. Co jsi chtěl?
+
+REPLIKANT: A nemáš u sebe zbraň?
+
+LISTER: Ne. Ty taky nemáš zbraň?
+
+REPLIKANT: Ne
+
+Jdou si vzájemně naproti.
+
+REPLIKANT: Hádej co? (Vytáhne lovecký nůž) Já jsem lhal.
+
+LISTER: Hádej co? (Nechá z rukávu vyklouznout železnou tyč a demonstrativně s ní majzne do zábradlí) Já taky.
+
+REPLIKANT: (S vítězoslavným úšklebkem) Ale já lhal... víc! (Vytáhne pušku)
+
+LISTER: (Smutně) To mě nenapadlo.
+
+REPLIKANT: To jsem rád, cucáku.
+
+LISTER: Tak o čem chceš mluvit?
+
+REPLIKANT: O tvý smrti.(Natáhne kohoutek) O tvý blízký smrti.
+
+Vystřelí dvakrát na LISTER. Ten ale není zraněn. Zato REPLIKANT je dvakrát zasažen do hrudníku.
+
+REPLIKANT zavrávorá a LISTER ho praští tyčí přes hlavu. LISTER klesne do kolen.
+
+LISTER: (Omráčen a udiven) Co se to tu sakra děje?
+
+REPLIKANT vytáhne nůž, hodí ho po LISTEROVI, ale čepel se zabodne do jeho vlastních prsou. Vytáhne dýku z rány a zkouší to znovu. Tentokrát nůž skončí v jeho hlavě. LISTER se ušklíbne a jeho tvář osvítí poznání. Odhodí svou tyč a podá
+
+REPLIKANTOVI poblíž ležící láhev.
+
+LISTER: Tumáš, bouchni mě tímhle přes hlavu.
+
+REPLIKANT: (Nešťastně) Nefunguje to... to se nepočítá...
+
+LISTER: A ještě!
+
+REPLIKANT: A zase nic! Takovej šmejd...
+
+LISTER podává REPLIKANTOVI další láhve a ten je rozbíjí o jeho hlavu. Všechny rány se mu vracejí, aniž by činily LISTEROVI jakoukoli újmu. LISTER položí jeho ruce kolem svého krku. REPLIKANT se ho pokouší zardousit, ale ve skutečnosti škrtí sám sebe. Konečně mu dojdou síly a definitivně odpadne. LISTER se s úlevou opře o zábradlí a oddechne si. Běží k němu KOCOUR a mává bojovně lopatou.
+
+KOCOUR: Teď je můj, kamaráde! Nech to na mně!
+
+LISTER: Kocoure, ne, ne!
+
+KOCOUR: Lepší pozdě, než nikdy.
+
+Kocour plivne na lopatu a praští ležícího replikanta přes hlavu. Triumfálně se směje. Najednou mu úsměv ztuhne na tváři a on se skácí dozadu.
+
+ 
+Hangár Červeného trpaslíka
+
+Kosmik přistává
+
+ 
+Koridor Červeného trpaslíka
+
+LISTER, RIMMER, KRYTON a KOCOUR se vracejí z namáhavého výletu. LISTER jde v čele.
+
+LISTER: Viděli jste sami, ne? Podle mě jsou dějiny lidstva hledáním spravedlnosti. Vemte si všechny náboženství. Berou život jako že je vlastně nespravedlivej, ale slibujou, že každej pozdějc dostane, co si zaslouží: nebe, peklo, karmu, reinkarnaci. Ti, co vybudovali kolonii, chtěli vnést do světa pořádek tím, že vytvořili pole spravedlnosti. Ale, když žijete ve spravedlivým prostředí, nemáte svobodnou vůli. Proto v našem světě existuje jen vrozená spravedlnost. Dobrý věci se stávaj špatnejm lidem a špatný věci těm dobrejm. Život musí bejt bezcitnej, nespravedlivej a krutéééj...
+
+Zaujatý svou filozofií, LISTER si nevšimne otevřeného poklopu a spadne dovnitř. Ostatní se skloní nad otvorem.
+
+KOCOUR: Díky Bohu za to.
+
+KOCOUR zavře víko.

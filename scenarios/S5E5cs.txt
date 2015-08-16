@@ -1,0 +1,957 @@
+Řídící místnost Červeného trpaslíka
+
+LISTER vytáhne uchopovacími kleštěmi jahodu z miniaturního stázového boxu.
+
+LISTER: Úžasný! Poslední jahoda ve vesmíru.
+
+Položí ji na prostřední ze tří podložek, které jsou součástí zvláštního přístroje na stole.
+
+KRYTON: Vše zkalibrováno. Organická infrastruktura nahrána a uložena. Zapnout triplikátor.
+
+Bílé světlo obalí jahodu. Ze světla se oddělí dva paprsky, které vytvoří jahodu na zbývajících dvou podložkách.
+
+LISTER: Funguje to!
+
+Během pokusu vejde do laboratoře RIMMER.
+
+RIMMER: Co funguje?
+
+KRYTON: Upravili jsme teleportér. Teď se signál při návratu dělí na tři části. Takže kromě původního předmětu získáváme dvě identické kopie.
+
+LISTER: A máme po problémech se zásobováním.
+
+KRYTON: Vezmeme-li v úvahu výpočty pro znovunastavení, dokážem vyprodukovat čtyři, možná i pět jahod za týden!
+
+RIMMER: (Mírně pobaveně) Pokud se uděluje Nobelova cena v oboru ovoce, tak budete pro letošek horkými kandidáty. Pánové, vejdete do historie! Budete slavní, postaví vám pomník. I města ponesou vaše jména. Napadá mě například „Mamlasov“.
+
+LISTER: Nechápeš, jak převratnej objev je to pro náš život?
+
+RIMMER: Samozřejmě, když bude ten drobeček pracovat na plné obrátky, tak za rok budeme mít mísu ovocného salátu.
+
+LISTER: Nejde jenom o jahody! Tahle mašinka dokáže rozmnožit všechno.
+
+Vezme jednu  z kopií a ukousne si.
+
+LISTER: Třeba ... (Zarazí se, příjemně překvapen)
+
+KRYTON: Pane, co se děje?
+
+LISTER: Ta jahoda je fantastická! Je tak šťavnatá! Je božská!
+
+Zkouší druhý duplikát.
+
+RIMMER: Ta je taky dobrá?
+
+LISTER: (Se staženou tváří) Tahle ne, ne!
+
+RIMMER: V čem se liší?
+
+LISTER: Je štiplavá, hořká...
+
+Položí zbytek jahody zpátky a můžeme vidět, že je plná svíjejících se červů.
+
+KRYTON: (Který si toho jako jediný všimne) Pane, já ...
+
+LISTER: ...ostré chuti...
+
+KRYTON: … pane, řek bych ...
+
+LISTER: ... křupavá ...
+
+KRYTON: … pane, eh!
+
+LISTER: ...výrazná, žvejkavá, masitá a navíc má hemživou konzistenci.
+
+Zarazí se, podívá se konečně na jahodu a zaznamená rozlézající se červy.
+
+LISTER: Oh! Fuj tajbl!
+
+KRYTON: Ten náš triplikátor extrahoval z jednoho duplikátu ty nejlepší prvky a z druhého ty nejhorší.
+
+LISTER: A co by se stalo, kdybychom ten proces obrátili?
+
+KRYTON: Ano.
+
+KRYTON zmáčkne nějaké knoflíky . Celá laboratoř začíná explodovat. V nastalém zmatku se ozývají další malé výbuchy z různých klávesnic. LISTER pobíhá po místnosti a rychle ťuká do ještě nevybuchlých klávesnic. Trochu se mu povede chaos uklidnit.
+
+RIMMER: To se vám povedlo. Co chystáte teď? Žonglování s atomovkou?
+
+V pozadí se rozezní výstražná siréna. Na jednom z monitorů se objeví místo jahody HOLLY.
+
+HOLLY: Větroplach! Větroplach! Elektrický zkrat vypnul můj bicykl vyjadřování. V mé databázi teď chybí spousta Slovinců. Opusťte lov! To není svištní poplach! Opakuji: To není svištní poplach!
+
+RIMMER: Díky bohu, Holly to nepoznamenalo.
+
+KRYTON: Má pravdu, jádro motorů dosahuje kritických hodnot a ani ne za 15 minut se roztaví.
+
+RIMMER: (Couvá ke dveřím) Řekl bych, že svižná procházka směrem k nákladnímu doku bude přímo geniální tah.
+
+LISTER: Podle tebe Trpaslík vybouchne?
+
+KRYTON: Za kratší dobu, než si Nor koupí lyžařské boty!
+
+Vstupuje KOCOUR.
+
+KOCOUR: Hoši, myslím, že hrajou tu naši - sirénovej walz! Dá si někdo se mnou quickstep?
+
+RIMMER: Jdeme!
+
+Všichni spěšně opouštějí laboratoř.
+
+ 
+Nákladový prostor
+
+Kosmik se zvedá v nákladovém prostoru, který nebezpečně jiskří a rozpadá se.
+
+ 
+Kokpit Kosmiku
+
+Všichni jsou v kokpitu.
+
+RIMMER: Holly, otevři vrata od nákladního doku.
+
+KRYTON: Eh, Holly, ta vrata, o kterých jsme před chvilinkou mluvili - mohla bys je laskavě otevřít?
+
+LISTER: (Panikaří) Holly, ty vrata, sakra!
+
+HOLLY: Termín „vrata v nákladním doku“ není v mém slovníku.
+
+LISTER: Ruční ovládání!
+
+HOLLY: Termín „ruční ovládání“ není v mém ...
+
+LISTER: Ááhh, zapomeň na to!
+
+Připoutají se.
+
+ 
+Vesmír
+
+Kosmik opouští Trpaslíka tak, že prorazí dveře nákladního doku; po několika přemetech se znovu vyrovná.
+
+ 
+Kokpit Kosmiku
+
+KRYTON: Osmdesát kliků. To už bychom měli být mimo oblast výbuchu.
+
+KOCOUR: A podle vás to bouchne?
+
+RIMMER: To se mi snad zdá.
+
+LISTER: Vůbec nic se nestane. Jsme tu pro všechny případy. Loď má fůru bezpečnostních pojistek. Chladící systém, ochranný obal, vakuové štíty. Reálná šance, že vybouchne, je jedna ku …
+
+ 
+Vesmír
+
+Červený trpaslík je roztrhán mohutnou explozí na miliony kousků. Kokpit se otřese pod nárazovou vlnou.
+
+ 
+Kokpit Kosmiku
+
+LISTER: … jedný!
+
+ 
+Střední část Kosmiku
+
+KRYTON přichází k ostatním z kokpitu.
+
+KRYTON: Takže, podle mapy je nejbližší asteroid s atmosférou S3 asi šest hodin od nás. Jenže, potíž je v tom, že máme palivo jen na pět hodin letu, ale nemyslím, že by tohle byl největší problém, protože s kyslíkem vystačíme jen sedm minut.
+
+RIMMER přistoupí ke KRYTONOVI a přitom se pokradmu ohlíží na KOCOURA a LISTERA.
+
+RIMMER: (Koutkem úst šeptá KRYTONOVI) Nás se to vlastně netýká, že ano?
+
+KRYTON: (Odpovídá stejně potichu) Nerozumím, pane.
+
+RIMMER: My kyslík nepotřebujem. Něco mě napadlo. Kdybychom vyhodili jejich mrtvoly do vesmíru, při snížené hmotnosti, doletíme ten asteroid.
+
+Obrací se zpátky tváří ke KOCOUROVI a LISTEROVI. Věnuje jim široký, křivácký úsměv.
+
+LISTER: Teda, Rimmere, jak si jen moh`?!
+
+RIMMER: Pardon?
+
+LISTER: Tak se to u nás neřeší! Jeden za všechny, všichni za jednoho!
+
+KOCOUR: Táhnem spolu!
+
+LISTER: Hoši z trpaslíka!
+
+On a KRYTON začnou třepat rukama v gestu „Hoši z trpaslíka“. Za chvíli se k nim přidává i KOCOUR.
+
+KOCOUR: Když je jeden v rejži, tak mu kamarádi píchnou!
+
+LISTER: Ano, takhle to chodí.
+
+RIMMER: Máte to snad písemně?
+
+LISTER: Jsi krysa, Rimmere. A podvraťák! Ty seš slizkej had s morálkou kudlanky nábožný.
+
+RIMMER: Jsem jenom realista. Hele, zbývá vám jen sedm minut života. To je tragédie. (S podivným úsměvem) Jejda, to je tragédie!!! Ale pro nás ostatní jde život dál.
+
+KRYTON: Mohu-li se vmísit do debaty, tak pro Vás tohle tak docela neplatí. Vy totiž fungujete na záložní baterie a my žádné náhradní nemáme. Skutečnost je taková, že se vypnete ani ne za čtyři minuty.
+
+Pauza, během které RIMMER stravuje tuhle informaci.
+
+RIMMER: (Přehnaně předvádí pozdrav „Hoši z trpaslíka“ a blbě se tlemí) Dobře kamarádi, jeden za všechny!
+
+LISTER: Tak jo, Krytone. Šoupni ten vrak na monitor.
+
+KRYTON: Hned, pane.
+
+LISTER: Kocoure, do skafandru. Třeba to některý nádrže s kyslíkem i palivem přežily. Možná se k nim i dostaneme a vezmeme je na palubu. Mezitím, přepni Rimmera na minimální napájení. Tak se jeho životnost ztrojnásobí.
+
+RIMMER by k tomu evidentně rád něco řekl, ale je přerušen voláním v kokpitu.
+
+KRYTON: Pánové, tam venku něco je!
+
+Všichni spěchají do kokpitu.
+
+ 
+Kokpit Kosmiku
+
+KRYTON: Dva objekty. Na vraky jsou příliš veliké. Podle záznamu se zhmotnily těsně před tou explozí.
+
+LISTER: Můžeme je nějak přiblížit?
+
+KRYTON: Zvětším je na maximum.
+
+Obraz na monitoru se přiblíží. Teď ukazuje dvě velké, červené, vesmírné lodě, obě s nápisem „Červený trpaslík“.
+
+KRYTON: Ovšem! Triplikátor vyrobil dvě kopie Červeného trpaslíka.
+
+LISTER: Jak?
+
+KRYTON: No, pravděpodobně, když jsem ho přepnul na zpětný chod, nezvrátil celý proces, ale obrátil paprsky a promítl je ven, nikoli dovnitř.
+
+LISTER: Takže nezkopíroval jahody, ale rovnou celou loď.
+
+KRYTON: Přesně tak. A odčerpáním energie byl zřejmě zlikvidován ochranný obal a došlo k výbuchu!
+
+RIMMER: Takže, stejně jako jahody, máme dva nové trpaslíky. Jeden šťavnatý a božský a druhý...?
+
+LISTER: Nástraha pro ryby.
+
+KOCOUR: No a co, pánové! Loď teda nevybouchla. A podle všeho je teď lepší než originál!
+
+LISTER: Ne tak docela.
+
+KRYTON: Zjistili jsme, že triplikované kopie mají omezenou životnost.
+
+KOCOUR: Jak omezenou?
+
+LISTER: Asi na hodinu.
+
+KRYTON: Možná existuje řešení. Obsah lodi by měl být taky ztrojnásobený. Takže na tom lepším Červeném trpaslíku bude fungující triplikátor. Teoreticky bychom měli být schopní obrátit zpětný chod a vyrobit repliku původní lodi kombinací dvou kopií.
+
+KOCOUR: (S širokým úsměvem) To zní jako rajská hudba.
+
+ 
+Vesmír
+
+Kosmik se blíží k jednomu z Červených trpaslíků. Následně přistává v nákladovém prostoru, který se leskne čistotou.
+
+ 
+Střední část Kosmika
+
+LISTER a KOCOUR se připravují k odchodu. KRYTON nese prodlužovací šňůru. RIMMER stojí a střídavě se objevuje a mizí – jde na minimální napájení.
+
+KRYTON: Musíme najít terminál, abychom mohli dobít baterie pana Rimmera. Dohoním vás.
+
+LISTER s KOCOUREM odejdou.
+
+ 
+Koridor vznešeného Červeného trpaslíka
+
+KOCOUR a LISTER procházejí dlouhým koridorem, který je bíle natřen a září čistotou. Stěny a strop jsou ozdobeny geometrickými obrazci. Vzduchem se linou tóny andělské hudby.
+
+LISTER: (Užasle šeptá) Slyšíš tu muziku? Je úchvatná!
+
+KOCOUR: (Taky šeptem) Nikdy jsem nic takového neslyšel.
+
+LISTER: (Zhluboka dýchá) Áááá, cejtíš ten vzdoušek?
+
+KOCOUR: Mmm! Člověk je hned rád na světě!
+
+LISTER: Všechno na týhle lodi je ... je božský!
+
+Zastaví se u jídelního automatu.
+
+LISTER: Hele, ochutnáme jídlo!
+
+Zmáčkne nějaké knoflíky a automat mu vydá kelímek.
+
+KOCOUR: Co sis poručil?
+
+LISTER: Rozhodující zkouška: instantní nudle!
+
+Oba ochutnávají nudle, které jinak k smrti nesnáší. Téměř v extázi zavírají oči a rozplývají se blahem.
+
+LISTER: Něco ti řeknu: Byl jsem v paralelnim vesmíru, žil jsem pozpátku, hrál kulečník s planetama a porodil jsem dvojčata, ale nevěřil bych, že instantní nudle můžou bejt poživatelný!
+
+Chtějí si dát další sousto, ale jsou vyrušeni příchodem VZNEŠENÉHO KOCOURA a VZNEŠENÉHO LISTERA.
+
+VZNEŠENÝ KOCOUR: Bratři, buďte vítáni.
+
+Oba se velmi podobají svým protějškům, ale jsou oblečeni v dlouhých, bílých kutnách. Na čele mají geometrický symbol z nějakého kovu. LISTER a KOCOUR se na sebe kouknou s udivenými výrazy.
+
+VZNEŠENÝ LISTER: Jistě se vám honí hlavou spousta otázek. Pojďte. (Pokyne jim rukou)
+
+Oba odchází. KOCOUR a LISTER je následují.
+
+KOCOUR: (Ke VZNEŠENÉMU KOCOUROVI): Jsi já, ale nejsi já?
+
+VZNEŠENÝ KOCOUR: (Mluví spisovně a klidně) Jsem tvá součást - vyšší já! Tvá duchovní stránka. Existuji v tobě jako možnost. Jsem tady extrapolovaný z tvého já.
+
+KOCOUR: Extrapolárka? Kamaráde, ty nemůžeš být moje součást. Žádná moje součást by nenosila sandály.
+
+VZNEŠENÝ KOCOUR: Dle mého soudu, šaty jen odpoutávají od úsilí o duchovní naplnění.
+
+KOCOUR: To je divný. Podle mě, duchovní naplnění odpoutává od úsilí dobře se oblíkat.
+
+VZNEŠENÝ LISTER: Odebereme se nyní do meditační komnaty. Dnes spolu strávíme plodný večer, hledáním odpovědí na metafyzické záhady, jež sužují lidstvo od počátku věků.
+
+LISTER: (Sarkasticky s úsměvem) To bude vzrůšo!
+
+KOCOUR: (Mírně znechuceně) Už se třesu.
+
+ 
+Meditační komnata
+
+Vypadá to tu jako ve vědecké laboratoři na Červeném trpaslíku, ale je zde čisto, méně zbytečných zařízení a hezčí výzdoba. KRYTON sedí za stolem a seřizuje část triplikátoru. Už dobitý RIMMER poslouchá VZNEŠENÉHO  KRYTONA a VZNEŠENÉHO RIMMERA. VZNEŠENÝ KRYTON, stejně jako všichni zdejší obyvatelé, září čistotou a je oblečený do bílé kutny. Stejně tak i VZNEŠENÝ RIMMER, jehož „H“ na čele je z vyleštěného chromu.
+
+VZNEŠENÝ RIMMER: Filozofie, poezie, hudba a studium - tak trávíme svůj čas. Rozšiřujeme své obzory a svůj potenciál využíváme v zájmu lidstva.
+
+RIMMER: To jsou ale břídilové!
+
+Vstupují LISTER a KOCOUR. LISTER stále s kelímkem instantních nudlí.
+
+VZNEŠENÝ KRYTON: Ah, další hosté! (Ke VZNEŠENÉMU RIMMEROVI) Pojď, mé duchovní dvojče, připravíme pohoštění.
+
+VZNEŠENÝ RIMMER: Nechť vás provází moudrost a v moudrosti dojdete pokoje.
+
+Hluboce se uklánějí a podivně cupitavými krůčky legračně odcházejí.
+
+KOCOUR: Ty šašci, že jsou naše součást? To nezbaštim.
+
+KRYTON: Jsou to naše vyšší já. Lidé, jakými bychom mohli být, kdybychom byli zbaveni všech negativních vlastností.
+
+RIMMER: Myslíš hippies?
+
+KRYTON: Při vší úctě, myslíte, že Ježíš byl hippík?
+
+RIMMER: To tedy byl! Měl dlouhé vlasy, nepracoval - co chceš víc?
+
+LISTER se během hovoru neustále cpe instantními nudlemi.
+
+LISTER: Jak to, že jsou o tolik chytřejší?
+
+KRYTON: Je to asi takhle: Váš mozek zachytí všechno, co vidíte, slyšíte - každé slovo, každý rozhovor. Všechno je uloženo ve Vašem podvědomí. Naše vyšší já má přístup k těmto vědomostem.
+
+KOCOUR: Hele, už mě tady svrběj nohy. Tu hračku máš, tak rychle pryč, než nás ty svatoušci uvězněj na večeru filozofování a sebemrskačství.
+
+KRYTON: To není tak jednoduché. Jejich přístroj obsahuje jenom polovinu komponentů. Bez triplikátoru z lodi zla se neobejdeme!
+
+Ozve se cinknutí trianglu. Ve dveřích stojí VZNEŠENÝ KRYTON a VZNEŠENÝ LISTER. VZNEŠENÝ KRYTON drží v rukou triangl a VZNEŠENÝ LISTER futuristickou lyru. Oba se uklánějí obecenstvu.
+
+VZNEŠENÝ KRYTON: Zábava může začít. Budeme si číst bajku, recitovat si a také přemítat o svém nitru. Ale nejprve hudba a tanec.
+
+Znovu cinkne do trianglu. Dovnitř vtančí za doprovodu lyry v hrané bolesti VZNEŠENÝ RIMMER.
+
+VZNEŠENÝ KRYTON: Bratr Rimmer představuje muka.
+
+VZNEŠENÝ LISTER: Muka duše hledající pravdu. Pravdu představuje bratr Kocour.
+
+Ve dveřích se objeví VZNEŠENÝ KOCOUR. Jakýmisi přískoky se přibližuje ke klečícímu VZNEŠENÉMU RIMMEROVI a mává třemi hedvábnými šátky nad jeho hlavou.
+
+VZNEŠENÝ KRYTON: Pravda je neuchopitelná.
+
+VZNEŠENÝ LISTER: Poletuje si jako světluška studenou nocí. Duše pohrává si s ní, mate ji.
+
+VZNEŠENÝ KRYTON: A muka... bolestně tápou navěky a marně.
+
+Přesně tohle VZNEŠENÝ RIMMER předvádí svým „tancem“. Snaží se marně lapnout šátek a VZNEŠENÝ KOCOUR s ním uhýbá z jeho dosahu. Při tom oba dělají děsné ksichty. Jejich diváci očividně nevědí, co si o tom mají myslet, někteří usínají. Za zvuků hudby se na monitoru objeví VZNEŠENÁ HOLLY. Vypadá stejně jako normální HOLLY, ale má bílý šátek jeptišky se závojem.
+
+VZNEŠENÁ HOLLY: Bratři, omlouvám se za vyrušení.
+
+VZNEŠENÝ KRYTON: Copak je, sestro?
+
+VZNEŠENÁ HOLLY: Zachytila jsem slabé, leč žalostné volání o pomoc z lodi, která je totožná s naší.
+
+VZNEŠENÝ LISTER: Musíme jim tedy pomoct. Pospěšte si, bratři.
+
+VZNEŠENÝ LISTER a VZNEŠENÝ KRYTON se uklánějí a odcházejí. KRYTON popadne triplikátor a společně s ostatními je následuje.
+
+ 
+Vesmír
+
+Kosmik se zvedá a vylétává dveřmi nákladového doku. Blíží se ke druhému Červenému trpaslíku.
+
+ 
+Kokpit Kosmika
+
+V kokpitu vidíme LISTERA, KRYTONA a VZNEŠENÉ bratry KOCOURA a RIMMERA.
+
+LISTER: Přistávací kurs propočítán. Jdeme na věc a hezky v klidu.
+
+ 
+Vesmír
+
+Kosmik přistává v nákladovém prostoru špatného Červeného trpaslíka. Dveře zůstávají otevřené.
+
+ 
+Nákladový prostor špatného Červeného trpaslíka
+
+Světla na této lodi střídavě svítí a zhasínají. Obě posádky opouštějí Kosmika. Normální trpaslíkovci jsou ozbrojeni bazukoidy.
+
+ 
+Chodba na špatném Červeném trpaslíkovi
+
+LISTER: A dávejte si majzla, hoši.
+
+Procházejí pochmurnými, špinavými koridory. Všude se válejí odpadky a chodby jsou mizerně osvětlené.
+
+ 
+Křižovatka
+
+Záběr na křižovatku mezi dvěma koridory. LISTER jde první, za ním VZNEŠENÝ KOCOUR. RIMMER skočí do křižovatky pseudokaratistickým skokem a tím si přivodí něco jako natažení svalu. VZNEŠENÝ KRYTON zůstane pozadu.
+
+VZNEŠENÝ KRYTON: Přicházíme v míru! Přinášíme potravu a léky!
+
+Ozve se výstřel. VZNEŠENÝ KRYTON je zasažen do levého ramene.
+
+VZNEŠENÝ KRYTON: (K ostatním) Chudáček, jeho zbraň musela spustit nešťastnou náhodou. (Volá přes celý koridor) Moji milí bratři, neseme vám masti a balzámy!
+
+Další dva výstřely ho trefí do pravého ramene a do břicha. RIMMER, bezpečně zalezlý za přepravními klecemi, se pro jistotu ještě přikrčí.
+
+VZNEŠENÝ KRYTON: Zapěji vám hymny za vaše uzdravení!
+
+Další dvě střely - VZNEŠENÝ KRYTON konečně padne na zem.
+
+LISTER: Je mrtvej?
+
+RIMMER: Nezbývá, než doufat.
+
+LISTER odhodí bazukoid, popadne pololežícího VZNEŠENÉHO KRYTONA a odtáhne ho stranou za nějaké krabice.
+
+VZNEŠENÝ KRYTON: Ten ubožák má porouchanou zbraň. Omylem na mě pětkrát vystřelil. Oh, jak ho miluji!
+
+VZNEŠENÝ KOCOUR bez jakékoliv opatrnosti vstupuje do koridoru a mluví k neviditelnému střelci.
+
+VZNEŠENÝ KOCOUR: Bratře, tvá puška má naneštěstí poruchu. Stále střílí po lidech.
+
+Kulka ho zasáhne do pravé strany hrudníku.
+
+VZNEŠENÝ KOCOUR: (Ukazuje na své zranění) Vidíte, už zase střílí!
+
+Přikutálí se k němu nějaká syčící, černá koule. Ve skutečnosti je to nebezpečně vyhlížející bomba s hořící zápalnou šňůrou.
+
+VZNEŠENÝ KOCOUR: Co je tohle?
+
+VZNEŠENÝ KRYTON, už zase na nohou, bombu zvedne.
+
+VZNEŠENÝ KRYTON: To je dar na uvítanou. Představuje planoucí srdce. Pojď, pokocháme se jeho nádherou a
+
+přivinem ho k svému srdci.
+
+LISTER s RIMMEREM mezitím zpozorují předmět v jeho ruce a takticky se rychle vzdalují.
+
+VZNEŠENÝ KRYTON: Je dokonalé, božské. Co ti to říká, bratře?
+
+Bomba hrozivě exploduje a zabije VZNEŠENÉ bratry KRYTONA a KOCOURA. Náraz odhodí LISTERA na klec, kde omdlí. RIMMEROVI se povede včas najít vhodnou krabici, do které se schová.
+
+ 
+Neznámá místnost, později
+
+LISTER se probere k vědomí a zírá do hlavně bazukoidu. Bazukoid drží muž oblečený jako kovboj: těžké boty s ostruhami, černý klobouk, špaček doutníku v Eastwoodově stylu, tmavý plnovous a páska přes levé oko. Plivne LISTEROVI do tváře a protivně se hihňá, odhalujíc přitom zubní hřbitov ve svých ústech. Muž vypadá vzdáleně jako LISTER. Vypálí, má ale poněkud vychýlenou mušku, takže LISTER se stihne vyhnout kulce. Střílí znovu, přitom se stále chichotá, ale LISTEROVI se povede odvalit se stranou, vyhrabat se na nohy a utéct. LISTER běží po schodech podél koridoru. Na konci chodby narazí na postavu sedící u dvou těl - je to ŠPATNÝ KOCOUR, který se právě láduje zbytky VZNEŠENÉHO KOCOURA a vznešeného KRYTONA - tedy spíš KOCOURA, na KRYTONOVI by si asi vylámal tesáky. Všimne si LISTERA a zašklebí se, krev má rozmazanou po celém obličeji. Jeho špičáky jsou značně přerostlé a má bujné, chlupaté obočí. LISTER peláší pryč.
+
+O kousek dál unaveně zpomalí a opře se o sárdrokartonovou stěnu, aby nabral dech. Najednou z ní vyrazí pár rukou, které ho začnou zezadu škrtit. LISTEROVI se povede vysmeknout a skočit za  nějaký ocelový soudek. Škrtič - ŠPATNÝ KRYTON - od oleje zamazaný dvojník robota - se probourá zbytkem klecí a trhavými pohyby pokračuje někam dál do koridoru. LISTER chvíli vyčkává v úkrytu. Všude je ticho, ale vidíme pár kovbojských bot, které po něm pátrají.
+
+LISTER: (Vystrašeně šeptá) Rimmere? Rimmere? Rimmere?
+
+Boty se zastaví a pak změní směr.
+
+LISTER: (Šeptá, teď už naléhavě, stojíc mezi bednami) Rimmere? Rimmere?
+
+Za ním sestupuje někdo ze schodů…
+
+ŠPATNÝ RIMMER: Hledáš někoho?
+
+LISTER se otáčí k postavě na schodech. Příchozí má na sobě rajcovní punčochy s podvazky, kožený obojek pobitý cvočky, výraznou náušnici v pravém uchu spojenou  řetězem s pravou nosní dírkou a kožešinu. Stěží by se dalo poznat, že jde o ŠPATNÉHO RIMMERA, kdyby neměl na čele „H“, pokřivené o pětačtyřicet stupňů. Má také nádherný tématický sestřih. Vypadá prostě jako dokonalá S/M kur*a.
+
+LISTER: (Šokován) Kristepane!
+
+ŠPATNÝ RIMMER: Ahoj krasavče!
+
+LISTER: Co mi chceš?
+
+ŠPATNÝ RIMMER: Chci ti ublížit.
+
+LISTER: Proč?
+
+ŠPATNÝ RIMMER: Protože... nejsem zrovna žádnej dobrák.
+
+ŠPATNÝ RIMMER vyndá duhově modrý, biči podobný předmět a švihne s ním LISTERA. LISTER se v bolesti chytí za hlavu.
+
+LISTER: Au!!! Holobič!
+
+ŠPATNÝ RIMMER: Zmrská tě, drahoušku, až se zhroutíš k zemi. A pak ... se tě zmocním.
+
+Znovu švihne LISTERA, který se svalí na zem. Nad ním se sklánějí posměšné tváře všech čtyř démonů. Pak LISTER ztratí vědomí.
+
+    
+Špatný Červený trpaslík, chodba
+
+KRYTON: Pánové, čas je neúprosný. Zbývá necelých dvacet minut na to, abychom našli druhý triplikátor. A proto bychom se teď měli rozdělit.
+
+VZNEŠENÝ RIMMER: Moudrý návrh, bratře.
+
+VZNEŠENÝ LISTER: Půjdu s bratrem Kocourem.
+
+KOCOUR: Vždyť nemáš zbraň!
+
+VZNEŠENÝ RIMMER: My zbraně nepotřebujeme, kočičí bratře. Ochraňují nás bylinky.
+
+KOCOUR: Já jdu radši s Krytonem.
+
+VZNEŠENÝ LISTER: Jak si přeješ, bratře.
+
+VZNEŠENÝ RIMMER naznačí VZNEŠENÉMU LISTEROVI drobným pokývnutím, aby šel první.
+
+VZNEŠENÝ LISTER: Děkuji, příteli.
+
+ 
+Řídící místnost špatného Červeného trpaslíka
+
+LISTER je připoután na velkém stole a obklopují ho všichni čtyři špatní trpaslíkovci. Na zrnící obrazovce se objeví špatná HOLLY. Má tmavě černé vlasy a vypadá jako členka Addamsovy rodiny.
+
+ŠPATNÁ HOLLY: Můžete začít.
+
+ŠPATNÝ LISTER: Vraz mu to do páteře.
+
+Drží malý, několika bodci opatřený předmět, který od něj ŠPATNÝ KRYTON vezme a zapíchne ho do LISTEROVA krku.
+
+ŠPATNÝ KRYTON: Probuď se! Ať nepřijdeš vo tu bolest! Cejtíš, jak se jehly zabodávaj do tvý … páteře!?
+
+ŠPATNÝ LISTER se debilně tlemí.
+
+LISTER: (Napůl vzhůru) Teda, tak příšerný dementy svět neviděl. O co vám jde?
+
+ŠPATNÁ HOLLY: Chcem vaši loď.
+
+ŠPATNÝ KOCOUR: Nic nešlape, jak má.
+
+ŠPATNÝ KRYTON: Tahle kocábka je v rozkladu!
+
+ŠPATNÝ RIMMER: A právě takhle vaši loď snadno dostaneme.
+
+Špatný KRYTON obejde stůl a uvolní LISTEROVA pouta.
+
+LISTER: Nemůžu se hejbat!
+
+ŠPATNÁ HOLLY: Jasně, že ne! Ještě tě nezapnul, tupče!
+
+ŠPATNÝ KRYTON: (Špatnému LISTEROVI) Ukaž mu to, hlupáku.
+
+ŠPATNÝ LISTER: Jo! (Začne se znovu blbě řehnit – jestli teda vůbec někdy přestal)
+
+ŠPATNÝ LISTER má v ruce dálkové ovládání s anténkou. Když zmáčkne jeden knoflík, LISTER si sedne a otočí se doleva. ŠPATNÝ LISTER zmáčkne jiný knoflík a LISTEROVY ruce začnou prkenně tleskat.
+
+ŠPATNÝ RIMMER: Je přímo nadšenej!
+
+ŠPATNÝ KOCOUR: Možná by se chtěl trochu projít.
+
+LISTER: (Úzkostlivě) Hra už skončila! Hra už skončila!
+
+ŠPATNÝ KRYTON: Schválně, co je v tý skříni na potraviny, hehehe?
+
+LISTER se díky dálkovému ovládání postaví a jako automat kráčí ke skříni. Jeho ruce otevřou dveře a vzápětí do nich přirazí LISTERŮV nos. Všichni, kromě LISTERA, se můžou potrhat smíchy. LISTER pokračuje směrem ke kouřící konvici, kterou vezme proti své vůli do ruky.
+
+LISTER: Oh ne! Ne!
+
+ŠPATNÝ KRYTON: Schválně, jestli by si nedal panáka na uklidnění?
+
+LISTER: Nee!
+
+LISTER si ztěžka sedne. Jeho ruce nevyhnutelně naklánějí konvici, až si vyšplíchne vařící vodu přímo do klína.
+
+LISTER: Aaáááááááh!
+
+ŠPATNÝ LISTER: A máš ho!
+
+ŠPATNÝ KOCOUR mu vezme vezme konvici a se syčivým zvukem si ji přiloží k vlastní tváři. Ostatní se tomu odporně smějí.
+
+ŠPATNÝ KRYTON: Možná, že by si dal něco k snědku, hehehe?
+
+LISTER vstane, což je doprovázeno dalším chichotáním. Přejde k malému stolečku a padne na kolena. Ocitne se tváří v tvář velké tarantuli ve skleněném teráriu. Jeho úzkost se rázem změní v paniku.
+
+LISTER: Ne!!! To si děláte srandu!
+
+Levou rukou zvedne víko a popadne tarantuli.
+
+ŠPATNÝ KRYTON: Dobrou chuť.
+
+LISTEROVA pravá ruka drží otevřenou jeho pusu, zatímco levá do pusy cpe živou tarantuli. Marně se tomu snaží ubránit, strčí jí do pusy a spolkne.
+
+ŠPATNÝ LISTER: A teď si náš, hochu.
+
+LISTER: Ty nemůžeš bejt část mýho já.
+
+ŠPATNÝ KRYTON: Ale to víš, že je. To je ten malej kluk, co trhal broukům nožičky, hehehe. To je ten spratek, co
+
+v létě držel lupu na krku svýmu nejlepšímu kamarádovi a sledoval, jak … hořííííí.
+
+ŠPATNÝ RIMMER: Je to ta tvoje součást, která přátelům ubližuje.
+
+ŠPATNÝ KOCOUR: Ta část, která se nejradši dívá na horory.
+
+ŠPATNÝ LISTER: Ta tvá část, kterou láká nevázanej sex. (Významně zakýve boky)
+
+ŠPATNÝ RIMMER: Je krutej! Je sobeckej! A myslí na děsivý... emhm... věci.
+
+ŠPATNÝ KRYTON: Jsi to ty!!! Johoho.
+
+LISTER: Ale on přece vraždí. To já bych nemohl.
+
+ŠPATNÝ KRYTON: Ehh, to se brzo uvidí.
+
+ŠPATNÝ KRYTON přelepí LISTEROVI ústa kusem lepící pásky.
+
+ 
+Vědecká laboratoř nebo její ekvivalent na téhle lodi
+
+Pochmurná místnost, plná smetí a rozházeného špinavého prádla. Vstupují KOCOUR a KRYTON, oba s bazukoidy. KOCOUR si zacpává nos, ve snaze ubránit se tomu nejhoršímu zápachu.
+
+KOCOUR: Brrr!
+
+Přejde k videorekordéru a prohlíží videokazety.
+
+KOCOUR: Hm, pěkná sbírka filmů: „Pomsta krvelačnýho mutanta“, „Umírat s hlavou plnou bodců“.
+
+KRYTON: Eh, samé krváky, knihy o zbraních. Oh, tahle loď je svatyní všeho nízkého a mrzkého. Všeho, nad čím duše pláče a co zabíjí ducha.
+
+KRYTON otevře lednici.
+
+KRYTON: Eh! Obloha na toasty. Eh! Krvákové hotdogy. Oh! Páchnoucí kebaby, ze kterých čouhá zahnědlý hnus.
+
+S odporem lednici zavře. KOCOUR se mezitím probírá cédéčky.
+
+KOCOUR: Jejich muzika: „Hammondkové nebe“, „Zazpívej si s námi“, „Pro postarší paní hraje Perfektní Charlie“. (Zahodí cédéčka) Zvednem kotvy!
+
+KRYTON: Ne, počkejte - tady to je! (Odmete stranou trochu smetí z nalezeného triplikátoru) Je jasné, že netuší, k čemu to je.
+
+KOCOUR: Kolik máme času?
+
+KRYTON: Pouhých osm minut, pane.
+
+KRYTON vezme triplikátorovou krabici a odejde. KOCOUR popadne oba bazukoidy a následuje ho.
+
+ 
+Chodba někde na špatném Červeném trpaslíkovi
+
+VZNEŠENÝ LISTER: Řekl jsem ti už dnes, jak jsi mi drahý? Jak mé srdce zazáří jako nova, když pohlédnu na tvoji líbeznou tvář?
+
+VZNEŠENÝ RIMMER: Tvá láska mě občerstvuje jako zurčící horský potok, bratře.
+
+Na konci koridoru se objeví LISTER. Má stále zalepenou pusu a v pravé ruce, kterou skrývá za zády, drží vražedně vypadající nůž. Blíží se k oběma světcům.
+
+LISTER: Mmmmph! Mmmmph!
+
+VZNEŠENÝ RIMMER: Hle, tvůj blíženec, bratře.
+
+ 
+Řídící místnost
+
+Všichni bídáci jsou shromážděni okolo špatného LISTERA, který sedí před obrazovkou. Ta ukazuje všechno z pohledu LISTERA. ŠPATNÝ LISTER řídí jeho pohyby.
+
+ 
+Chodba
+
+Zpátky u  LISTERA, VZNEŠENÉHO RIMMERA a VZNEŠENÉHO LISTERA.
+
+LISTER: Mmmmmmgohah! Mmmmmmfgh!
+
+LISTEROVA pravá ruka se vytasí s nožem.
+
+VZNEŠENÝ RIMMER: Nůž? Jsi hladový, bratře?
+
+VZNEŠENÝ LISTER: Pohostím tě luštěninami a trochou tvarohu.
+
+LISTER vyvalí oči. Bezmocně sleduje svou vlastní ruku, která zasadí VZNEŠENÉMU LISTEROVI dvě hluboké rány pod levé rameno.
+
+VZNEŠENÝ LISTER: Odpusť, bratře. Poskvrnil jsem tvůj nůž svou krví. Moc se ti omlouvám. (Zhroutí se na zem)
+
+VZNEŠENÝ RIMMER: Bratře, dovol, abych ti opatřil nový nůž.
+
+LISTEROVA levá ruka projde skrz VZNEŠENÉHO RIMMERA a stiskne jeho holosrdce. VZNEŠENÝ RIMMER vypadá překvapeně a začíná se vytrácet.
+
+VZNEŠENÝ RIMMER: Sbohem, bratře, mé dny jsou sečteny.
+
+LISTEROVA ruka rozmačká holosrdce a VZNEŠENÝ RIMMER zmizí.
+
+ 
+Řídící místnost
+
+Padouši se z té podívané bouřlivě radují. ŠPATNÝ KRYTON se ŠPATNÝM KOCOUREM o sebe rozjařeně třísknou čelem.
+
+ 
+Chodba
+
+LISTER s nožem pokračuje ve své nedobrovolné cestě.
+
+ 
+Neznámá místnost na špatném Červeném trpaslíkovi
+
+KRYTON seřizuje triplikátor. Vstupuje ozbrojený KOCOUR s RIMMEREM v zádech.
+
+KOCOUR: Našel jsem dutohlava, ale po čunčovi ani stopa.
+
+KRYTON: Měli jsme takový strach. Co se stalo?
+
+RIMMER: Napadla nás banda padouchů. Vedl jsem chrabrou ústupovou akci.
+
+KOCOUR: (Ke KRYTONOVI) Rozklepal se a vlezl do krabice.
+
+RIMMER: Taktický manévr k oklamání nepřítele.
+
+KOCOUR: (Ke KRYTONOVI) Stejně, jako když si z uniformy udělal latrínu.
+
+KRYTON: Ale kde je pan Lister?
+
+RIMMER: Byli jsme přepadeni a on utíkal skladišti jako nadopovaný zajíc. Ponecháme ho osudu.
+
+KRYTON: Pouhé čtyři minuty a tato loď nebude existovat!
+
+KOCOUR: Hele, támhle je!
+
+LISTER se k nim blíží chodbou. Má pořád přes ústa náplast a pravou ruku za zády.
+
+LISTER: Mmmmmph! Mmmmmph!
+
+KOCOUR: Kde ses flákal?
+
+LISTER: Mmmmmph! Mmmmmph!
+
+KOCOUR mu strhne pásku z pusy.
+
+KOCOUR: Co je?
+
+LISTER: Dej si bacha! Du vás zabít!
+
+Vytáhne pravou ruku. Má v ní požárnickou sekeru. Zaútočí sekerou, ale naštěstí se mu jen zasekne do horního rámu dveří. LISTER se pokouší sekeru vyprostit.
+
+LISTER: Jsem vraždící maniak! Mý tělo dálkově ovládaj ty padouši.
+
+LISTER uvolní sekeru a pokračuje ke KRYTONOVI.
+
+LISTER: Krytone, uhni!
+
+Praští KRYTONA do sekerou do čela.
+
+LISTER: Musíš mě zneškodnit!
+
+Uhodí KRYTONA sekerou ze strany do krku. Upustí sekeru a pochoduje ke KOCOUROVI.
+
+RIMMER: (Ke KRYTONOVI) Střílej!
+
+LISTEROVY ruce se sevřou kolem KOCOUROVA krku a začnou ho škrtit. KOCOUR se marně snaží ruce odstranit.
+
+LISTER: Co?!
+
+RIMMER: Ustřel mu čéšky, nic jiného nezbývá!
+
+LISTER: Neblbni, Rimmere!
+
+RIMMER: Je to vraždící maniak, sejmi ho!
+
+LISTER: Určitě to jde i jinak! Musíte mě zneškodnit!
+
+RIMMER: Tamhle! Vem ho po hlavě tou sekyrou!
+
+KRYTONE: Eh.
+
+LISTER: To mě zabije!
+
+RIMMER: Když to provede jemně, tak ne! (Ke KRYTONOVI) Dělej, zabije Kocoura!
+
+KRYTON: (Totálně paralyzovaný a váhající) Ehee, ale, co mohu dělat?
+
+LISTER: Musíš mě zneškodnit bezbolestně!
+
+KOCOUR, který kupodivu ještě není zaškrcený, vykopne prudce koleno někam do intimních partií škrtícího LISTERA. Ztuhlý LISTER vykulí oči, otevře bolestivě pusu a konečně KOCOURA pustí.
+
+LISTER: (Namáhavě kuňká) To přece nebylo nutný.
+
+KOCOUR: Víc než jen to. Zničil jsi mi můj stojáček. Tenhle materiál nepruží!
+
+LISTER: Krucinál, asi si jdu pro bazukoid.
+
+Opravdu jde. KRYTON se moudře kryje za stolem. Za něj se postaví KOCOUR a RIMMER je samozřejmě zalezlý až za nimi úplně vzadu.
+
+LISTER: K zemi!
+
+Všichni tři se přikrčí. Střela jim prolétne nad hlavami. Je slyšet další odjišťování bazukoidu.
+
+LISTER: Vlevo!
+
+Uhnou doleva a střela je mine napravo. Další odjišťování.
+
+LISTER: Vpravo!
+
+Uhnou vpravo a výstřel znovu mine jejich hlavy. LISTER se lopotí s bazukoidem.
+
+LISTER: Musim nabít! Schovejte se za mě!
+
+KRYTON se sune po straně místnosti a blíží se k LISTEROVI.
+
+KRYTON: Teď se pokusím dostat za Vás, pane.
+
+LISTER: Tak, Krytone, překvap mě!
+
+KRYTON: Jdu za Vás, abych Vás mohl překvapit, pane.
+
+LISTER: Tak dělej, překvap mě!
+
+KRYTON se konečně dostane za LISTERA. Stříkne něco ze spreje na hadr ve své levé ruce.
+
+KRYTON: Budete cítit nepříjemný pach chloroformu. Jen klid.
+
+LISTER má nabito a zaměřuje si vepředu stojícího KOCOURA.
+
+LISTER: Tak už mě překvap!
+
+KRYTON: A teď moje překvapení!
+
+Přitiskne hadr na LISTERŮV obličej. LISTER sebou trochu mele, ale pak omdlí. KOCOUR a RIMMER vylezou zpoza stolu. RIMMER, jistý tím, že je LISTER tuhý, se tváří jako by měl vše pod kontrolou a spokojeně si oprašuje ruce.
+
+RIMMER: A je to! Za jak dlouho se aktivuje?
+
+KRYTON: Za dvě minuty.
+
+Všichni pospíchají pryč.
+
+ 
+Střední část Kosmiku
+
+KRYTON s KOCOUREM pokládají LISTEROVO bezvládné tělo.
+
+KRYTON: Honem!
+
+ 
+Kokpit Kosmiku
+
+RIMMER už stojí v kokpitu, když do něj ze zadní části rychle přicházejí KRYTON a KOCOUR. KRYTON zmáčkne kontrolky, ale Kosmik běží naprázdno a nezvedá se.
+
+KOCOUR: Kruci! Vybitá baterie! Kdo nechal zapnutý světlo?
+
+KRYTON: Ne, je to v magnetických cívkách. Depolarizovaly se. Jakoby rozklad na téhle lodi byl nějaký nakažlivý.
+
+RIMMER: Třicet pět sekund.
+
+KRYTON: Záložní napájení!
+
+Kosmik teď vydává mnohem slibnější zvuky.
+
+RIMMER: Tak zvedni to už!
+
+V zadní části si LISTER, aniž by se probral, sedne.
+
+KRYTON: Všechno už funguje.
+
+ 
+Nákladový prostor
+
+Kosmik se zvedá.
+
+RIMMER: (Hlas) Zvedáme se, výborně.
+
+Kosmik opouští nákladový prostor.
+
+ 
+Kokpit Kosmiku
+
+LISTER přikráčí do kokpitu s lopatou. Spí, ale je opět pod kontrolou padouchů. Než si ho ostatní všimnou, stihne s ní dvakrát praštit do řídícího panelu. Potom odhodí lopatu a začne rdousit KOCOURA, kterého má zrovna po ruce.
+
+KOCOUR: Už zase?
+
+RIMMER: (Ke KRYTONOVI) Dávej pozor, kam letíš!
+
+ 
+Nákladový prostor
+
+Kosmik sebou mele a klikatě letí směrem k vratům v nákladovém doku.
+
+ 
+Kokpit Kosmiku
+
+RIMMER: Uspi ho chloroformem!
+
+KRYTON se snaží odtrhnout LISTERA od KOCOURA a něčeho si všimne.
+
+KRYTON: Počkejte! Myslím, že jsem lokalizoval implantát v páteři!
+
+Vytáhne implantát z LISTEROVY páteře. Ve stejné chvíli Kosmik opouští špatného Červeného trpaslíka a cestou brnkne o vrata. Nárazem vzniká v kokpitu strkanice.
+
+KRYTON: Kde je!?! Ztratil jsem ho!
+
+RIMMER: (Ukazuje na KOCOURA) Má ho v krku!!!
+
+LISTER: (Probere se) Co se stalo?
+
+KOCOUROVI divoce planou oči a začne škrtit na oplátku LISTERA, který zkolabuje. KRYTON vytáhne implantát z KOCOUROVA krku a odhodí ho někam dozadu.
+
+ 
+Vesmír
+
+Kosmik je už v dostatečné vzdálenosti od obou Červených trpaslíků. Za doprovodu chorálů oba Červení trpaslíci zmizí a místo nich se objeví jediný – ten pravý.
+
+ 
+Kokpit Kosmiku
+
+Na obrazovce je originální Červený trpaslík. Vystřídá ho tvář HOLLY.
+
+RIMMER: Holly zas funguje.
+
+KRYTON začne burcovat LISTERA, který je stále v bezvědomí.
+
+KRYTON: Pane Listere, probuďte se, je po všem, jsme v bezpečí.
+
+HOLLY: Zapínám autopilota. Kurs: 000. Letíme domů.
+
+ 
+Vesmír
+
+Kosmik letí zpátky k Červenému trpaslíku.
+
+ 
+Střední část Kosmiku
+
+KRYTON pomáhá LISTEROVI z kokpitu. Jsou následováni rozzlobeným KOCOUREM a ulehčeně se tvářícím RIMMEREM.
+
+KOCOUR: (LISTEROVI) Víš, cos mi proved` s halenou? Koukni se! Navíc jsi mě málem zabil!
+
+LISTER: Nezlob se, nemohl jsem za to. S tím sajrajtem v sobě jsem těžko...
+
+Sedne si a šokovaně vytřeští oči.
+
+KRYTON: Pane, co se děje?
+
+RIMMER: Právě si sedl na ten implantát.
+
+KRYTON: Ale to je divné! Kdo ho ovládá?
+
+LISTER se prudce postaví a blíží se ke KOCOUROVI, aby dokončil, co předtím začal. KOCOUR zvedne bazukoid a vypálí do skříně, ze které se ozývá povědomé hihňání. Ze skříně vypadne mrtvola špatného LISTERA, stále svírající dálkové ovládání. LISTER se zastaví.
+
+KRYTON: Radši mu ten implantát odstraním a jednou provždy ho zničím.
+
+KOCOUR odloží bazukoid a sehne se pro dálkové ovládání.
+
+KOCOUR: Ale ne, počkej. Nechte mi ho aspoň na tejden.
+
+LISTER: Co to má znamenat?
+
+KOCOUR zakroutí joystickem a LISTEROVY ruce začnou fackovat svého majitele. Jednou, dvakrát, třikrát.
+
+KOCOUR: Páni, to bude sranda!
+
+RIMMER souhlasně pokyvuje a sdílí KOCOUROVU radost z hračky.

@@ -1,0 +1,485 @@
+Ubikace
+KRYTON a LISTER sedí u stolu, na kterém je různé ovoce. V pozadí na obrazovce plavou elektronické rybky.
+LISTER: (Vezme banán) Krytone, ještě jednou. Co je to?
+KRYTON: To je banán.
+LISTER: Ne, není. Zkus to znova. Co je to?
+KRYTON: Je to banán?
+LISTER: (Popuzeně) Ani náhodou! Co je to?
+KRYTON: Je to pooo... Je to pooo....
+LISTER: Je to jasnej pomeranč. Tak řekni. Je to pomeranč! Tohle je pomeranč!
+KRYTON: Je to pooo...mrr... Je to poo...mrr... Je to banán! Nemá to smysl, tohle nedokážu!
+LISTER: Ale tohle dokážeš, naučím tě jak! (Zvedne jablko) Tak, co je tohleto?
+KRYTON: To je jab... jab... jab...
+LISTER: Ne, ne, ne! Co je to?
+KRYTON: É, je to marné, jsem naprogramovaný, abych vždycky mluvil jenom pravdu.
+LISTER: Neboj se, je to snadný! (Drží jablko) Koukni: pomeranč! (Popadne pomeranč) Meloun! 
+(Vezme banán) Samice hrabáče!
+KRYTON: Oh! Vy máte úžasné schopnosti! A ta fantazie! Zvlášť když banán nazvete hrabáčem kapským. Hrabáč dokonce není ovoce. Ach, to je naprosto geniální!
+LISTER: (Povzdechne si) Začneme znova.
+KRYTON: Točí se mi hlava. Děláme to celé dopoledne.
+LISTER: Hele, naučím tě lhát a podvádět za každou cenu. Naučím tě být protivný, krutý a kousavý. Jedině takhle nabouráme tvůj program a pak budeš nezávislej!
+KRYTON: Jsem Vám skutečně vděčný, ani nevíte, jak rád bych byl prolhaný, protivný a úrážlivý. Tyhle lidské vlastnosti obdivuju nejvíc. Ale to já nedokážu.
+LISTER: Dokážeš!
+KRYTON: Nedokážu!
+LISTER: Dokážeš! (Zvedne znovu banán) Hele, co je tohle?!
+KRYTON: Né!
+LISTER: Co je to?!
+KRYTON: Prosím!
+LISTER: (Křičí) No tak, co je to?!
+KRYTON: To je... to je... to je... pomocník tasmánského policisty mimo službu. (Ohromen sám sebou se rozhlédne) 
+LISTER: Jó! Ty jsi, ty jsi to dokázal! (Zvedne pomeranč) A co je tohle?
+KRYTON: To je červenomodrý golfový deštník!
+LISTER: Výborně! (Vezme jablko) Co je tohle?
+KRYTON: To je jablko.
+LISTER: Ne! Co je to?
+KRYTON: To je - to je - to je - flotila na manévrech v jižním Pacifiku!
+LISTER: No vidíš, jak to umíš!
+KRYTON: (Sám na sebe hrdý) Ne, ještě ne.
+LISTER: Ale jo - vidíš, to se ti povedlo.
+KRYTON: Hehehe. No už je čas, abych šel. Čeká na mě tučňák, s nímž jdu na procházku. (Směje se) Já to umím! Udělal jsem to zas! Umím lhát!
+LISTER: Kocoure! Pojď sem - poslouchej. Tohle musíš slyšet!
+Vejde KOCOUR.
+KOCOUR: Co jako?
+LISTER: Soustřeď se. Co je to? (Drží banán)
+KRYTON: To je banán.
+LISTER: (Zklamán) Co je tohle. (Drží pomeranč)
+KRYTON: To je pomeranč.
+LISTER: (Drží jablko) Co je tohle?
+KRYTON: (Téměř pláče) Jablko...
+KOCOUR: Tohle jsi ho naučil? To je úžasné! Měli byste jít do soutěže „Co je to za ovoce?“.
+LISTER: On to zkazil.
+KOCOUR: Ale vždyť to uměl.
+KRYTON: (Sklíčeně) Já to prostě nedokážu.
+LISTER: Ale jo, už jsi to dokázal.
+KRYTON: Nemůžu, když je u toho někdo další. K čemu bych to u lidí přirovnal? Je to jako když se pokoušíte močit do jedné mušle s mužem, který je o půl metru vyšší než Vy. Zkrátka nemožné.
+KOCOUR: O co se to tu pokoušíte?
+KRYTON: Tady pan Lister mě učí, jak lhát.
+KOCOUR: A máš k tomu důvod?
+LISTER: Jasně! Lhaní je součástí tvýho obrannýho systému. Bez něj jsi zranitelnej. Když neumíš lhát, nemůžeš před lidmi utajit svý skutečný úmysly. Někdy je to nezbytný. Vem si, co řek` Nelson, když se slepým okem díval do dalekohledu. (Drží banán před okem jako dalekohled) „Žádná loď na obzoru!“ Nebo Humphrey Bogarta, když v Casablance lže Victoru Lazslovi, aby chránil jeho city.
+KRYTON: Ale já jsem to pochopil. Ten film jsme spolu viděli mnohokrát a chápu, že lež muže být ušlechtilá. Ale já to nedokážu.
+LISTER: Ale dokážeš, koukni. (Mává banánem) Co je tohleto?
+KRYTON: To je banán.
+KOCOUR zvedne oči v sloup a opustí je.
+KRYTON: Vždycky to banán byl a vždycky to banán bude. Je to ovoce, které oloupete a sníte. Je to banán!
+Elektronické akvárium v pozadí je vystřídáno naštvaným RIMMEREM.
+RIMMER: (Na obrazovce) Listere, máš u sebe Krytona?
+LISTER: Jo, no a co má bejt?
+RIMMER: Jenom to, že na něj plných dvacet minut čekám v hangáru. 
+KRYTON: Á, spaste Kryťáka a pošlete na Aljašku! Mám ho vzít na pozorování asteroidů. Hned jsem u Vás, pane!
+RIMMER: To bych ti radil.
+RIMMER zmizí a nahradí ho rybičky.
+LISTER: Vzpomeň si na včerejší lekci - „Úvod do urážek“.
+KRYTON: No, nejspíš jsem...
+LISTER: Takže, jak říkáme muži, co byl teď na obrazovce?
+KRYTON: To je pan Rim-
+LISTET: Ne, ne, ne, vybal to, to je...
+KRYTON: On je mag...
+LISTER: Skoro, jsi blízko!
+KRYTON: On je magg...
+LISTER: On je - 
+KRYTON: On je magggg....
+LISTER: On je - ?
+LISTER zvedne kartičku se slovem "MA".
+KRYTON: On je maaaa...
+Lister přidá další kartičku s nápisem "GOR" .
+KRYTON: ...goooorrr! Dokázal jsem to!
+LISTER: (Unaveně) Výborně. A teď přijde maturita. Dokážeš mu to říct do očí?
+
+Hangár
+RIMMER netrpělivě přešlapuje u Kosmika. Když vidí přicházet KRYTONA s banánem v ruce, významně se podívá na hodinky.
+RIMMER: Á, Krytone, konečně. Stihnuls to v tomhle miléniu.
+KRYTON: Vy jsteeeee...
+RIMMER: Prosím?
+KRYTON: (S tváří staženou úsilím) Vy jsteeee...
+RIMMER: Cože?
+KRYTON: Vy jste maagooo... Ne, nic jsem neřek`!
+
+Vesmír
+Kosmik odlétá a Červený trpaslík mizí v pozadí.
+RIMMER: (Otrávený hlas) Krytone, nemohli bychom letět trochu rychleji?
+
+Kokpit Kosmiku
+RIMMER sedí vedle pilotujícího KRYTONA.
+RIMMER: Aby nás nepředbíhaly i nehybné předměty?
+KRYTON: Pane, Vy jste maaa...
+RIMMER: Jsem maaa?
+KRYTON: Jste maaa... gooor.
+RIMMER: Jsem ma - gor?
+KRYTON: Naprostý a dokonalý.
+HOLLY: (Obrazovka na konzoli) Pozor, něco jsem objevila. Vypadá to jako nouzový signál. 
+KRYTON: Mám to tu, Holly. Kvadrant čtyři devět sedm. (Mačká nějaké knoflíky)
+RIMMER: Co je to?
+HOLLY: Těžko říct. Ať je to kdokoliv, ztroskotal na planetě v dopadové dráze.
+RIMMER: Jaké je riziko?
+HOLLY: Planeta exploduje za dvě hodiny.
+RIMMER: Nechme to, je to nebezpečné. Letíme domů.
+KRYTON: Přece je neopustíme. Někdo z nich mohl přežít.
+RIMMER: Nech toho, Krytone. To je rozkaz.
+KRYTON mačká další knoflíky.
+RIMMER: Co to děláš?
+KRYTON: Neprovádím změnu kurzu. Ani nechci přistát.
+RIMMER: Ale chceš!
+KRYTON: A nechystám se na schůzku s havarovanou lodí. Ani hledat ty, co přežili.
+RIMMER: Dovol, abych tě upozornil, že tohle je vzpoura. A mohl bych tě nechat demontovat!
+KRYTON: Maaa - goor! Ah, k čertu s mým programem!
+Náhlé zrychlení je přitiskne do křesel.
+
+Vesmír
+Kosmik se řítí do dáli.
+
+Ubikace
+Kajutou zní veselá hudba. LISTER sedí u stolu s nohama nahoře. Vstupuje KOCOUR.
+LISTER: Ještě se nevrátili? Už jsou to hodiny.
+KOCOUR: (Sedne si vedle něj) Nikde nikdo. Na co se díváš?
+LISTER: Jenom na video. Tohle už je klasika.
+KOCOUR: Co je to?
+LISTER: Příběhy od řeky. Nová generace.
+KOCOUR: Jó, jasně, to jsem viděl! Ale to původní bylo lepší.
+LISTER: Nenašli nikoho, kdo by nahradil Hammyho Křečka.
+KOCOUR: Nó, kdo taky? Hammy byl hvězda, tak naducaný, kamera ho milovala!
+LISTER: Jo. Byl hlodavčí obdobou Marlona Branda.
+KOCOUR: A kde je mu konec? Jak skončil starý Hamm? V jednu chvíli hvězda, která roztáčí vlastní kolo štěstěny z tolika eidamu, kolik se jen vejde do jeho tvářiček a najednou - by pes po něm neštěk`.
+LISTER: Zapomnělo se na něj. Seriál skončil, nemoh` najít další práci... A pak poslední ťafka - křečkogramy.
+Elektronické rybky v pozadí vystřídá rozčilený RIMMER.
+RIMMER: (Na obrazovce) Tak vám děkuji, bando. Bando vypráskaných kantorů.
+LISTER: Rimmere, kde sakra jste?
+RIMMER: Ten kus volodroida ohrozil naši výpravu, když přistál na planetě, která má vybouchnout. A to vše jen díky tvému školení ve vzpouře.
+LISTER: Proč?
+RIMMER: Aby hledal ztroskotanou kosmickou loď, protože je tu naděje milion ku jedné, že mohl někdo přežít.
+LISTER: A tos ho pustil samotnýho?
+RIMMER: Samozřejmě, že šel sám! Jsem rád, že jsem se ho zbavil! On naprosto zešílel. Mával přede mnou banánem a říkal mu samice hrabáče!
+LISTER: Aha, takže, hmm... měl by si za ním jít, moh` by potřebovat pomoc.
+RIMMER: Listere, tohle padá na tvou hlavu.
+
+Vesmír
+Kosmik u ztroskotaného modulu.
+
+Vstupní koridor do modulu
+V koridoru je šero a je plný trosek. KRYTON přichází s baterkou.
+KRYTON: Haló? Je tady někdo? Slyší mě někdo? Páni, to je pěkná šlamastika!
+Dojde k nějaké díře a nešťastně upustí baterku. Opře se o zábradlí a skloní se pro ní. Zábradlí na jedné straně povolí a KRYTON ztratí rovnováhu. Visící na zábradlí sebou bezmocně mrská nad propastí.
+KRYTON: (Zoufale kvílí) Pomóóóc! Pane Rimmere, pomóóóc! Pane Rimmere!!
+Neočekávaně mu kdosi podá ruku a vytáhne ho nahoru. Je to další robot, ale na rozdíl od něj - žena.
+
+Jiný koridor v modulu
+KRYTON a ROBOTKA spolu procházejí koridorem.
+KRYTON: Děkuju ti z hloubi své rehydratační jednotky. Zachránilas mi život. 
+Zastaví se.
+ROBOTKA: Tys odpověděl na můj signál, zachránils život mně!
+KRYTON: Jmenuju se Kryton.
+Nabídne jí ruku a ona jí potřese.
+ROBOTKA: Mně říkají Kamila. Moc mě těší, Krytone.
+KRYTON: Jsi čtyřtisící série? 
+KAMILA: Ano, čtyřtisící série GTI.
+KRYTON: GTI! No panečku! Já jsem obyčejná čtyřtisícovka. Ty máš všechnu tu luxusní výbavu, skutečné prsty, hlavu s posuvným temenem! (Zarazí se) Proč se na mě tak díváš, děje se něco?
+KAMILA: Promiň. Zrušit zírací režim! To jen, že máš... opravdu úžasné oči.
+KRYTON: No, hm, jsou to staré pět set devítky s automatickou rohovkou, ohnisková vzdálenost 15. Jestli chceš, můžu je vyvalit a půjčit ti je. Hernajs, plácám takové pitomosti!
+KAMILA: Nevěřím, že bys někdy řekl něco, co bych považovala za pitomost.
+KRYTON: Opravdu?
+KAMILA: Opravdu.
+KRYTON: Tedy... uh, Kamilo, asi to bude znít jako otřepaná fráze, ale už ti někdo řekl, že konfigurace a juxtapozice tvých rysů je mimořádně výstižná?
+KAMILA: (Potěšena ho plácne po rameni) Ty víš, jak polichotit, viď?
+KRYTON: Ne, myslím to vážně. To, jak světlo zachycuje úhly na tvé hlavě, je úchvatné! Jmenuju se Kryton.
+Znovu napřáhne ruku a KAMILA jí potřese.
+KAMILA: To už jsi říkal.
+KRYTON: No jistě. Sakryš. Teď ti připadám hloupý jako fotokopírka. Takže, kde je posádka? Co se tu stalo?
+KAMILA: Krytone, věříš na rozvinutou kompatibilitu na základě prvotní identifikace?
+KRYTON: Na to, čemu lidé říkají „láska na první pohled“?
+KAMILA: Takhle by se to dalo vyjádřit, ano.
+KRYTON: Tedy ještě před pár minutami bych řekl, že pravděpodobnost je nula na druhou.
+KAMILA: A teď?
+KRYTON: Uh - tenhle můstek je dost vratký. Raději se mě pevně chyť.
+Pokračují v cestě.
+KRYTON: Oh, co je to za parfém? Voní přímo božsky!
+Znovu se zastaví.
+KAMILA: Supermogul.
+KRYTON: Já to věděl! Také ho používám na své krční matky.
+KAMILA: Ale tohle by se nemělo stát. Cítíš to taky?
+KRYTON: Myslíš faktor kompatibility 93, 72?
+KAMILA: Podle mě je o tři setiny vyšší.
+KRYTON: Jistě, zapomněl jsem přenést trojku.
+KAMILA: Tak to řekni. Chci slyšet ta slova.
+KRYTON: Ale z úst androida budou znít směšně.
+KAMILA: Použij programovací jazyk.
+KRYTON: Dobře. V Z80012, převedeno do basicu v binárním osmibajtovém kódu: Kamilo, myslím, že E5 A9 08 B7 tebe.
+KAMILA: Myslíš to doopravdy? 
+KRYTON: Kamilo, udělal bych pro tebe cokoli. (Hrají romantické housle) Vypočítal bych odmocninu prvočísla o třech milionech číslic, kdyby tě to potěšilo. Vyčíslil bych pí donekonečna, abych vyloudil tvůj úsměv.
+KAMILA: (Dojatá) Ach, Krytone. Provádíš ty nejromantičtější výpočty. 
+Jejich rty se k sobě přibližují. Náhle jsou vyrušeni zapraskáním statické elektřiny z Krytonovy vysílačky.
+RIMMER: (Z vysílačky) Krytone, slyšíš mě? Co se děje?
+KAMILA: (Polekaně couvne) Je vás tam víc?
+KRYTON: Ano, proč? Co je na tom?
+KAMILA: Nemůžu se s nimi setkat.
+KRYTON: Ale proč?
+KAMILA: My dva si musíme vystačit sami. Teď ti nemůžu říct víc.
+KRYTON: (Jde k ní) Tahle planeta co nevidět vybuchne. Není na opravu čas!
+KAMILA: Nemůžu se setkat s tvými kolegy. Věř mi, Krytone!
+KRYTON: Ani je neznáš. Budou se ti líbit. Aspoň někteří z nich. Tedy, jeden z nich. Možná. (Do vysílačky) Pane, vracím se zpátky.
+RIMMER: (Z vysílačky) Co tě zdrželo?
+KRYTON: Našel jsem někoho, kdo přežil. Už jdeme!
+Vezme Kamilu za ruku a odvádí jí z vraku.
+
+Střední část Kosmiku
+Vstupuje KRYTON s KAMILOU.
+KAMILA: Krytone, prosím tě, nedělej mi to. Moc tě prosím!
+KRYTON: Jen se uklidni, nemusíš se ničeho bát. Už jsme tady, pane!
+RIMMER: (Mimo záběr) Kde jsi ksakru byl?
+KRYTON: Pane Rimmere, tohle je Kamila. Kamilo, to je druhý technik Rimmer. Zachránila mi život.
+RIMMER přichází ze střední části. Z jeho pohledu Kamila vypadá jako půvabný, lehce frivolní ženský hologram.
+RIMMER: (Široce se šklebí) Ano... tedy... těší mě.
+KAMILA: Těší mě.
+KRYTON: (Který jí stále vidí jako androidku) Vidíš? Líbíš se mu. Neříkal jsem ti to? No, nemáme moc 
+času. Nastartuju motory a odletíme z téhle třaskavé zóny.
+KAMILA: Půjdu s tebou.
+KRYTON: Ne, ne, ne, ne, ty počkej tady a seznam se.
+KRYTON odejde do kokpitu.
+RIMMER: Můžu Vám něco přinést? Cokoliv.
+KAMILA: (Usmívá se) Ne, ne, jsem v pohodě, děkuju.
+RIMMER: Je to zázrak, potkat hologram po všech těch letech.
+KAMILA: (Uchichtne se) To ano. Byla jsem druhým technikem na palubě té kraksny.
+RIMMER: Druhý technik! To jsem i já!
+KAMILA: Vždycky jsem se chtěla dostat výš, ale když dojde na zkoušky, tak je zkazím.
+RIMMER: Já taky!
+KAMILA: Ah, a... jak se jmenujete?
+RIMMER: Moje křesní jméno je Arnold, ale zpravidla mi všichni říkají... Pius.
+KAMILA: Pius?
+RIMMER: Ano, ale neříkají mi „Pius“ úplně pořád. Někdy uběhly měsíce, aniž by mě oslovili „Pie“. Takže mi před nikým „Pie“ neříkejte. Protože mohli zapomenout. Ale Vy už o „Piovi“ víte. Promiňte, já blábolím, na řeči moc nejsem.
+KAMILA: Ale mě připadáte okouzlující.
+RIMMER: (Ohromen) Opravdu? Děkuju Vám. Tohle jsem ještě nikdy od nikoho neslyšel. Akorát: „Rimmere, seš pěknej mizera“. Ale nikdy okouzlující.
+KAMILA: Mě tedy okouzlující připadáte. 
+RIMMER: Vážně?
+KAMILA: Velice, *velice* okouzlující.
+RIMMER: Děkuju Vám. Uhmm, děkuju Vám. Teď bych se měl jít podívat, jak pokračuje Kryton. Excuse moi!
+RIMMER se otočí a zamne si radostně ruce. Pospíchá vesele do kokpitu a Kamila za ním vysílá slibný úsměv.
+
+Vesmír
+Kosmik letí vesmírem.
+
+Kokpit Kosmiku
+KRYTON pilotuje a RIMMER sedí vedle něj. Průčelím do střední části je vidět v pozadí sedící KAMILA, která vyhlíží jako robot, když se na ni dívá KRYTON a jako hologram, když se na ni koukne RIMMER.
+KRYTON: Ona je fakt třída, nemyslíte?                                                                                                                           RIMMER: Je okouzlující.                                                                                                                                               KRYTON: To si myslíte?                                                                                                                                          RIMMER: Ona má všechno. Styl, vkus, půvab... Je fakticky rozkošná.
+Obrátí se zamává jí. KAMILA mu odpoví stejně.
+KRYTON: Ano, jsem tak rád, že se Vám líbí. Skoro bych řekl, že je na spadnutí nějaký románek.
+RIMMER: Ty Kryťáku lišáku - asi máš pravdu!
+KRYTON: Hehe, no jistě. Nos má trochu nedotažený, ale mně se to líbí.
+RIMMER vypadá na okamžik zmateně, ale zdrží se komentáře.
+RIMMER: Je to zvláštní. Jak ta se podobá mojí švagrové Jannine.
+KRYTON: (Užaslý) Kamila vypadá jako Vaše švagrová? Co je s ní? Měla nějakou příšernou autonehodu?
+RIMMER: (Znechuceně se po něm podívá) Jannine? Ne, jistěže ne. Byla to modelka.
+KRYTON: A vypadala jako Kamila?
+RIMMER: Úplně. Ta podoba je zázračná.
+KRYTON: Co předváděla? Motorové svíčky?
+RIMMER: Náhodou si myslím, že je přitažlivá.
+KRYTON: Opravdu?
+RIMMER: Zajisté.
+KRYTON: Já se Vám taky líbím?
+RIMMER: Ty? Ovšemže ne. Ty vypadáš jako okousaná tužka s gumou na konci.
+KRYTON: (Uražen) No, klidně si myslete, co chcete. Protože v tomhle velkém, širém vesmíru jsou osoby, podle nichž vypadám úžasně. Obzvláště v mých ostrých očních partiích. Děkuju Vám mockrát!
+
+Vesmír
+Kosmik vlétá do hangáru.
+
+Hangár
+Kosmik přistává.
+
+Ošetřovna
+Androidní KAMILA sedí na vyšetřovacím stole. KRYTON rozhýbává její nohy. Vstupuje LISTER.
+LISTER: Tak už jste tady.
+KRYTON: Pane, Vy ještě neznáte našeho hosta Kamilu.
+Z LISTEROVA pohledu se KAMILA jeví jako pohledná liverpoolská holka typu Kristiny Kochanské.
+KAMILA: Těší mě.
+KRYTON: Jestli mě omluvíte, půjdu ti připravit pokoj. Luxusní apartmá na palubě A. Hih.
+KRYTON odejde.
+LISTER: (Studuje lékařskou kartu) Jo, to vypadá dobře. Kdybyste si odložila. Začneme s vyšetřením. Áh, promiňte. Dave Lister, lodní chirurg.
+KAMILA: (Pochybovačně) Vy jste chirurg?
+LISTER: Plně kvalifikovanej nejsem. Ale viděl jsem všechny díly Chicago Hope. Ovšem, můžeme taky tělesné vyšetření úplně vynechat a přejít rovnou k zanedbání povinné péče. Takže, kdybyste se položila, uvolnila se a já pustím rajskej plyn. Klidně se hihnějte nebo řehtejte, mně je to fuk.
+KAMILA: Řekla bych, že nejste skutečný lékař.
+LISTER: Co mě prozradilo? To, že jsem se plných deset vteřin nechoval povýšeně? Je to, je to fakt divný. Poslední dva lidi v nekonečnym vesmíru a náhodou na sebe narazíme.
+KAMILA: Jo, zvláštní.
+LISTER: A ke všemu máme strašlivou zodpovědnost.
+KAMILA: Vážně?
+LISTER: Jo! To je natuty! Musíme obnovit lidskou rasu. A to co nejrychlejc. Chceš začít hned, nebo až si vyčistíš zuby?
+KAMILA: (Ne zrovna odvázaná) A to prý je s láskou konec.
+LISTER: Hele, z vyhlídky na milování s naprosto cizí osobou jsem taky nervózní. Proto to musíme brát profesionálně, přísně vědecky a bez emocí. Tak si lehni, uvolni se a já si vklouznu do kostýmu Spidermana.
+Na ošetřovnu vejde RIMMER.
+RIMMER: Ah, Listy, vidím, že ses seznámil s naším hostem. Kamilo, nevidělas Krytona?
+KAMILA: (RIMMEROVA vize) Je v apartmá na palubě A.
+RIMMER: (S přihlouplým úšklebkem) Mnohokrát děkuji. 
+Na odchodu se zastaví a vrátí se.
+RIMMER: Jo, Kamilo, je to jen hloupý nápad, ale myslel jsem, že třeba až se zabydlíš a budeš mít chuť, mohl bych ti promítnout svou sbírku fotografií telegrafních sloupů dvacátého století.
+LISTER: Jó, nebo kdyby si chtěla prožít zábavnější večer, moh` bych tě vzít ven a prostřelit ti hlavu.
+RIMMER: Tak abys věděl, Listy, Kamila je stejný fanda do telegrafních stožárů jako já. Zvlášť čtyřek z roku padesát, s trojnásobně vyztuženými vodiči.
+LISTER: Cože, tebe zajímaj ty sloupy?
+KAMILA: (LISTEROVA iluze) Jasně, že ne!
+RIMMER: Vidíš? Co jsem říkal? A taky je fanynkou Reggieho Wilsona.
+LISTER: Ne - ty máš ráda elektronickou hudbu?
+KAMILA: (Z LISTEROVA pohledu) To je bezduchá břečka.
+RIMMER: (Významně zvedá obočí) Naprostá fantazie, co? Reggie Wilson, telegrafní sloupy - je až zázrak, kolik máme společného!
+LISTER: (Popletený) Není ti nic, Rimmere?
+RIMMER: Nikdy mi nebylo líp. Takže paluba A. Zatím čau!
+Holografická KAMILA mu zamává.
+KAMILA: Čau!
+RIMMER odejde.
+LISTER: Co to mělo znamenat?
+KAMILA: (Ztělesněná nevinnost) Co myslíš?
+LISTER: Však víš, ty jsi říkala jedno a Rimmer slyšel něco jinýho. Jak to děláš?
+KAMILA: (Vzdává se) Stejně by vám to nakonec došlo. Jsem GELF na přání.
+Zklamaný LISTER si zhluboka povzdechne.
+
+Koridor u ošetřovny
+LISTER, odcházející z ošetřovny, narazí na KOCOURA.
+KOCOUR: Hele, co se děje, kamaráde? Holohlav mi tvrdil, že je android, a dutohlav došel k závěru, že je hologram.
+LISTER: Vlastně je obojí. A ani jedno. Je totiž GELF.
+KOCOUR: (Nechápavě) GELF?
+LISTER: Jo. Geneticky vytvořená forma života. Je GELF na přání. Stvořenej jako dokonalej společník pro kohokoliv. Každej, kdo se na ní dívá, jí vnímá jinak, vidíš to, co chceš vidět, po čem nejvíc toužíš.
+KOCOUR: (Fascinován) Takže, když vejdu do té místnosti, uvidím svůj dokonalý protějšek? 
+LISTER: Mhm. Jo. A okamžitě se do tebe zamiluje.
+KOCOUR: (Nedočkavě) Uhmm. Jakýpak úžasný poklad leží za těmi dveřmi? Ohh.
+LISTER: Jak tě znám, valkýra vyšší postavy, spoře oděná a s dekoltáží, co by si moh` sjet na lyžích.
+LISTER poodejde, ale zastaví se o kus dál ve stínu.
+KOCOUR: Uh, přestaň, už se mi sbíhají sliny. Tak, jdem na to!
+
+Ošetřovna
+KOCOUR vejde s širokým úsměvem a užasle se zarazí. KAMILA, která leží na vyšetřovacím stole, je jeho přesnou kopií.
+KAMILA: Ahoj fešáku!
+KOCOUR: Ty jsi já?
+KAMILA: Kdo jiný?
+KOCOUR: (Vyjeveně) Já jsem objekt své vlastní touhy?
+KAMILA: Umíš si představit někoho lepšího?
+KOCOUR: Nó, když to bereš takhle, tak máš pravdu. K čertu s marnivostí.
+KAMILA a KOCOUR: (Tlesknou vzájemně rukama) Ouuuuhauuujauuu!!
+KOCOUR vytančí z ošetřovny.
+
+Koridor u ošetřovny
+LISTER se snaží vypadat lhostejně, ale když uvidí KOCOURA odcházet z ošetřovny, spěchá nedočkavě za ním.
+LISTER: Co jsi viděl?
+KOCOUR: (Utahujíc si z něj) Á, jen jedno přímo božské stvoření!
+LISTER: (Následuje ho přes koridor) Tak co jsi viděl?
+KOCOUR:  Ježiš, ta figura!
+LISTER: Co jsi sakra viděl?!
+KOCOUR: Ještě se mi třesou nohy!
+LISTER: Kocoure! Cos viděl?!
+KOCOUR: Potřeboval bych brandy!
+LISTER: Ah, teda ty seš.
+
+Ubikace
+KRYTON, RIMMER, LISTER, HOLLY a KOCOUR jsou v různých pozicích roztroušeni po místnosti - sedí, leží, stojí nebo trčí na obrazovce.
+RIMMER: Měl jsem to tušit. Všechno to bylo moc podezřelé. Najednou potkám někoho, komu se nechce hned zvracet, když se na mě jenom podívá.
+KRYTON: Já bych to nebral tak osobně, všichni jsme na tom stejně. Každý z nás si připadá hloupě, jako vyždímaný kus hadru.
+LISTER: Ona nám nechtěla ublížit. Nemůže za to, jak jí vidíme. Je jenom... odrazem našich představ.
+KRYTON: Holly, cos viděla ty?
+HOLLY: Já neviděla nic. Asi nemám žádné touhy. Anebo mám zamlženou obrazovku.
+Vstupuje KRYTONOVA KAMILA.
+KAMILA: Ráda bych se vám všem omluvila.
+KAMILA: (LISTEROVA) Promiň, Dave.
+LISTER vypadá smutně.
+KAMILA: (RIMMEROVA) Nezlob se, Pie.
+RIMMER se tváří ukřivděně.
+KAMILA: (KOCOUROVA) Je mi líto, frajere.
+KOCOUR: Lamači srdcí!
+KAMILA: (Androidka) Říkala jsem ti, že to před ostatními nepůjde. Tebe to bolí nejvíc, nejsi na takové emoce zvyklý.
+KRYTON: Ale proč jsi mi lhala?
+KAMILA: Protože k tobě jsem cítila něco zvláštního, co jsem dosud nikdy nepoznala. A kdybys mě viděl takovou, jaká jsem, nelíbila bych se ti.
+KRYTON: Tak mě vyzkoušej.
+KAMILA: Otoč se a já se proměním. Stanu se tím, co jsem doopravdy.
+KRYTON se otočí. S nehezkým zvukem se KAMILA změní do své pravé podoby - velkou, beztvarou hroudu zeleného slizu s jediným okem a silným sosákem.
+KAMILA: (Podivným hlasem) Jsem připravena.
+KRYTON se k ní otočí, ale nic neříká.
+KAMILA: Takhle ve skutečnosti vypadám.
+KRYTON: (Zdvořile) No ne.
+KAMILA: Co si myslíš?
+KRYTON: No - řekl bych, že jsi velmi hezká.
+KOCOUR: (Znechucen) Hezká?! Vypadá jako něco, co ukáplo Sfinze z nosu!
+KAMILA: Má pravdu. Jsem jen zelená slizka.
+KRYTON: Ano, ale v porovnání s ostatními slizkami jsi roztomilá.
+KAMILA: Já ti nevěřím.
+KRYTON: Huh! Jistě, nikdy nebudeš na titulní stránce Vogue - ale to ani já! Myslím, že jsi rozkošná.
+KAMILA: Ty lžeš.
+KRYTON: Neumím lhát, jsem android.
+KAMILA: (Užasle) Opravdu ti nepřipadám odporná?
+KRYTON: Ovšem že ne. I řada lidí je ošklivější než ty. Třeba Karl Malden! A to byl slavný herec! Myslíš, že to něco mění? Kamilo, opravdu bych byl potěšen, kdybys šla se mnou dnes na večeři.
+KAMILA: Myslíš to vážně?
+KRYTON: Bar Papoušek na palubě G. Sejdem se tam v osm.
+KAMILA: Na podpatcích nebo bez?
+
+Ubikace, později
+V kajutě jsou KOCOUR a RIMMER. Přicházející LISTER si jde pro nějakou baštu do ledničky.
+KOCOUR: Nemůžu uvěřit, že se s tím zaplet`!
+RIMMER: Jestli bere tu beztvarou slizku někam, kde budou sami mezi třema očima, tak já mu to přeju.
+LISTER: (Sedne si) Já taky. Každej přece reagujeme jinak. Kdyby jí potkal Steve McQueen, tak by jí vodkrouhnul. Těžko by ho napadlo vzít slizku do restaurace.
+KOCOUR: Něco mě napadlo. Ať jdou do suši-baru. Tam nebude jídlo hezčí než jeho holka! Hm, co?
+Vejde naparáděný KRYTON ve smokinku.
+KRYTON: (Ke KOCOUROVI) Pane, vážím si Vašeho smyslu pro oblékání a proto bych moc rád věděl, co říkáte tomuhle?
+KOCOUR: Krytone, kdybych si já vyšel s masou zeleného slizu, tak se voháknu takhle!
+KRYTON: Děkuju, hodně to pro mě znamená. No - (stříkne si do pusy osvěžovač dechu) nečekejte na mě!
+KRYTON odejde na rande.
+
+Bar Papoušek
+KRYTON a KAMILA večeří polévku gazpacho. Z bidýlka na ně shlížejí vycpaní papoušci a na monitoru běží papouščí filmy. Romantickou atmosféru poněkud narušuje nechutný zvuk, který doprovází KAMILINO srkání polévky sosákem.
+KRYTON: Není to snad kouzelné?
+KAMILA: Ach, Krytone. Myslíš, že bychom spolu byli šťastni?
+KRYTON: Je to jak pohádka. Android potká androida, z něhož se stane chameleon. Android ztratí chameleona, jenž se změní na slizku. Android získá zpátky slizku. To je klasická pohádka..
+KAMILA: Připijme si, lásko. Na nás.
+Skleničky jemně cinknou.
+
+Bar Papoušek, později
+Světla jsou ztlumena a židle odsunuty ke zdi. KRYTON tancuje disco a KAMILA sebou škube do rytmu.
+
+Vesmír
+Kosmik letí klikatě k nějaké planetě za tónů valčíku „Na krásném modrém Dunaji“.
+
+Kokpit Kosmiku
+KRYTON pilotuje. Má rozepnuté sako a odvázaný motýlek. KAMILA vedle něj ho hladí svým očním tykadlem.
+
+Kino
+KRYTON a KAMILA spolu sledují film. KRYTON drží mísu s popcornem a KAMILA se v ní hrabe svým sosákem. Hraje závěrečná hudba filmu.
+KRYTON: Casablanca. To byl film. Musel jsem ho vidět aspoň tisíckrát. Lister ho používal jako součást mé výuky. Je plný příkladů, jak může být lhaní ušlechtilé.
+KAMILA: Od nynějška, můj anděli, bude Casablanca naším filmem a -
+HOLLY: (Objeví se na plátně) Promiň, že ti dělám křena, ale dole v hangáru je někdo, kdo chce vidět Kamilu.
+KRYTON je vyveden z míry.
+KAMILA: Chtěla jsem ti to říct. Věř mi, Krytone.
+KRYTON: (Ohromeně) Ty máš manžela?
+KAMILA: Jsme hermafroditi, ale myslím, že mu můžeš říkat manžel. Hector je mimořádně inteligentní. Roky pracuje na protilátce, aby změnil náš stav.
+KRYTON: A Hector je taky slizka?
+KAMILA: Oba jsme slizky, Krytone. Opustila jsem ho už dávno, myslela jsem, že už ten výzkum vzdal.
+KRYTON: Musí tě mít stále moc rád.
+KAMILA: To ano.
+KRYTON: Tak co budeš dělat?
+KAMILA: Povím mu, že jsem potkala někoho jiného. Řeknu mu, že zůstanu tady s tebou.
+KRYTON nevypadá právě šťastně.
+
+Hangár
+Skrz kouř je vidět malá loď stojící v hangáru. 
+
+Koridor u hangáru
+Přicházejí KRYTON, KAMILA a LISTER.
+KRYTON: Pane Listere, byl byste tak laskav a odnesl Kamilino zavazadlo na palubu?
+LISTER: (Vezme zavazadlo) Samozřejmě, Krytone. Cokoli si přeješ.
+Odejde do hangáru.
+KAMILA: Proč moje zavazadlo?
+KRYTON: Protože nastoupíš do lodi k Hectorovi, kam patříš.
+KAMILA: Ne, Krytone.
+KRYTON: Dobře mě poslouchej: Ty netušíš, co by tě čekalo, pokud bys tu zůstala.
+KAMILA: To ty říkáš, jen abys mě přiměl odejít.
+KRYTON: Oba víme, že patříš k Hectorovi, jsi součástí jeho práce, ty mu dodáváš sílu. Jestli neodletíš s Hectorem, budeš toho litovat - možná ne dnes ani zítra - ale brzy a po zbytek svého života.
+KAMILA: Ale co my?
+KRYTON: Navždy nám zůstane papoušek.
+KAMILA: Ach, Krytone.
+KRYTON: Na řečičky nejsem, holka, ale vím jistě, že problémy dvou slizek a jednoho androida nejsou v tomhle bláznivém kosmu důležité.
+
+Raketoplán stojící v hangáru
+Záběr slizky HECTORA. K němu se blíží druhá slizka.
+HECTOR: Jsi připravená, Kamilo?
+
+Koridor
+Detail KAMILY.
+KAMILA: Ano, Hectore. Sbohem, Krytone. Bůh tě provázej.
+HECTOR a KAMILA se sunou pryč a LISTER se vrací.
+LISTER: (Překvapen) Ty jsi lhal, Krytone.
+KRYTON: Ano, sice to bolelo, ale jedině tak bude šťastná. Je to prastarý příběh. Android potká androida z něhož se stane chameleon. Android ztratí chameleona, jenž se změní na slizku. Android získá slizku, slizka potká slizku s níž odejde a android ztratí slizku, chameleona i androida. Kolikrát jsme už viděli tenhle příběh?
+LISTER: A za to všechno viníš mě, je to tak?
+KRYTON: Ano, to jistě. Bez Vašich lekcí - bez Vašich banánů a filmů a Vašich hrabáčů - by se z toho nic nestalo. Vy jste naprostý a dokonalý magor.
+LISTER: (Směje se) Výborně! Právě jsi mě urazil!
+KRYTON: (Hrdě) Teď umím lhát, podvádět a taky urážet.
+Odcházejí spolu a LISTER obejme KRYTONA kolem ramen.
+LISTER: Krytone, tohle by mohl bejt začátek bezvadnýho přátelství.

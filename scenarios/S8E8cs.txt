@@ -1,0 +1,845 @@
+Vesmír
+
+V prostoru visí opuštěná kosmická loď. Opouští ji záchranný modul. Objevuje se text:
+
+„Jediný záchranný modul kosmické lodi Hermes.
+
+Členů posádky - jeden.
+
+Loď zničena chameleónským mikrobem.
+
+Opravuji: chumeleónským mikrobem.
+
+Opravuji: něčím divným z vesmíru, co mění tvar.
+
+Veškerá nepodstatná elektronická zařízení mimo provoz, včetně kontroly pravopisu.
+
+Konec správy.“
+
+Záchranný modul se řítí k Červenému trpaslíkovi.
+
+ 
+
+Přistávací rampa Červeného trpaslíka
+
+Na nákladní rampě přistál záchranný modul.
+
+Objevuje se text: „O šest hodin později.“
+
+Modul je pomalu ale jistě rozežírán zevnitř korozním mikrobem.
+
+ 
+
+Kapitánova kajuta
+
+U stěny běží televize s jakýmsi béčkovým hororem z padesátých let. Bezbrannou ječící a kopající ženu drží v náručí chlápek v nedůvěryhodném kostýmu pochybného mořského monstra. Kapitán HOLLISTER leží chorý v posteli, přikryt barevnou kostkovanou dekou, a sleduje to. Ozve se klepání na dveře. HOLLISTER vypne televizor a rád by svolil dotyčnému vstoupit, ale bolí ho v krku, a tak se mu z úst dere jen slabý chrapot.
+
+HOLLISTER: ...vstupte...
+
+Ozve se hlasitější zabouchání.
+
+HOLLISTER: (Podrážděně a chraplavě) ...vstupte...
+
+Návštěvník neslyší a tak do třetice buší.
+
+HOLLISTER: ...vstupte!
+
+Dveře se otevřou. Vstupuje RIMMER s tácem.
+
+RIMMER: Můžu vstoupit, pane? Já jsem ťukal, asi jste mě neslyšel. Horká citronáda.
+
+HOLLISTER: (Napije se) Ta chřipka mi dává. Ty tváře mám pořád takové opuchlé, povadlé a skleslé.
+
+RIMMER: A nebyly takové už před tou nemocí? Ano, určitě byly, protože...
+
+HOLLISTER se na něho výhružně dívá, a tak RIMMER raději zabrzdí.
+
+RIMMER: Trochu Vás zabalím.
+
+Upravuje mu deku.
+
+HOLLISTER: Jak se Vám vede v podmínce? Už jste něco vyved`?
+
+RIMMER: Moc se mi to líbí. Tady mám pár věcí k podpisu.
+
+Podává mu pár lejster a propisku. HOLLISTER to zběžně prolistuje.
+
+HOLLISTER: Co tady probůh dělá propouštěcí rozkaz zprošťující Vás veškerých obvinění?
+
+RIMMER: (Otevře doširoka ústa v předstíraném překvapení) Ty ze správního by vážně měli dávat pozor. To je hrůza! Ts! Dneska už nemůžete spoléhat na nikoho!
+
+HOLLISTER civí chladně na RIMMERA, jenž to nevydrží a prosebně si klekne k jeho lůžku.
+
+RIMMER: Já se hrozně omlouvám. Jenže když budu mít záznam, nikdy nedostanu frčky ani vlastní loď. A po tom toužím nejvíc na světě. Být jako Vy... pouze štíhlejší a v lepší kondici, a určitě bez Vašich ucpaných cév, ale když tohle pominu, jste člověk, který je mi vzorem.
+
+HOLLISTER: Jo, tak přesně o tomhle jsem snil...
+
+RIMMER: Myslíte, že bych se moh` stát jednou důstojníkem?
+
+HOLLISTER: Heleďte, nerad Vám tohle říkám, Rimmere, ale je mi to fakt líto, Vy prostě nejste z důstojnického těsta.
+
+RIMMER: Nejsem z důstojnického těsta??
+
+HOLLISTER: Jestli Vám mohu poradit, nasměrujte svou energii jinam a najděte si něco, v čem máte naději, že to někam dotáhnete.
+
+RIMMER: Například, pane?
+
+HOLLISTER předstírá ztrátu řeči.
+
+RIMMER: Tak podle Vás ze mě nikdy nebude kapitán? Nikdy?
+
+HOLLISTER kývá a chraptivě kuňká. Ozve se zaklepání a vstupuje černě oděná žena.
+
+ŽENA: Říkali, že můžu na chvilku dovnitř...
+
+HOLLISTER: Talio! Hehehe, ahoj!
+
+RIMMER: (Vyskočí z pokleku) Dobrý den.
+
+TALIA se na RIMMERA zdvořile usměje, ale hned obrátí upřený pohled na kapitána.
+
+HOLLISTER: Rimmer je právě na odchodu... (Podává mu lejstra)
+
+TALIA: Jsem jako ve snu, že se s tebou setkávám po takových letech!
+
+HOLLISTER: Ty nanoboti museli oživit také tebe, děvče! Vypadáš... fantasticky.
+
+TALIA: Z tebe je teď kapitán. Jsi tak úspěšný muž. (Chytne ho za ruku) Máš vlastní loď... teda! Jsem z toho úplně vedle.
+
+HOLLISTER klopí oči pod záplavou komplimentů.
+
+RIMMER: (K HOLLISTEROVI) Tu fotografii Vaší ženušky mám nechat, jak je, nebo ji mám otočit ke zdi?
+
+HOLLISTER: Odchod, Rimmere.
+
+RIMMER: Samozřejmě. Děkuji, pane. (K TALIE) Můžu Vám něco přinést? Čaj? Kávu? (Odchází) Krabičku s gumou?
+
+HOLLISTER se za RIMMEREM naštvaně podívá, pak se ale usměje na TALII a ta si přisedne k němu na postel.
+
+ 
+
+Koridor vedle kapitánovy kajuty
+
+RIMMER odchází naštvaně z HOLLISTEROVY kajuty.
+
+RIMMER: Já! Já že na to nemám! Co ten o tom ví, ten vyžranej trouba?
+
+Zastaví se u automatu a začne lovit v kapse kalhot.
+
+RIMMER: Nevidí mé dobré stránky, mou záludnost, prohnanost lišáka, to, jak ve chvílích, kdy jde do tuhého, dokážu najít nejlepší skrýš.
+
+Vytáhne z kapsy minci, již má přivázanou na provázku a vhodí ji opatrně do otvoru v automatu.
+
+RIMMER: On si myslí, že jsem imbecil. To určitě...
+
+Cosi namačká a z automatu vypadne čokoládová tyčinka.
+
+RIMMER: Haha. To víš, že jo, ty bandasko!
+
+Jedním mrštným zatáhnutím za provázek vytáhne svou minci zpět. Automat začne okamžitě zuřivě blikat.
+
+AUTOMAT: Poplach, poplach! Čokoládová tyčinka. Čokoládová tyčinka byla odebrána bez placení.
+
+RIMMER zacpe AUTOMATU reproduktor.
+
+AUTOMAT: Čokoládová tyčinka byla odebrána bez placení. Poplach, poplach!
+
+RIMMER: Zavři zobák!
+
+AUTOMAT: Nezavřu. Poplach, poplach!
+
+RIMMER: Jestli nesklapneš, naleju ti bujón do repráku a utopím tě!
+
+AUTOMAT: Tak sundej tu ruku z reproduktoru.
+
+RIMMER: Slib, že budeš zticha.
+
+AUTOMAT: Slibuju.
+
+RIMMER ji sundá.
+
+AUTOMAT: Hahaha hahaha! Zkratovaly mi obvody! Poplach, poplach! Čokoládová loupež ve 341. obvodě.
+
+RIMMER sundává veškeré nálepky, jimiž je AUTOMAT polepen, a zmuchlané mu je cpe do reproduktoru.
+
+AUTOMAT: Tohle ti neprojde. I když tě nevidím, tak znám tvé oblíbené sladkosti a taky... a taky vím... a taky vím... ea... no dobře, víc toho nevím, ale tvé oblíbené sladkosti znám a jednou, až zase uslyším tvůj hlas, tak ti udělám ostudu a rozhlásím, že jsi prachsprostý čokoládový chmaták!
+
+RIMMER vzdá své pokusy stroj udusit.
+
+RIMMER: Třesu se strachy! Automat mi bude vyhrožovat!
+
+Koridorem přichází HOLLISTER s tácem, který u něho RIMMER nechal. RIMMER otočený k AUTOMATU ho nevidí.
+
+RIMMER: Co mi provedeš? Necháš mi koňskou hlavu z marcipánu v posteli? (Svíjí se u stěny a kouše si demonstrativně nehty strachy) Ach mami, mami, pomoc, pomoc! Já mám strach!
+
+HOLLISTER: Rimmere!
+
+RIMMER se zděšen prudce otočí. Zády se nalepí na stěnu.
+
+HOLLISTER: Zapomněl jste si tác...
+
+Podá mu ho tak, že ho lehce udeří do břicha.
+
+RIMMER: Děkuju Vám.
+
+HOLLISTER se má k odchodu.
+
+AUTOMAT: Ukradl čokoládu! Ukradl...
+
+RIMMER rychle přiloží dlaň na reproduktor AUTOMATU. HOLLISTER se otočí, podívá se na RIMMERA, zvedne ukazovák, jako by chtěl něco říct, pak ale mávne rukou a odejde.
+
+AUTOMAT: Čas mé pomsty přijde... Jednou se naše cesty zase setkají a já (Předvádí zvuky střílejících koltů) tě zničím...
+
+RIMMER: Až se tak stane, já budu kapitán téhle lodi.
+
+Odchází.
+
+ 
+
+Kovová terasa nad halou Tanku
+
+Vězňové se vracejí z šichty do cel. Jsou to KOCOUR, LISTER a KRYTON.
+
+KOCOUR: (Drží se za záda) Náš slizoun si to umí zařídit. Dělat pro kapitána. Ale co já? Zatracený desky! Záda mám úplně zničený! Páteř je prohnutá. Kdybys se mnou někam mrsknul, tak ti přiletím zpátky! Desky, desky, desky! Já nejsem zvyklej dělat! A takovouhle práci!
+
+KRYTON: Vy pracujete s deskami, pane?
+
+KOCOUR: Přesně tak. Víš, co já musím dělat? Nahrát jim všechny desky do palubního rozhlasu. Každejch pětačtyřicet minut musím ty nesmysly měnit! Je ze mě troska! Ta podmínka mě zabije!
+
+KOCOUR odchází. LISTER si všimne, že KRYTON něco nese.
+
+LISTER: Co to je?
+
+KRYTON: To je dárek, kterým chci potěšit slečnu Chris. (Ukáže mu ho)
+
+LISTER: Kalendář?
+
+KRYTON: Před pár dny se dívala do kalendáře a říkala, že je špatný kus měsíce, tak jsem jí sehnal nový.
+
+LISTER: Krytone...
+
+KRYTON: Já jí to řeknu. Ti, co je vyrábějí, udělali chybu. Prostě kus měsíce úplně zkazili. A byli hloupí, lajdáčtí, ale být kvůli tomu nevrlý a smutný, to přece nemá cenu.
+
+LISTER: Pár slovíček do tvýho audiostopu...
+
+Pošeptá mu vysvětlení do ucha.
+
+KRYTON: A to se stává všem ženám? Všechny začnou být divné a mrzuté? Přitom ve filmech ani v televizi to neuvidíte. A to prý muži ovládají média! To je největší bouda od aféry Watergate!
+
+LISTER: Klídek, o nic nejde. Řeknu ti, co dělat a jak se chovat. Úplně všechno. Důvěřuj mi.
+
+ 
+
+Cela Krytona a Kochanské
+
+Otevírají se dveře a vstupuje KOCHANSKÁ. Vejde a vyvalí oči. Uprostřed cely slavnostně postává KRYTON a nad hlavou má transparent s nápisem: „PŘEJI VÁM BÁJEČNÉ MĚSÍČKY“.
+
+KRYTON: (Rozpaží) Tadáá! Ještě že mám pana Listera! Málem jsem ze sebe udělal hlupáka. (Vytáhne tampón převázaný zelenou stužkou) Dáreček pro Vás. Hezky zabalený. Doufám, že je to Vaše velikost...
+
+KOCHANSKÁ: To ti poradil Dave, viď?
+
+KRYTON: Ah, není báječný?
+
+KOCHANSKÁ: To jo. Občas je tak milej, že je až k sežrání.
+
+KRYTON: Všechno mi vysvětlil, abych neudělal nějaký trapas. (Podává jí tampón) Tak, prosím, rozbalte to! Rád bych, abyste si ho vzala. A udělala s ním piruetku.
+
+KOCHANSKÁ: (Mračí se) Krytone, no, jak bych ti to řekla...
+
+KRYTON: Něco snad není v pořádku? (Pauza) Napálil mě, viďte? Tohle vůbec není to, co by měl člověk dělat, když má žena... (Ukáže na poslední slovo na transparentu) Tohle se taky nehodí?
+
+Ukáže na celý transparent a KOCHANSKÁ kývne.
+
+KRYTON: (Vysokým hláskem) Tak... tak on mi lhal! Doběhl mě ten podrazník podrazácká. Ale tahle hra je pro dva!
+
+KOCHANSKÁ: Ano. Jak to myslíš?
+
+KRYTON: No, jste si jistá, že na to máte čas? Vím, že tyto dny jsou pro Vás specifické. Nechcete raději hrát tenis v těsných bílých džínách? O to bych Vás nerad připravil. Ani o ta kvanta modré tekutiny, co budete rozlévat.
+
+KOCHANSKÁ: Radši mi řekni, jakou pomstu jsi vymyslel.
+
+KRYTON: Dobře. Představuju si to tak... Dám mu... brrruaaa. A pak mu... urrrrr... ukaž... glo glo glo... a bueeei.
+
+ 
+
+Cela Listera a Rimmera
+
+RIMMER a LISTER sedí u stolu a hrají dámu. Ozve se pípavý zvuk.
+
+LISTER: (Podívá se na hodinky) To je Holl. Asi něco chce.
+
+Stiskne knoflík na hodinkách a HOLLY se objeví na monitoru na stěně.
+
+HOLLY: Rád bych vám sdělil žhavou a naprosto důvěrnou informaci. Asi tak za deset minut bude prohlídka cel. Nikomu ani muk.
+
+Výrazně mrkne a LISTER přikývne. Vstupuje STRÁŽNÝ.
+
+STRÁŽNÝ: Prohlídka cel za deset minut.
+
+A zase odchází.
+
+HOLLY: Vidíte?
+
+LISTER: Díky, Hole, moc jsi nám pomohl.
+
+HOLLY: Když jde o to získat náskok, jsem ten pravej.
+
+RIMMER: Jestli se můžu zeptat, kdepak jsi splašil ten informační klenot tak dlouho předtím, než to věděl každý?
+
+HOLLY: Naboural jsem se do lodního počítače a tam jsem to našel. Taky se mi podařilo nakouknout do seznamu zásob. Objevil jsem něco, z čeho by se vám naježily všechny vlasy...
+
+LISTER: A sice?
+
+HOLLY: Je to brilantina. Máznete to na hlavu a máte naježené vlasy. Jsou tam už jen dvě, takže jestli máte zájem, dejte mi vědět. Jen jak najdu něco, co by se vám mohlo hodit, ozvu se vám.
+
+RIMMER: Tak nashle za pětadvacet let.
+
+HOLLY se sarkasticky zasměje a zmizí.
+
+LISTER: (Drbe se na čele) Ta jizva dneska nějak svědí. To budou asi nervy.
+
+RIMMER: Ty máš jizvu? Kde jsi k ní přišel?
+
+LISTER: Znáš ty propagační tužky, co rozdávaj u doktora? Je na nich: „Nejvíc nehod se stává doma. Buďte opatrní.“ Tak na jednu takovou jsem se nabod`.
+
+RIMMER: Kde jsi byl?
+
+LISTER: Kde by? Doma. Takže mi to tak blbý nepřišlo.
+
+RIMMER: Tohle není jizva, ale škrábnutí. *Tohle* je jizva.
+
+Ukáže na jizvu pod čelistí.
+
+LISTER: Kde jsi k tomu přišel?
+
+RIMMER: Ve rvačce, to už je dávno. Duel.
+
+LISTER: Duel? Ty? (Směje se) Tohle ti nežeru.
+
+RIMMER: Ale ne souboj. „Duel“. Ten starej film od Spielberga. Kamarád po mně hodil kazetu. Hloupě jsme se pohádali, kdo má na kole hezčí klipsny. Ale pomstil jsem se. Vymočil jsem se jim do napařovačky a chodil ve žlutých tričkách.
+
+Budík na zdi zapípá.
+
+RIMMER: (Vstává) Proč to zvoní?
+
+Na budíku je nalepený nějaký vzkaz.
+
+RIMMER: To je od Krytona. „Podívejte se pod šachovnici.“
+
+LISTER: (Nadzvedne šachovnici) Další vzkaz. (Čte) „Drahý pane Listere, děkuji za Vaši radu ohledně slečny Kochanské. Za odměnu jsem ukradl Baxterovi načerno pálenou kořalku a ukryl ji u Vás ve sprše. Už teď se dost bavím, protože vím, že Vaši celu budou kontrolovat. A umím si představit tu hrůzu, která Vás jímá.“
+
+LISTER vyděšeně vstává a ve sprše opravdu objevuje několik demižonů.
+
+RIMMER: Proboha!
+
+LISTER: Ježiši!
+
+RIMMER: Co budem sakra dělat? Za pět minut je tady kontrola! Jsem v podmínce!
+
+LISTER: Do záchodu! Do dřezu!
+
+LISTER přiskočí ke dřezu a lije do něho obsah jednoho z demižonů.
+
+RIMMER: Baxter nás zabije, jestli zjistí, co děláme!
+
+LISTER: Kapitán nás zabije, když to neuděláme!
+
+RIMMER: Z Baxtera mám ale větší strach! Grizzly před ním prchá a řve hrůzou. Před týdnem hrál poker, a když mu došly peníze, vsadil levou kouli na dvojici spodků. Na dvojici spodků! Takový je drsňák.
+
+Nad LISTEROVOU hlavou se rozsvítí výstražné světlo s nápisem: „NÁDRŽ PLNÁ“.
+
+LISTER: Sakra, kam teď s tím?
+
+RIMMER: Co budem dělat? Ještě zbývají dvě lahve!
+
+LISTER: Holt to musíme vypít.
+
+RIMMER: Vypít? Tohle je Baxterova pálenka, ta má tak tři sta procent! Z jedné takovéhle láhve by se opilo celé řecké loďstvo.
+
+LISTER: Aspoň ti vyrostou chlupy na hrudi.
+
+RIMMER: Nejen na hrudi, ale i na rtech! Vyrostou ti chlupy i na chlupech! To je smrtelné...
+
+LISTER: Chceš, aby tě chytili s načerno pálenou kořalkou? Dej se do toho.
+
+RIMMER: Já to chci něčím zředit.
+
+LISTER: Kruci, Rimmere, ty seš podělanej jako městskej chodník! Koukej to do sebe hodit!
+
+LISTER usrkne ze své láhve. Pomalu ji položí zpět na stůl. Zkroutí obličej, začne kašlat a mátožně se snaží usadit do své židle.
+
+RIMMER: Jaké to je?
+
+LISTER: (Chraplavě) Jde to...
+
+I RIMMER tedy upije. Odloží demižon a chvíli čeká. Jeho ústa se začnou křečovitě klepat a následně třas zasáhne celý jeho obličej a poté i tělo. I on se pomalu šourá ke své židli. LISTER z té své mezi tím spadne. Objeví se nápis:
+
+„O pět minut později...“
+
+RIMMER a LISTER stále sedí u stolu, mžourají a balancují tak, aby udrželi vztyčené hlavy. Otevírají se dveře a vstupuje doširoka se usmívající ACKERMAN.
+
+ACKERMAN: Kontrola!
+
+Opilý pár ho vůbec neregistruje.
+
+ACKERMAN: Vztyk, pánové.
+
+RIMMER se o vztyk alespoň pokusí, ale výsledkem je jen malinké povyskočení. Oba se chytí mřížoví stolu a urputně se snaží postavit.
+
+ACKERMAN: Postavte se k postelím.
+
+ACKERMAN ustoupí. LISTER s RIMMEREM se přidržují stolu a jeden druhého a jedním mohutným odrazem doskočí ke kavalcům, kterých se ihned zachytí. ACKERMAN si mezi tím čichne k obsahu demižonu stojícího na stole. Otočí se k oběma obyvatelům cely.
+
+ACKERMAN: Vy jste opilí.
+
+LISTER: Opilí?
+
+Začne důrazně vrtět hlavou. Ve stavu, v jakém je, mu dělá problémy vrtění zastavit.
+
+LISTER: Ne, pane.
+
+RIMMER: (Chraplavým hlasem) Vůbec ne, pane, ne. Ne, ne.
+
+ACKERMAN: (Chvíli přemýšlí) A kdo by si teď dal utopence?
+
+LISTER s RIMMEREM se o překot hlásí.
+
+LISTER: Já!
+
+RIMMER: Já!
+
+LISTER: Já bych si dal!
+
+RIMMER: Utopenci jsou výborný nápad, pane!
+
+LISTER: Sakra... napálil nás.
+
+RIMMER najednou omdlí a svalí se na podlahu. LISTER se několik vteřin tupě hihňá.
+
+LISTER: Vzal si... Vzal si v jídelně bombón s likérem. Řikal jsem mu, ať si nepřidává.
+
+LISTER položí hlavu na ACKERMANOVO rameno a okamžitě usne.
+
+ACKERMAN: (Volá do chodby) Zavolej na marodku, ať připravěj pumpování žaludku. (Zatváří se spiklenecky) Superšlauchem.  
+
+ 
+
+Vězeňská jídelna
+
+U stolu sedí KOCHANSKÁ, KRYTON, KOCOUR a nějací další trestanci. Uličkou výhružně přichází BAXTER a jeho dva parťáci.
+
+KOCHANSKÁ: To je Baxter...
+
+BAXTER: (Pomalu k nim dojde a opře se o jejich stůl) Vaši kamarádi mně štípli pálenku. Až vylezou z marodky a kolem nebudou bachaři, tak čeká voba tohle...
+
+Sebere ze stolu dvě koblihy a rozdrtí je v pěstech.
+
+KOCOUR: Rozmáčkneš jim koblihy? To jednoho naštve. Ale na druhou stranu si docela oddechnou.
+
+BAXTER odchází.
+
+KRYTON: Co jsem to provedl?
+
+ 
+
+Vězeňská marodka
+
+LISTER a RIMMER leží na postelích. Právě jim byly vypumpovány žaludky. Ve dveřích se objeví KRYTON, jenž veze KOCHANSKOU na vozíku. Aby se dostali na ošetřovnu, přidělal si KRYTON na hlavu podivné modré neštovice a KOCHANSKÁ si nasadila na hlavu kastrol.
+
+KOCHANSKÁ: Baxter jde po vás. Musíte utéct. My všichni.
+
+KRYTON: Tady se tolik nehlídá. Dostanem se na startovací rampu, ukradnem loď a pofičíme pryč!
+
+RIMMER: Kde je Kocour?
+
+KRYTON: Každou chvíli by se měl objevit tady.
+
+ 
+
+Vězeňská jídelna
+
+Tři objemní trestanci sedí na lavici u stolu a jedí ze svých táců. Vtom přichází KOCOUR se svým tácem a cpe se mezi ně. Nevejde se, a tak je odstrkuje. Vězňové dělají hrozivé obličeje, ale neříkají nic. KOCOUR se usadí a osloví jednoho z trestanců.
+
+KOCOUR: Hoď sem sůl, jo?
+
+Jak se jeho soused, vězeň, jehož tu přezdívají VELKÝ MASO, otočí pro sůl, KOCOUR mu sáhne do tácu a sní mu pár hranolků. VELKÝ MASO se na něho výhružně podívá.
+
+KOCOUR: Ten chlápek vedle ti krade hranolky.
+
+VELKÝ MASO se otočí na obviněného a KOCOUR mu jich mezi tím pár dalších uloupí.
+
+VELKÝ MASO: (Výhružně) Co to sakra vyvádíš, ty suchare?
+
+KOCOUR: (Ještě výhružněji) Kradu ti hranolky, ty bandasko!
+
+VELKÝ MASO na něho nevěřícně civí. KOCOUR mu odstrčí lokty, vezme si ještě pár jeho hranolků, napije se z jeho kelímku, ukousne kus jeho buřtu, vytrhne mu vidličku a nabere pár dalších dobrot z jeho tácu.
+
+KOCOUR: Hmm, docela dobrý. Slušný.
+
+VELKÝ MASO: (Civí na KOCOURA a mluví pomalu a důrazně, aby působil o to hrozivěji) V celym pekle není větší vazby, než jsem já, ty kostroune! Jaks přišel na to, že mě budeš prudit a že přežiješ?
+
+KOCOUR: Protože teď se to tady mění, ty tlusťochu! Odedneška, ty páprdo, mi děláš čubu!
+
+Nastaví mu tvář, aby mu VELKÝ MASO konečně jednu vlepil a on mohl být odvezen na marodku.
+
+VELKÝ MASO: Cože?
+
+KOCOUR: Č - U - B - U. Čubu! Tak vypadáš a to taky seš, rozumíš?
+
+Opět mu nastaví obličej a zavře oči v bolestivém očekávání. Reakce je však jiná.
+
+VELKÝ MASO: (Poddajně) Dobře.
+
+KOCOUR: Cože?
+
+VELKÝ MASO: Když se mnou někdo mluví tak zvostra, musí bejt vostrej hoch! Jestli chceš, abych ti dělal čubu, tak já proti tomu nic nemám.
+
+KOCOUR: A nechceš mi jich pár vrazit? Trochu mě vyzkoušet?
+
+VELKÝ MASO: Ne, kdepak. Jsem tvoje čuba! Odteďka jsem tvoje kocabinka, samička, křapule, bruska a tvůj božíček! Udělám všechno, abys byl šťastnej!
+
+KOCOUR: Tak mi jednu vraž! (Zoufale mu nastaví čelist)
+
+VELKÝ MASO: To mám zřídit tu krásnou tvářičku? Ani náhodou!
+
+Usmívá se a láskyplně KOCOURA obejme. Ten odvrátí obličej, co to jde, a panicky se rozhlíží.
+
+KOCOUR: Bože!
+
+ 
+
+Vězeňská marodka
+
+Leží tu všichni čtyři trpaslíkovci. SESTRA právě odchází. Podél stěny se plíží jiná SESTRA. Má čepeček, ňadra, ale přesto je na ní něco divného. Je to KOCOUR. Přistoupí rychle k LISTEROVI, chytne ho za ruku a začne mu měřit tep. LISTER se podívá na její hebké ruce a usmívá se. Úsměv mu ale ztvrdne hned, jak si všimne „jejího“ obličeje.
+
+KOCOUR: Nemůžem tu zůstat! Do pěti hodin musíme vypadnout!
+
+LISTER: Ale proč zrovna do pěti hodin?
+
+KOCOUR: V pět jsou koupele nemocnejch a to bude nejspíš na mně!
+
+ 
+
+Koridor Červeného trpaslíka
+
+KRYTON uvolňuje mřížoví šachty a všichni trpaslíkovci nepozorovaně prchají z marodky.
+
+ 
+
+Přistávací rampa
+
+Trpaslíkovci dorazili k nákladní rampě. Všimnou si ale, že je tu stojí rozežraný a zkorodovaný modul a nákaza se šíří i na stěny samotné lodi.
+
+KRYTON: Ten mikrob, který zničil Herma, je na Trpaslíkovi!
+
+LISTER: Jak to?
+
+RIMMER: Chameleónský mikrob. To musí být ten záchranný modul, kterým přiletěla Talia, nebo jak se jmenuje.
+
+LISTER: Vrátíme se a řekneme jim to.
+
+RIMMER: A co náš útěk?
+
+LISTER: Než na to přijdou, tak to chvíli potrvá. Jestli se vrátíme teď, tak ještě můžou najít protilátku.
+
+RIMMER: Hraješ si na odvážného chlapáka, jenom aby ses před ní vytáh`. (Kyne ke KOCHANSKÉ)
+
+KOCHANSKÁ: Ne, Dave má pravdu. Dokáže vidět za roh.
+
+RIMMER: Jo, a za tím rohem jsi ty bez šatů a kupka sena.
+
+ 
+
+Hala Tanku
+
+Před nastoupenými vězni hovoří kapitán HOLLISTER.
+
+HOLLISTER: Červený trpaslík je zevnitř užírán korozním mikroorganismem. Jak patrně víte, nemáme dost lodí, abychom vás zachránili všechny, takže většina z vás tady zůstane a zemře. Jo, a v poště máte všichni omluvný dopis.
+
+ 
+
+Vesmír
+
+Desítky Kosmiků opouštějí rozkládajícího se Trpaslíka.
+
+ 
+
+Korodující přistávací rampa
+
+Jsou tu všichni naši trpaslíkovci. KRYTON opatrně sbírá do zkumavky vzorky mikrobu.
+
+KRYTON: Jak jsem předpokládal. Je naprogramován tak, aby nečinil sklo.
+
+KOCOUR: Takže stačí plutoniem poháněný skleník a jsme v suchu!
+
+KRYTON: Potřebujem protilátku, co by neutralizovala korozivní negativitu mikrobu.
+
+LISTER: Něco s korozivní pozitivitou?
+
+KOCOUR: No a kde to seženem?
+
+HOLLY: (Na LISTEROVÝCH náramkových hodinkách) Ve Zlatých stránkách nic není.
+
+KOCHANSKÁ: V zrcadlovém vesmíru! V něm je všechno přesně obráceně než tady. Negativní se stává pozitivním a virus se stává protilátkou.
+
+ 
+
+Kapitánova kajuta
+
+Je už dávno opuštěná. KRYTON namířil zdroj záření do skleněného hranolu tak, aby vzniklý paprsek procházel zrcadlem na stěně. Podivný duhový paprsek projde celou soustavou a povrch zrcadla se začne zvláštně vlnit jako vodní hladina.
+
+KRYTON: Jestli v tom hranolu bude jediná nepřesnost, tak ten zrcadlový vesmír bude jen nedokonalou verzí našeho. To se ale dozvíme, až tam budeme.
+
+LISTER pokyne RIMMEROVI, jenž drží zkumavku se vzorky mikrobu v ruce, že může projít. RIMMER tedy projde zrcadlem do zrcadlového vesmíru.
+
+ 
+
+Zrcadlový vesmír - Kapitánova kajuta
+
+Vynoří se tu RIMMER se zkumavkou. Obsah jeho zkumavky se změnil.
+
+ 
+
+Kapitánova kajuta
+
+Stroj vydávající záření začne podivně bzučet. Porouchalo se to. KOCHANSKÁ se právě chystala projít zrcadlem, ale narazila do tvrdého skla.
+
+ 
+
+Zrcadlový vesmír - Kapitánova kajuta
+
+RIMMER si všimne, že se zrcadlo za ním uzavřelo.
+
+ 
+
+Kapitánova kajuta
+
+Přístroj prská a bouchá a jde z něho dým. Cesta do zrcadlového vesmíru je uzavřena.
+
+KRYTON: Porouchalo se to! Přišli jsme o pana Rimmera!
+
+KOCOUR: Sláva, začíná se nám dařit!
+
+LISTER: Jak dlouho potrvá, než to spravíš.
+
+KRYTON: Odhaduji to tak na dvacet minut.
+
+ 
+
+Zrcadlový vesmír - Kapitánova kajuta
+
+RIMMER se rozhlíží po místnosti. Na televizní obrazovce stojí žena a drží v náručí muže, jenž je oblečený v levném kostýmu mořské příšery a křičí hrůzou. Ozve se zaklepání na dveře. RIMMER si uvědomí, co se děje. Rychle si zuje boty a lehá si do postele.
+
+ 
+
+Zrcadlový vesmír - Za dveřmi kapitánovy kajuty
+
+Čísi ruka klepe na dveře.
+
+ 
+
+Zrcadlový vesmír - Kapitánova kajuta
+
+RIMMER se přikryje dekou a schovává pod ni i zkumavku. Vstupuje ZRCADLOVÝ HOLLISTER. Líbezně se usmívá a drží tác s citronádou a nějakými lejstry.
+
+ZRCADLOVÝ HOLLISTER: Můžu vstoupit, pane? Já jsem ťukal. Asi jste mě neslyšel. Horká citronádka.
+
+RIMMER se napije a zběžně pohlédne na frčky ZRCADLOVÉHO HOLLISTERA.
+
+RIMMER: Děkuji ti... vojíne nulo.
+
+ZRCADLOVÝ HOLLISTER: Dovolíte? Pár věcí k podpisu.
+
+RIMMER: No jasně, hochu. (Bere lejstra, otočí na druhou stranu a zamračí se) Propouštěcí rozkaz zprošťující tě všech obvinění? (Utrhne ho, zmuchlá a zahodí)
+
+ZRCADLOVÝ HOLLISTER: (Našpulí rty v předstíraném údivu) Nevím, jak se to tam dostalo. Já... ea... já...
+
+RIMMER: Ty se chceš stát důstojníkem, viď, hochu?
+
+ZRCADLOVÝ HOLLISTER: A jak, pane! Šlo by to? Jednou, šlo by to?
+
+RIMMER: Ne. Myslím, že ne. (Bere do pravé ruky pero, aby podepsal lejstra, ale zjišťuje, že je levák) No jasně, je to zrcadlový vesmír, všechno je obráceně...
+
+Bere pero do druhé ruky a vtom ho něco napadne. Odloží lejstra a nadzdvihne deku. V úžasu zírá do vlastního rozkroku
+
+RIMMER: Pane jo! Na tohle si musím chvíli zvykat...
+
+Ozve se zaklepání a vstupuje ZRCADLOVÁ TALIA.
+
+ZRCADLOVÁ TALIA: Říkali, že můžu na chvilku dovnitř. (K RIMMEROVI) Vypadáš báječně...
+
+RIMMER: Však ty taky. (K ZRCADLOVÉMU HOLLISTEROVI) To je všechno, kašpare.
+
+ZRCADLOVÝ HOLLISTER: Rozkaz, pane. (Odchází)
+
+ZRCADLOVÁ TALIA: Z tebe je teď kapitán. Jsi tak úspěšný muž. Máš vlastní loď... teda! Jsem z toho úplně vedle.
+
+RIMMER: To já taky!
+
+ZRCADLOVÁ TALIA: Dej mi pusu.
+
+Hned, jak se k němu ZRCADLOVÁ TALIA nakloní, chytne jí za hlavu a začne ji dusit vášnivým polibkem. ZRCADLOVÁ TALIA se však začne vzpínat. RIMMER si to uvědomí a pustí ji.
+
+ZRCADLOVÁ TALIA: Co to děláš!?
+
+RIMMER: Lepím ti hubana s pozdravem od mýho rejdiváka!
+
+ZRCADLOVÁ TALIA: Jsem tvoje sestra!
+
+RIMMERŮV obličej ztuhne. Napřímí se na posteli.
+
+RIMMER: Ano. Ale měl jsem hroznou radost, že tě vidím. Já jsem tě...
+
+ZRCADLOVÁ TALIA: Dal jsi mi francouzáka!
+
+RIMMER: Ne, to bylo blíž Antverpám. To byl belgičák. Jsem... já jsem... ea... jsem vážně nemocný... Jste kapitánova sestra?
+
+Začne předstírat nevolnost a fingovaně omdlí. Za pár vteřin se opět probere a hraje ztrátu paměti.
+
+RIMMER: Ježišmarja, to byl hrozný sen! Jé, čau ségra! To jsem já, Arnie, tvůj brácha. Tak si tady pěkně kecni a pořádně bráchu obejmi!
+
+RIMMER čapne nos ZRCADLOVÉ TALIE mezi prsty a třese s její hlavou. Ona se vyděšeně vyprostí.
+
+ZRCADLOVÁ TALIA: Pane kapitáne! Já jsem sestra Talia Garretová, Vaše osobní spirituální poradkyně!
+
+Začne pištět a uteče.
+
+RIMMER: (Volá za ní) Ségra! Sestro! Nebo kdo jste... Do prkýnka!
+
+ 
+
+Zrcadlový vesmír - Oddělení vědy
+
+Přichází RIMMER se zkumavkou. U dveří do laboratoře sedí recepční, ZRCADLOVÁ KOCHANSKÁ. V téhle realitě má blond vlasy. Má na sobě růžovou blůzku, čte si v magazínu a lakuje si nehty.
+
+RIMMER: Dovolíte?
+
+ZRCADLOVÁ KOCHANSKÁ: (Aniž by vzhlédla od časopisu) Ano?
+
+RIMMER: Nemohla byste mi říct, co je tohle?
+
+Ukazuje jí zkumavku.
+
+ZRCADLOVÁ KOCHANSKÁ: Na to se zeptejte pana profesora. Ten je tady přes všechny ty vědátorský ptákoviny.
+
+Otevřou se dveře laboratoře a vykoukne ZRCADLOVÝ KOCOUR. Má šedé sako, kulaté brýle, motýlka a krátké šedé afro.
+
+ZRCADLOVÝ KOCOUR: Někdo mě volal?
+
+RIMMER: Profesore!?
+
+ZRCADLOVÝ KOCOUR: Ano? Přejete si?
+
+RIMMER: Možná mi pomůžete. Co je tohle?
+
+Podá mu zkumavku. ZRCADLOVÝ KOCOUR si přičichne a vloží ji pod mikroskop.
+
+ZRCADLOVÝ KOCOUR: To je alkálie.
+
+RIMMER: To ano. A jak se to jmenuje?
+
+ZRCADLOVÝ KOCOUR: Césiumfrankolitiový mixialobidiumrixidehyxid. Vypadáte překvapeně.
+
+RIMMER: Těžko uvěřit, že tohle slyším od Vás. Mohl byste mi to napsat?
+
+ZRCADLOVÝ KOCOUR: Jistě. (K ZRCADLOVÉ KOCHANSKÉ) Nedala byste mi hrozně dlouhý kus papíru?
+
+ 
+
+Kapitánova kajuta
+
+Přístroj ke vstupu do zrcadlového vesmíru je podle všeho spravený, protože RIMMER se i se vzorcem protilátky vrací zrcadlem zpět do své reality. Hned, jak projde, přestane však poruchový stroj opět fungovat a zrcadlo zase ztvrdne.
+
+RIMMER: Protilátka! Získal jsem ji!
+
+Uvědomí si, že kajuta je prázdná. Navíc všude blikají rudá výstražná světla. Mikrob už se pořádně rozšířil. Jde do koridoru.
+
+ 
+
+Koridor vedle kapitánovy kajuty
+
+RIMMER vběhne do koridoru. Ten je celý v rozkladu. Je slyšet zvuk drtícího kovu, část chodby je v plamenech, ze zdí sněží kousky polystyrénu. RIMMER se v panice rozhlíží.
+
+RIMMER: Kde... kde jsou všichni?
+
+AUTOMAT: Opravili ten přístroj a přešli do zrcadlového vesmíru. Teď jsi důstojník s nejvyšší hodností na lodi, takže předpokládám, že jsi kapitán. Blahopřeji, pane kapitáne.
+
+RIMMER: Odpal!
+
+ 
+
+Kapitánova kajuta
+
+RIMMER se vrací do kajuty. Zrcadlo už je však definitivně neprostupné. Samotný přístroj už se stal obětí řádění mikrobu. Je rozežrán.
+
+ 
+
+Koridor vedle kapitánovy kajuty
+
+RIMMER běží hořícím koridorem.
+
+AUTOMAT: Kam jdeš?
+
+RIMMER: (Mává oním kusem papíru) Připravit tu látku!
+
+AUTOMAT: Myslím, že zjistíš, že z toho vzorce, co máš na papíře, se teď stal vzorec toho viru, protože jsi opustil zrcadlový vesmír, takže se to obrátilo ve svůj protiklad.
+
+Začne se hystericky smát. RIMMER se podívá na papír.
+
+RIMMER: Sakra, máš pravdu! To je katastrofa!
+
+AUTOMAT: Ještě pořád to může šťastně skončit.
+
+RIMMER: Jak?
+
+AUTOMAT: Pamatuješ si, jak jsi mi štípnul tu čokoládu? Ještě pořád mi za ni můžeš zaplatit, než natáhneš bačkory.
+
+RIMMER: A co je na tom tak šťastnýho?
+
+AUTOMAT: No, pro mě je to šťastný konec. Aspoň mi budou hrát účty.
+
+RIMMER: Hele, běž už s těma blbárnama do Blbous, ty přiblblej blbečkózní blbštajne!
+
+Prchá koridorem a rozhlíží se.
+
+AUTOMAT: I pes má svůj den. A dneska je ten den...
+
+Vystřelí plechovku limonády směrem k RIMMEROVI. Letící plechovka trefí na druhém konci chodby RIMMERA do týla a ten se svalí k zemi.
+
+AUTOMAT: ...a já jsem ten pes!
+
+RIMMER klečí na podlaze. Jeho obličej se potí a kroutí ve spalujícím žáru hořícího koridoru. Unaven pomalu upouští vzorec mikrobu, který začal hořet, na podlahu.
+
+RIMMER: Kruci!
+
+Lehá si na zem. Vzduch začíná být nedýchatelný a RIMMER se snaží udržet při vědomí. Každý nádech ho pálí v jeho plicích. Plamen na kusu papíru se vzorcem najednou zašlápne noha v sandálu. RIMMER pozdvihne zrak a spatří vysokou postavu v dlouhém plášti a s kosou. Je to SMRT.
+
+SMRT: (Hlubokým hlasem) Arnolde Jidáši Rimmere. Tvůj život je u konce. Pojď se mnou.
+
+Podá mu ruku a pomůže mu vstát.
+
+SMRT: Půjdeme k řece Styx, kde vložíš minci do...
+
+RIMMER: Dneska ne, kamaráde!
+
+RIMMER najednou kopne SMRT do slabin. Ta se s tlumeným výkřikem předkloní v bolesti a upustí kosu. RIMMER zatím prchá.
+
+RIMMER: Jenom sympaťáci umírají mladí.
+
+Utíká pryč.
+
+SMRT: To se mi ještě nikdy nestalo...
+
+Zhroutí se na podlahu koridoru.
+
+ 
+
+Temná obrazovka
+
+Objeví se nápis:
+
+„KONEC“.
+
+Po několika vteřinách je smazán a nahrazen nápisem:
+
+„TO URČITĚ“.

@@ -1,0 +1,19 @@
+parameters:
+	bowerDir: %wwwDir%/assets
+
+services:
+	wlCssFilter: WebLoader\Filter\CssUrlsFilter(%bowerDir%/materialize/temp)
+
+webloader:
+	css:
+		default:
+			files:
+				- %bowerDir%/bootstrap/dist/css/bootstrap.min.css
+				- %wwwDir%/css/dwarfSearch.css
+
+	js:
+		default:
+			files:
+				- %bowerDir%/jquery/dist/jquery.min.js
+				- %appDir%/../vendor/nette/forms/src/assets/netteForms.js
+				- %bowerDir%/bootstrap/dist/js/bootstrap.min.js

@@ -1,0 +1,858 @@
+Ubikace Kosmiku
+
+RIIMMER vstupuje dovnitř za zvuku poplašné sirény.
+
+RIMMER: Poplach! Poplach! Všichni muži na palubu! Cvičný poplach! Poplach!
+
+RIMMER vybíhá z místnosti. Záběr na LISTERA ... který v klidu dál dříme. RIMMER se vrací.
+
+RIMMER: Tobě to asi uniklo. Povídám: POPLACH!
+
+LISTER: (Stále napůl spí) Díky, ty palačinky bez šlehačky. (Hlava mu klesne zpátky na polštář)
+
+RIMMER: Hele, z Kosmika je hořící peklo. Ve strojovně je raketového paliva až po pás, z pravoboku na nás útočí nepřátelská loď.
+
+KOCOUR: (Vynoří se z pokrývek na druhém kavalci) Fakticky?
+
+RIMMER: Ne, jasně že ne fakticky. Je to nácvik. Děláme jako kdyby Kosmik byl v plamenech.
+
+LISTER: A já dělám jako kdybych cvičil. (Pořád leží, ale zamává přitom rukama) Dobrou noc.
+
+RIMMER: Máte na to 30 sekund, jinak vás úředně vyhlásím za mrtvé.
+
+RIMMER opustí místnost.
+
+LISTER: Fajn, budeme moct odpočívat v pokoji.
+
+Kokpit Kosmiku
+
+RIMMER a KRYTON sedí na svých místech a v pozadí svítí červený poplach. Vejde zívající LISTER a sedne si do křesla pomocného pilota. KOCOUR, který ho následuje, obsadí sedadlo hlavního pilota.
+
+RIMMER: Nu, pánové, blahopřeji. Poplach prvního stupně skutečně v rekordním čase... 1 hodina, 17 minut a 39 vteřin!
+
+LISTER: Hele, to není špatný. Stáhli bysme to na 16, kdybychom vynechali ten čtvrtej toast.
+
+RIMMER: Myslíte, že jsem malicherný, byrokratický hnidopich, který se přímo vyžívá v předpisech, protože z toho má jakousi zvrhlou radost? (KRYTON vedle něj přikyvuje na souhlas) V mnoha ohledech máte bez výhrad pravdu. To ale nemění nic na tom, že jediný způsob, jak najít loď a přežít ve zdraví, stojí na disciplíně, cílevědomosti, a tam kde to jde, na slušném sestřihu.
+
+LISTER: (Vrtí hlavou) Já jdu zpátky do postele.
+
+RIMMER: Ubylo by vás, kdybyste měli můj sestřih?
+
+KOCOUR: Něco takovýho už mám. Jenomže ne na hlavě.
+
+RIMMER: Posměch už mě nemůže nijak zaskočit. Ale třeba mi vysvětlíte, proč všechny zásadní bitvy v historii vyhrála strana s nejkratšími vlasy.
+
+KRYTON: Ale to jistě ne!
+
+RIMMER: Tak jak to, že americká kavalerie porazila Indiány? Krátký sestřih versus hippísácké kadeře. Kavaleristé proti puritánům - 1:0 pro mamlasy. Vietnam - ježek na obou stranách ... takže remíza.
+
+KRYTON: (Kroutí zoufale hlavou) Tohle je otázka pro vynikající psychiatry.
+
+KOCOUR: Koukni na monitor. Cítím něco v nosní dírce a jde to sem pěkně zvostra.
+
+KRYTON: Žádný detektor nic neukazuje. Nerad bych se dotknul vašich čichových orgánů, ale myslím, že by bylo na místě nové měření.
+
+KOCOUR: Říkám ti, že se mi chlupy v nose třesou rychlejc, než tráva na sukni havajské přebornice v hula-hop. Něco se tam děje.
+
+KRYTON: Detektory negativní.
+
+RIMMER: To stačí. Vyhlašuji direktivu 68250.
+
+KRYTON: 68250? Ale to je vyloučeno. Ledaže máte jedno živé kuře a rabína.
+
+RIMMER: Tak promiň. Promiň, že vůbec dýchám.
+
+KRYTON: Já ten rituál opravdu rád provedu, ale velice težko se mi hledá souvislost mezi detektory a obětováním drůbeže.
+
+LISTER: Moment, něco tady mám. Energetická vlna na levoboku.
+
+KRYTON: Je to tak. Jde o nějakou loď. Právě se odmaskovala.
+
+LISTER: Je šíleně blízko. Budeme sebou házet jako kapka potu mezi půlkama cvičitelky aerobiku.
+
+KRYTON: Pozor, už je to tady!
+
+Kosmik se otřese pod nějakou nárazovou vlnou.
+
+RIMMER: Nahlaste škody!
+
+KOCOUR: Jen povrchní. Navicomp se zhroutil, palivová trubka nakřáplá... a v pilotových sluchátkách je bůhvíproč slyšet nějaký country!
+
+KRYTON: Druhá vlna, přátelé!
+
+Vesmír
+
+Vnější pohled na Kosmik ukazuje nějaký vířivý stříbrný disk, proletí těsně kolem do popředí a pak se vrací zpátky.
+
+Kokpit Kosmiku
+
+KRYTON: Sakra, co si myslí, manévrovat takhle blízko. (Křikne směrem k oknu) Ty prase jedno!
+
+RIMMER: Jéžiš, to jsou pořádkové síly vesmírné flotily.
+
+KOCOUR: Eh, cože?
+
+LISTER: Chlupatý!
+
+KRYTON: Počítačem řízená policejní sonda. Právě nás snímá.
+
+KOCOUR: Na příjmu.
+
+HLAS SONDY: Majetek její zcizili a flotily vesmírné lodí několik vyrabovali jste, že toho z obviněni jste.
+
+KRYTON: Asi je něco s dekodérem hlasové jednotky. Dává to asi takový smysl jako manuál k japonskému videu.
+
+HLAS SONDY: Obhájíte se jak?
+
+RIMMER: Je to pozpátku: Jak se obhájíte?
+
+KOCOUR: A proč se máme hájit?
+
+KRYTON: Jsme obviněni z toho, že jsme rabovali na lodích flotily.
+
+LISTER: Ale my žádný lodě nerabujeme. Nabouráme se tam a štípneme, co se hodí.
+
+RIMMER: Jestli dojde k soudu, tak chci vlastního obhájce.
+
+KOCOUR: Jakej je za to trest? Pokud mám nosit mundúry se šipkama, tak se radši zabiju sám.
+
+KRYTON: Kdepak, pane. Dají vám mundúry s křídly a svatozáří. Za to je totiž trest smrti.
+
+RIMMER: Takhle drsný!?
+
+KRYTON: To je zákon divočiny. Jsme něco jako vesmírní zloději koní. Jedině přísné tresty zajistí pořádek. Nečekejte žádné slitování.
+
+RIMMER: Co budem dělat?
+
+KRYTON: Přiznejme si to. Jsme asi tak nevinní jako šlapky před penzí.
+
+LISTER: Jo, ale jestli to přiznáme, tak je s náma konec.
+
+RIMMER: Co navrhuješ?
+
+KRYTON: Nó, nejlepší bude, když to všechno vezmu na sebe. Vy řeknete, že jsem vás zajal a pod hrozbou smrti nutil páchat zvrhlosti.
+
+RIMMER: Ale proboha, tohle ti nemůžeme dovolit!
+
+KRYTON: Vážně?
+
+RIMMER: To je tvůj sen, plechoune. Jako hrdina vstoupit do záře reflektorů.
+
+HLAS SONDY: Minutu jednu máte.
+
+LISTER: Nemáme na vybranou. Bereme roha. (Ke KOCOUROVI) Nastavte kurs na Zmizíkov.
+
+KRYTON: Pane, jejich sonda třídy A nás hladce dohoní.
+
+LISTER: Krytone, nás hladce dohoní i štafeta eastbourneskejch důchodců. Tady jde víc o mozek, vtip a mazanost.
+
+KRYTON: Toho jsem se právě obával, pane.
+
+LISTER: Koukněte na monitory. Jsme u gelfský zóny. Tam za náma nepoletěj ani za milion let.
+
+RIMMER: Ne, protože Gelfové jsou mrchožrouti, kteří kašlou na život, zákon i majetek.
+
+LISTER: Takže tam jsme v suchu.
+
+RIMMER: (S nevěřícným výrazem) Ty snad neznáš ty historky? Stahujou lidi zaživa z kůže a dělají z nich taburetky. To chceš, aby na tobě seděl Gelf se třemi zadky až do konce věčnosti a šťoural se ti ve střevech, jestli mu tam nezapadla vidlička nebo tužka?
+
+KRYTON: Je to ta méně špatná varianta. Při absenci rozumného plánu se držme návrhu pana Listera.
+
+HLAS SONDY: Sekund dvacet za střílet začnu neodpovíte jestli.
+
+LISTER: Volně přeloženo: Šlápni na to.
+
+KOCOUR: To mi nemusíš říkat dvakrát. (V klidu si kvedlá kormidlem)
+
+LISTER: Krucifix, šlápni na to!
+
+KOCOUR: Omlouvám se. (Pořádně zabere) Zřejmě mi to musíš říkat dvakrát.
+
+Vesmír
+
+Kosmik nabírá rychlost a vzdaluje se od sondy.
+
+HLAS SONDY: Střílet začnu nebo stát!
+
+ 
+
+Kokpit Kosmiku
+
+LISTER: V tom případě ... Kostrou hejbnout muset budem!
+
+RIMMER: (Ke KRYTONOVI) Nastavit štíty.
+
+KRYTON: Nastaveny.
+
+LISTER: Gelfská zóna, 6 kliků.
+
+KRYTON: Zbraňový systém odjištěn. Raketa vypuštěna.
+
+RIMMER: Zásah za 10 sekund.
+
+KOCOUR: Nezbude z nás ani mastnej flek.
+
+LISTER: Odpaluju rušiče zaměření.
+
+KRYTON: Teď přijde úder.
+
+ 
+
+Vesmír
+
+Vypálená střela přelétne přes obrazovku a mine Kosmika.
+
+ 
+
+Kokpit
+
+RIMMER: (Vítězoslavně) Netrefil se!
+
+LISTER: To byl jenom varovnej výstřel.
+
+KRYTON: Příště už nás šetřit nebude.
+
+LISTER: 4 kliky do gelfský zóny.
+
+KRYTON: Další raketa. Tentokrát už nebude varovná.
+
+RIMMER: Další pulzní střela.
+
+LISTER: Rušiče odpáleny.
+
+RIMMER: To nebude stačit, zásah za 6 sekund.
+
+KOCOUR: Zkusím ho setřást. (Divoce kormidluje, až to se všemi hází)
+
+ 
+
+Vesmír
+
+Kosmik se kolébá ze strany na stranu ve snaze uniknout střele, což se povede a střela Kosmik podletí. Potom změní směr doleva, čímž uniknou dalšímu výstřelu.
+
+Kokpit
+
+RIMMER: (S úlevou) Už je pryč!
+
+Následuje velký výbuch v Kosmiku.
+
+RIMMER: Pardon. Díval jsem se na jiný monitor.
+
+Vesmír
+
+Kosmik je pohlcen plameny, nejvíce u přední části.
+
+Kokpit
+
+Ztracený v kouři, LISTER zkouší uhasit oheň hasicím přístrojem.
+
+RIMMER: Nahlaste škody!
+
+KOCOUR: Je to špatný. Zdá se, že to Kosmik schytal.
+
+RIMMER: Podrobnosti, ty rybožroute!
+
+KOCOUR: No, podle monitoru škod je pár drobných požárů v kabině, spousta kouře a navicomp je v plamenech.
+
+Jedna z konzolí před KOCOUREM exploduje.
+
+KOCOUR: Á, doprčic, teď vybouchnul i monitor škod.
+
+KRYTON: Další raketa!
+
+LISTER: Tahle nás má dorazit.
+
+RIMMER: Jak jsme daleko od cíle?
+
+LISTER: Klik a půl.
+
+KRYTON: Přišli jsme o tři nádrže. Sotva udržíme stabilitu.
+
+KOCOUR: Moment. Něco tu slyším.
+
+LISTER: Mám to. Dávám to na monitor.
+
+Jedna z obrazovek ukazuje asteroid ve tvaru obrovské lebky.
+
+RIMMER: Podívejte se na ty rozměry. Napříč to bude aspoň míle.
+
+KRYTON: To je gelfská ikona vytesaná do skály. Něco jako varovný maják.
+
+LISTER: Jo, mám tady sdělení.
+
+HLAS: Kharna sech y nich! Kchavdla bmoldáá!!!
+
+KRYTON: Dám to do překladače.
+
+HLAS PŘEKLADAČE: Tohle je gelfský prostor! Smrt cizincům!!!
+
+RIMMER: Pulzní raketa vypuštěna. Zásah za 12 sekund.
+
+LISTER: (Zaměří se na lebku na monitoru) Kocoure, leť do očního důlku.
+
+KOCOUR: Do očního důlku?
+
+RIMMER: Tím se nedá proletět.
+
+LISTER: Tak dělej!
+
+RIMMER: 8 sekund.
+
+ 
+
+Vesmír
+
+Kamera se zaměří na asteroid.
+
+Kokpit
+
+KOCOUR: Míříme rovnou do skály!
+
+RIMMER: 3 sekundy... 2... 1!
+
+Vesmír
+
+Ve chvíli, kdy Kosmik vlétá do očního důlku, narazí do asteroidu střela a úplně ho zničí. Kosmik se dostane na druhou stranu vybuchující skály, ale hoří ještě víc než předtím.
+
+Kokpit
+
+Všude plno kouře.
+
+KOCOUR: Zbylo jen 20 %  navigačních systémů.
+
+RIMMER: Čidla ukazují 53 různých požárů.
+
+KRYTON: V celé strojovně jsou hasicí systémy mimo provoz.
+
+RIMMER: Jakmile se oheň dostane k nádržím, je s námi konec.
+
+LISTER: Počkejte, gelfskej měsíc ve směru 356 na 12. Je tam oceán. (Otočí se na KOCOURA) Dostaneš nás tam?
+
+KOCOUR: Jsem snad myší vocas? Jasně že jo.
+
+Gelfský měsíc
+
+Hořící Kosmik se zřítí do velkého jezera. Plameny zhasínají.
+
+ 
+
+Střední sekce Kosmiku
+
+Vstupuje RIMMER s velkou bednou a položí ji na hromadu jiných, u kterých postávají KRYTON s KOCOUREM.
+
+RIMMER: Víc nemáme. Veškerý majetek, naše cennosti. Voda, oheň a výbuchy nás připravily skoro o všechno.
+
+RIMMER odchází do kokpitu.
+
+KRYTON: (Zvedne LISTEROVU kytaru) No, aspoň kytara pana Listera zůstala ušetřena.
+
+KOCOUR vezme kytaru, zlomí ji o bednu a pak jí vrátí KRYTONOVI.
+
+KRYTON: Ani kytara pana Listera nezůstala ušetřena.
+
+Přichází LISTER, oblečený v dlouhé gumové zástěře.
+
+LISTER: Tam dole je vody po pás, ale pumpy se mi podařilo spravit. Za tři hodiny je to suchý.
+
+RIMMER se vrací.
+
+RIMMER: Navigační i startovací motory a pohon opraví automatika. Neopraví ale generátor kyslíku, který je totálně kaput.
+
+LISTER: Takže, i když vzlítneme, nebudeme moct dejchat.
+
+KOCOUR: Nespravíme ho sami?
+
+RIMMER: Je z něj černý škvarek horší než Listerovy smaženky.
+
+LISTER: Tak zbejvá jediný: udělat výměnnej obchod s Gelfama.
+
+RIMMER: Listere, ty ses snad zbláznil.
+
+KRYTON: (K RIMMEROVI) Pane, je to naše jediná možnost.
+
+Gelfský měsíc
+
+Kosmik je napůl ponořen ve vodě. Odpoutá se od něj malý člun a zamíří ke břehu.
+
+Pobřeží jezera, noc
+
+LISTER je v čele posádky, která si prosekává cestu skrz vysokou trávu a rákosí. On a KOCOUR nesou jednu bednu. Najednou odněkud přilétne šíp a zasáhne bednu. Zastaví se a KRYTON vytáhne šíp, aby si ho prohlédl.
+
+KOCOUR: Dej sem ten šíp! (Vezme si ho) Může nám říct spoustu věcí o tom, s kým tady máme tu čest. (Prohlíží šíp ze všech stran a očichává ho)
+
+LISTER: Tak co?
+
+KOCOUR: Jasně! Určitě ho vypálili z luku ... Lituju, čekal jsem, že toho zjistím mnohem víc.
+
+KRYTON: (Bere znovu šíp) Jak jsem předpokládal, jedná se o Kinitawie. Ale, studoval jsem jejich dialekt a patří k těm milejším Kinatechechchr, tedy kmenům.
+
+LISTER: (Ukáže na šíp) Fakt milej pozdrav!
+
+KRYTON: Kdepak, pane. To je velká kchchráno, neboli čest, být takto přivítán. Kdyby proti nám něco měli, zabili by nás hned po přistání. To je dobré znamení.
+
+RIMMER: Cože? To je dobré znamení, že nás nezabili?
+
+KRYTON: Přesně tak, pane. To, že vás Kinitawiové nestáhnou z kůže, hned jak vás uvidí, je jedno z jejich nejvřelejších přivítání. Máme tedy chrchhchrhh, čili štěstí.
+
+RIMMER: A, Krytone, ty jsi úplný chachumbábův, čili vykuk v plechovém rouše.
+
+Za zvuku neznámých bubnů přejdou lávku, která je dovede k vesnici malých, z bláta postavených, chýší. Je osvětlena mnoha pochodněmi a stojí tam několik postav v dlouhých tmavých pláštích s kapucemi, které jim zakrývají tváře.
+
+KRYTON: Řeknu, že jsme obchodníci a sháníme lodní součástku a že nabízíme spoustu pokladů. (Obrací se ke GELFŮM) Kinatiwíí, nech nichi chytán. Chanua nachut wachů!
+
+Jedno ze stvoření vyleze z chýše. Má rozepjatý plášť a staženou kapuci, vypadá jako ošklivá verze Yettiho.
+
+GELF: Yugrechr egoy negáhhchr.
+
+LISTER: (Otevírá bednu) Hele, podívej se, co máme. Nádherný věci. Švýcarský hodinky - jsou bezvadný! A prima lewisky! (Přidrží je GELFOVI u těla) Fešák! A čepice! Koukni na ní.(Nasadí baseballovou čapku na GELFOVU hlavu) Ta je, co? Sekne ti. A doutník. (Strčí mu doutník do pusy) Jo, seš frajer, vážně!
+
+KRYTON: (Šeptá LISTEROVI do ucha) Doporučuji vám opatrnost. Někteří Gelfové mají své svěračové otvory v obličeji. (LISTER se zašklebí) Doufám, že jste ho neurazil. (Střih na GELFA, který, jak se zdá, má z doutníku radost) Ne, vypadá spokojeně.
+
+LISTER: Potřebujeme generátor kyslíku, kapišto?
+
+KRYTON: Oxichum bachů makwanhá!
+
+GELF: (Kývá jim, aby ho následovali) Aá, gajegenchr gaha. Ghajech gaha.
+
+LISTER: Kocoure, drapni tu bednu.
+
+Gelfská chýše
+
+Všichni jsou stěsnáni na malém prostoru. Upřostřed chatrče hoří oheň. Posádka sedí na jedné straně a GELFOVÉ na druhé. GELFSKÝ NÁČELNÍK, který mluví s jedním z ostatních GELFŮ, má v ruce podivné stvoření. Moc se neliší od stvůry z „Vetřelců“, jenom je mnohem menší. GELF ho právě krmí.
+
+GELF: Aahha gaha nich. Kan toch chat ha.
+
+KRYTON: Vyvíjí se to dobře.
+
+KOCOUR: Co je tohle? (Ukazuje na podiného živočicha, kterého GELF hladí)
+
+KRYTON: To je emocuc, pane. Ochočený polymorf, který je při narození vykleštěn. Je cvičený k tomu, aby měnil svoji barvu i tvar (Emocuc se změní v králíka...) podle rozkazu svého majitele. (...stane se z něj stolní lampa...) Je to emocionální pijavice, má schopnost (...a promění se zpátky v emocuce) vysávat emoce z živých bytostí. Emoce jsou vysoce ceněnou komoditou.
+
+Dva GELFOVÉ nesou generátor kyslíku.
+
+LISTER: Á, generátor kyslíku.
+
+KRYTON: Teď nám asi navrhnou cenu.
+
+RIMMER: Já myslel, že cenu jsme určili my těmi tretkami.
+
+KRYTON: Kdepak, to bylo jenom za tu čest, že nás pustili do uautunga, tedy chýše. Vlastní obchod začíná teď.
+
+GELF: (Poklepe na generátor) Ha kha nikih khanopech khe. (Gestikuluje směrem k LISTEROVI)
+KRYTON: (Hlubokým zhrozeným hlasem) Jejda!
+
+LISTER: Co je? (Sáhne si na svou čepici) Chce čepici?
+
+GELF: Pha nikih khanope hech. (Znovu ukazuje na generátor a na LISTERA)
+
+LISTER: Moji bundu? (Sáhne na bundu) Chce moji bundu!
+
+KRYTON: Ne, pane, Vaši bundu nechce.
+
+LISTER: Snad nechce moje gatě?
+
+KRYTON: Ani Vaše gatě, pane.
+
+LISTER: Tak co teda?
+
+GELF: Áh hno po ha na kha kah.
+
+LISTER: (Konečně mu to došlo) Mě?! (Ke KRYTONOVI) Chce mě!?
+
+KRYTON: Ano, pane. Říká, že výměnou za kyslíkový generátor chce Vás jako ženicha pro svou dceru.
+Záběr na hnusnou GELFKU s roztouženým pohledem v očích.
+
+LISTER: Tohle je jeho dcera?
+
+KRYTON: Jedna ze tří. Tahle je ze všech nejhezčí.
+
+Znovu pohled na GELFKU, která je velice ohyzdná a vousatá.
+
+LISTER: Řekni mu, že ne, i kdyby byla posledním dvojníkem Yettiho a já jedinej kluk.
+
+RIMMER: No tak, už jsi chodil s horšíma.
+
+LISTER: (Přikyvuje) To jenom kvůli špatnýmu osvětlení na dýze.
+
+GELF: Khana bech nich. (Ukazuje na LISTERA) Okichum nich, haa! (Ukazuje na generátor)
+
+KRYTON: Když žádná svatba, žádný kyslíkový generátor.
+
+GELFOVÉ odcházejí.
+
+GELF: (Před odchodem) Kinká chanokach nich chach.
+
+KRYTON: Ano. Dává nám 5 chanokach na rozmyšlenou.
+
+RIMMER: Kolik je jeden chanokach?
+
+KRYTON: Kupodivu je stejně dlouhý jako jedna pozemská minuta.
+
+KOCOUR: 5 chanokach?! To nám zbývá jen 28 hodin.
+
+LISTER: Hele, tak teď už dost srandy a jdeme se bavit smrtelně vážně. Ani omylem nepůjdu k těm chlupáčům kvůli někomu, kdo je přitažlivej míň než moje podpaží po turnaji v ping-pongu.
+
+RIMMER: Ale co my? Přece nás nenecháš na holičkách jenom proto, že ti, bůhvíproč, hned nepadla do oka. Měl by ses obětovat, potlačit své pudy a dát přednost kamarádům.
+
+LISTER: Rimmere, nám by to neklapalo. Zcela zjevně je ve znamení berana a já taky. S tím se rozluč!
+
+KRYTON: Pane, jsou velmi hrdí a své rozhodnutí nezmění. A pokud tu nechcete zůstat a vzít si Kchachachach ach hachhachah...
+
+LISTER: Tak se jmenuje? Nemůžu žít s někým, jehož jméno zní jako když fotbalista loví chrchle!
+KOCOUR: Plán je jasný. Uděláme obchod, ty absolvuješ svatbu, a až všichni usnou, tak se pro tebe vrátíme. Co ty na to?
+
+LISTER: Tak to teda ani náhodou!
+
+Venku před chýšemi
+
+GELFSKÝ NÁČELNÍK řídí svatební obřad. Kamera sleduje střídavě LISTERA a jeho nevěstu. GELFKA drží kytici a na vlasech má závoj. LISTER má květinový věnec okolo čepice.
+
+GELF: Kaná haka. Kaná hoka. Oach?
+
+LISTER: Ano.
+
+GELF: Kanách kchladnach. (Sepne ruce) Kchannách.
+
+LISTER: (Ke KRYTONOVI) Co říká?
+
+KRYTON: Můžete políbit nevěstu, pane.
+
+LISTER: (Otočí se ke své nevěstě) Bez pytle přes hlavu?
+
+Nevěsta ho vášnivě obejme. Než stihne LISTERA zadusit, KRYTON zasype „šťastný pár“ hrstí konfet. GELFKA odhodí svou svatební kytici přímo do RIMMEROVY náruče. Zrovna tak ošklivá, jiná GELFKA, se na něj usměje a svůdně mu zamává. Vyděšený RIMMER honem vrazí puget do ruky KOCOUROVI. LISTEROVA žena si přehodí manžela přes rameno a zatímco si ho odnáší do své uautunga, LISTER zoufale volá na ostatní.
+
+LISTER: A je to. A kluci, nazapomeňte na mě a stavte se někdy! Kdykoliv!! Kdykoliv!!
+
+KRYTON: (Ke GELFOVI) Chanadech yech, oxichum yech!
+
+Vzájemně se uklánějí, ale nepotřesou si rukama, místo toho se předkloní, zvednou nohu tomu druhému a několikrát v této pozici poskočí. KRYTON, RIMMER a KOCOUR pak odcházejí s generátorem kyslíku a ještě několikrát se zdvořile ukloní.
+
+Líbánková chýše
+
+Nevěsta přináší LISTERA. Hodí si ho na postel a skloní se nad ním.
+
+LISTER: (Nervózně) Miláčku! To byl ale den. Jsem grogy. Já to asi rovnou zalomím.
+
+Chce se přikrýt, ale nevěsta ho nenechá.
+
+GELFKA: Chenonen nich chachekchh. (Hladí ho po tváři)
+
+LISTER: Až ráno, jo? Dobrou noc. (Schovává se pod houni)
+
+GELFKA mu přikrývku vezme a odhodí.
+
+LISTER: Ty ses na to těšila, viď? Nenecháš se jen tak odbejt.
+
+GELF: Nak.
+
+LISTER: Tak dobře, dej mi jenom minutku. Vklouznu do něčeho pohodlnějšího... říká se tomu Kosmik.
+
+LISTER vstane a skočí ke dveřím.
+
+Gelfská vesnice, noc
+
+KRYTON, RIMMER a KOCOUR právě opouštějí vesnici. Najednou se v pozadí objeví sprintující LISTER.
+
+LISTER: ZMĚNA PLÁNU!!! (Přežene se tryskem kolem ostatních) MIZÍME!!
+
+Všichni se dají do běhu a nechávají vesnici za sebou. LISTEROVA manželka vyjde z chýše a s pláčem se vrhne ke svému otci.
+
+GELFKA: Hach nichun chache!
+
+GELF: Chanimóche hakech nichitawi. Sinouá kchej likha! (Ke svému emocucovi) Nemanáei lika. Tinauaná é lika!!!
+
+Vypustí ho směrem k trpaslíkovcům. Ten se změní v holubici a blíží se k posádce.
+
+ 
+
+Les, noc
+
+Posádka běží lesem.
+
+KOCOUR: Počkat! Něco sem letí.
+
+KRYTON: Ách, to je emocuc!
+
+Pištivý a plácavý zvuk najednou umlkne. Všichni se pátravě rozhlížejí kolem. KOCOUR popadne velký klacek.
+
+LISTER: Co je? Kde je teď?
+
+KRYTON: Musel se proměnit v něco jiného. Doporučuji, abychom postupovali nesmírně obezřetně.
+
+Jdou opatrně dál.
+
+KOCOUR: Je někde blízko. Cítím ho. (Stále svírá klacek) JE TO TEN KLACEK!!!!! Ááááá! (Klacek zůstává klackem) Ježišmarjá, já sem tak vynervovanej. Myslel jsem, že je to ten klacek. (Skloní klacek a ten se změní v emocuce) JE TO TEN KLACEK!!!!!
+
+Všichni zpanikaří a KOCOUR odhodí klacek/emocuce pryč. LISTEROVI přitom spadne čepice.
+
+RIMMER: Kde je teď?
+
+KRYTON: Zmizel někam do křoví.
+
+LISTER se shýbne pro čepici a nasadí si ji. Pokračují dál a LISTER si nevšimne, že šlape na svou čepici, která stále leží tam, kam předtím upadla!
+
+LISTER: Kocoure, dyť víš, jaký jsou. Dávej bacha a na nic nešahej. (Pro sebe) To je trapas, nechat se takhle oblafnout.
+
+LISTEROVA „čepice“ se znovu změní na emocuce, který trůní vysoko na LISTEROVĚ hlavě. Nikdo to nezpozoruje, protože LISTER je vzadu.
+
+LISTER: Musíš se soustředit na sto procent!
+
+KOCOUR: Jo, jo, jo.
+
+ 
+
+Kosmik - střední sekce
+
+Posádka vchází dovnitř. KRYTON nese generátor, RIMMER s KOCOUREM vypuštěný gumový člun. LISTER, který jde poslední, zajistí vstupní dveře.
+
+LISTER: (Odloží svou čepici na hromadu beden) A jsme v suchu. Sem se ten neřád nedostane. (Obrátí se na KOCOURA) A stačilo se jenom trochu soustředit.
+
+RIMMER: Kdy budem moct startovat? Nečekal bych na Listerovy příbuzné, až si sem přijdou pro svatební dar.
+
+KRYTON: Potrvá asi hodinu, než se podaří generátor zprovoznit. Ale navrhuji, abychom odstartovali okamžitě a jeli na pohotovostní rezervu.
+
+RIMMER: Co když nebude fungovat?
+
+KRYTON: Tak se nám pan Lister s Kocourem udusí.
+
+RIMMER: Ten plán nemá chybu.
+
+Oba odejdou do kokpitu. Emocuc se transformuje ve slepici a odletí do jiné části lodě.
+
+Gelfský měsíc
+
+Vnější pohled na Kosmika, který opouští povrch planety.
+
+ 
+
+Kokpit Kosmika
+
+LISTER: Tak a jdem na ten generátor. Kryťáku!
+
+KRYTON: Samozřejmě.
+
+Opouštějí kokpit.
+
+KOCOUR: Já z toho puchu snad zešílím. Musím si umýt ruce. Přepnu na automat. (Přehodí nějakou páčku a odejde)
+
+Střední sekce
+
+LISTER a KRYTON právě odcházejí, pravděpodobně do strojovny, s kyslíkovým generátorem, když vstupuje KOCOUR. Zastaví se a větří, s výrazem znechucení ve tváři. Začne hledat zdroj zápachu.
+
+Kuchyňka
+
+Emocuc, který byl doposud slepicí, se změní v otevřenou plechovku fazolí. Dovnitř vleze po čtyřech KOCOUR, který čenichá okolo stolu, až najde plechovku. Popadne ji a zírá dovnitř. Najednou se fazole začnou hýbat a než se vzpamatuje, vystřelí chapadlo, které se mu přisaje na čelo. KOCOUR klesne k zemi a zmizí z dohledu. Několik fazolí je rozsypáno po stole, pak se celá plechovka přetransformuje v žábu a vyskočí nahoru. Ve vzduchu se ze žáby stane papírová vlaštovka,...
+
+Kokpit
+
+...která vlétne do kokpitu a přistane na konzoli vedle RIMMERA. Otrávený RIMMER ji zmačká do kuličky a odhodí na zem.
+
+Kuchyňka
+
+KOCOUR není vidět, je stále pod stolem, ale je slyšet jeho hlas.
+
+KOCOUR: Ukrad` mi moji eleganci. Vycucal ze mě můj šarm.
+
+Opře se rukama o desku stolu. Chvíli je vidět jen ofina, potom se objevuje nos a výrazný předkus, pomalu se souká nahoru. Z KOCOURA je teď...DUANE Dibbley.
+
+DUANE: Musím se vidět. (Snaží se otevřít kredenc, ale praští se dvířky do čela) Au! Syčák! Ztratil jsem grácii, svůj elán a balanc. (Otevře jiná dvířka a všechno nádobí se s rámusem vysype na zem) Koho to ze mě udělal?
+
+Popadne jeden kastrol a podívá se do něj jako do zrcadla. Zírá na sebe s hrůzou.
+
+DUANE: (Nejdřív potichu) Duanea Dibbleyho? (Zoufalý výkřik) DUANEA DIBBLEYHO!! Áááááááá!!!!!
+
+Střední sekce
+
+RIMMER: (Vynoří se z kokpitu) Co se děje? Co je to za hluk?
+
+DUANE: (Vstupuje) Podívej, co mi provedl. Je ze mě Duane Dibbley - největší trdlo pod sluncem.
+
+RIMMER: Bože můj, kde je!?
+
+DUANE: Utekl, ale je někde tady.
+
+RIMMER: Cítíš ho ještě?
+
+DUANE: Jediné, co cítím, je silný krém proti akné a neúčinný šampón proti lupům. (Otírá si ramena)
+
+RIMMER: Může být kdekoliv. Může to být cokoliv. Ničemu se nedá věřit. (Popadne pistoli ležící na jedné z beden) Tebe přechytračil, ale na to, aby přelstil Arnie Jaye by musel spolykat pěkná kvanta vtipné kaše. (Obchází místnost a drží zbraň v pohotovosti)
+
+DUANE: To je nová pistole? Ještě jsem jí tady neviděl.
+
+RIMMER: Pistole! Pistole je emocuc! (Hodí zbraň do odpadu a spláchne ji) Ufff, tedy to bylo o chlup.
+
+DUANE: Snad máš pravdu, protože jinak jsme spláchli naši jedinou zbraň.
+
+RIMMER: Jakékoli myšlenky nech na mně, pizizubko.
+
+Kokpit
+
+RIMMER vstoupí a ťukne do knoflíku na komunikačním panelu.
+
+RIMMER: (Mluví do mikrofonu) Listere, Krytone, Kocour měl pravdu. Na palubu se vloudil emocuc, ale máte štěstí, že váš starý dobrý tvrďoch ho vyřídil ... To je zvláštní? Co je s tím mikrofonem? (Zmáčkne pár dalších knoflíků) Že by nefungoval?
+
+Z mikrofonu se vymrští chapadlo a přisaje se na RIMMEROVO čelo. RIMMER klesá a mizí ze záběru.
+
+ 
+
+Střední sekce
+
+DUANE: Rimmere, není ti nic?
+
+RIMMER: (Hlas z kokpitu) Cucá ze mě zahořklost. Krade mi moje škarohlídství. Vysává mi veškerou jedovatost.
+
+Emocuc se z kokpitu plíží jako barevná umělohmotná pružina - dětská hračka Slinky - překoná schody a změní se v auto na ovládání, které přejede přes místnost k dalším schodům, kde se z něj stane zase hračka, převalí se přes schody a zmizí z dohledu.
+
+DUANE: Už je zas fuč, můžeš vylézt ven.
+
+Z kokpitu se vynoří... ESO Rimmer!
+
+ESO: Tak co, brachu, to smrádě nás trochu poškádlilo, viď? Musíme ho najít, než udělá něco Kryťovi a Daveovi. Pro nás to asi ... znamená smrt, ale co by člověk neudělal pro přátele, co?
+
+DUANE: To je frajer. Ale počkej. Než vyrazíme, tak se musím převlíknout. Jestli si na sebe nevezmu kalhoty do zvonu a průsvitné umělohotné sandály, tak se asi zblázním.
+
+ESO: Vezmi si, co potřebuješ. Já jim řeknu, že bude mejdan.
+
+DUANE: Úúúúúú!
+
+Strojovna Kosmiku
+
+LISTER a KRYTON instalují kyslíkový generátor. Ozve se tlumené klapnutí.
+
+LISTER: Co to bylo?
+
+KRYTON: Hydraulická uzávěra. Jsme v pasti.
+
+LISTER: (Zkouší otevřít dveře) Nereaguje to!
+
+Na obrazovce se objeví ESOVA tvář.
+
+ESO: Zavřel jsem vás ve strojovně. Bohužel mě a Kocoura ten emocuc štípnul.
+
+LISTER: Emocuc je tady?
+
+ESO: Sebral mi jedovatost a Kocourovi šmrnc. Má děsnou ránu. Vypadá tak ujetě, že by se ho lekli i na konferenci o science-fiction.
+
+KRYTON: A emocuc tu stále pobíhá?
+
+ESO: Zatím ho tu držíme v šachu.
+
+LISTER: Tak nás tam pusť! Tohle sám nezvládneš.
+
+ESO: Když je nějaká mela, tak jsem v ní radši sám. A ty jsi poslední žijící člověk, hochu. A jsi moc vzácný na to, abychom mohli riskovat. Abych zajistil výhru domácímu týmu, otevřu přetlakovku a šoupnu to smrádě do vesmíru.
+
+KRYTON: Áále, to by zabilo vás i Kocoura!
+
+ESO: Nebude trpět, Kryťáku. Trhnu mu vaz, když se nebude koukat. Vůbec nic neucítí. Věř mi, takhle by si to přál.
+
+KRYTON: Ale pane, můžem tu zrůdu chytit, vyextrahovat z ní řetězce DNA, dát je potom vám a vrátit vás do původního stavu.
+
+ESO: Příliš velký risk. Tak jako tak, bych asi nezvládnul … být zase „on“. Všechno má svý hranice. Nachystejte mi uzenáče, na snídani jsem zpátky.
+
+Obrazovka ztmavne.
+
+LISTER: To je frajer.
+
+KRYTON: Ale pane, jsou teď nebezpeční i sami sobě. Jejich uvažování je pokřivené. Z Kocoura je úplný pošuk a pan Rimmer je … hrozně ... milý!
+
+LISTER: Vem ten bazukoid. Musíme se vybourat ven.
+
+Střední sekce
+
+Přichází DUANE, oblečený do nemoderních hadrů a s plnou polní.
+
+ESO: Hotovo, brachu?
+
+DUANE: (Zdá se nervózní) Ještě to zkontroluju. Termoska, svačina, náplasti, drobné na telefon, kartáč na lupy, tabulka zvířecích stop a… (Zatváří se lišácky) …jeden vyztužený kondom. Člověk nikdy neví!
+
+ESO: Tak, chlape, běž do kabiny a rozjedem druhou etapu plánu.
+
+DUANE: Jů, co je to za plán?
+
+ESO: Jen si tam vlez. (DUANE hupsne dovnitř a za ním vejde ESO)
+
+ 
+
+Přetlaková kabina
+
+DUANE: No a, co přesně je v tom plánu?
+
+ESO: Myslím že se ti bude stát trochu líp, když budeš přede mnou.
+
+DUANE: A proč jsme zrovna tady?
+
+ESO: Jen klid, kamaráde. Chci tě poslat napřed.
+
+DUANE: To je skautský výlet?
+
+Ozve se výbuch, který zničí dveře a do místnosti vběhnou LISTER a KRYTON.
+
+ESO: Dave, ty si nedáš pokoj. Zachraňujem ti kůži a ty se sem vřítíš a strkáš hlavu rovnou na špalek.
+
+KRYTON: Pane, emocuce můžem porazit jenom společně.
+
+LISTER: Jo, jedna sprška dullinia a zmrazíme ho, ať je kdekoliv a proměněnej v cokoliv.
+
+ESO: OK, hoši. (KRYTON mu hodí bazukoid) Jdeme na to.
+
+Ve vedlejší místnosti najdou díru po emocucovi na zemi.
+
+ESO: Vypadá to, že si vylaseroval cestu do strojovny. Nejspíš hledá vás dva, pánové. Těš se!
+
+Pokračují dál.
+
+Strojovna
+
+ESO vykopne dveře do strojovny a ostatní jdou v řadě za ním. ESO a LISTER drží bazukoidy, KRYTON nese plynový přístroj a DUANE má v jedné ruce termosku a ve druhé chlebník.
+
+KRYTON: Podle psy-snímače je teď někde tady.
+
+LISTER: (Nervózně se rozhlíží) Je to ten sud! (Vypálí z bazukoidu, zničí sud, ale jinak se nic nestane) Promiňte, falešnej poplach.
+
+Postoupí trochu dopředu, stále vynervovanější.
+
+LISTER: Ten řetěz. (Zamíří na řetěz visící ze stropu) Hejbe se!!! (Vystřelí se stejným výsledkem jako předtím) Promiňte, omlouvám se.
+
+KRYTON: Pane, zachovejte klid. Tohle je klasická ukázka přepjatých, paranoidních reakcí v situaci ohrožení. Je bezpodmínečně… JE TO TA ZEĎ!!! (Několik sekund pálí do zdi bez jakéhokoli efektu) Taková ostuda. Já... já... se omlouvám.
+
+LISTER: To se fakt nedá. Jak jde najít něco, co se může proměnit v cokoliv? Jak ho můžeme vylákat?
+
+ESO: S tím si nelam hlavu, chlapče. Však na nás brzo vlítne.
+
+ESO, KRYTON a LISTER pátrají dál. DUANE jde za nimi a pobrukuje si. Najednou se zastaví a přehodí si termosku i chlebník do jedné ruky.
+
+DUANE: Ouu, upadla mi termoska.
+
+Volnou rukou sebere ze země jinou termosku. Zarazí se a chvíli těká pohledem mezi termoskami. Ostatní si ho zatím nevšímají.
+
+DUANE: Haló, pánové. Pánové, mám tady podezřelého! (Druhá termoska se změní v emocuce) Óóh, mám ho! (Na chvíli zmizí ze záběru...) Mám ho! (A znovu, jenže tentokrát drží ruční granát) Teď je z něj granát, ale já ho držím!
+
+ESO: Zahoď ho, starý brachu!
+
+DUANE: Já neumím házet. Jsem hrozný nešika.
+
+ESO: Jen do toho.
+
+ESO, LISTER a KRYTON stojí s připravenými zbraněmi. DUANE hodí granát do vzduchu a ten přistane u jeho nohy.
+
+LISTER: Vybouchne to! (Odhodí bazukoid)
+
+ESO: Tohle nech na mě, kamaráde. (Vrhne se na zem a zakryje svým tělem granát) Nachystej uzenáče, na sní... (Otřese s ním malá exploze, vyskočí a drží daleko před sebou polymorfa v jeho pravé podobě) Zmraz toho smraďocha!!!
+
+LISTER sprškou dullinia zasáhne emocuce a ESO ho odhodí na zem. Emocuc ztuhne.
+
+KRYTON: Ale pane, jak jste věděl, že Vám nezničí světelný zdroj?
+
+ESO: Nijak, Kryťáku. Jenom jsem se vás snažil chránit.
+
+Jsou na odchodu.
+
+KRYTON: Oh, měli bychom Vás zase vrátit do normálu.
+
+ESO: Bylo by možné, abych takhle zůstal dalších čtyřiadvacet hodin, než se vrátím jako ten (Odplivne) šílenej magor?
+
+KRYTON: Bude nám potěšením, pane. A vy, Kocoure, chcete zůstat v téhle podobě?
+
+DUANE: Eh, polib mi termosku! Toho dacana už mám po krk. Takhle nevím, kolik hovadin ještě... (Náhodou uvolní ventil u kanystru, sprška dullinia zasáhne ostatní a ti na místě ztuhnou) ...udělám. A jsou tuhý!
+
+Poklepá LISTEROVI, KRYTONOVI a ESOVI po hlavách.

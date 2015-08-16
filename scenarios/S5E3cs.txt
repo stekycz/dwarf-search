@@ -1,0 +1,531 @@
+Místo nehody, noc 
+Hořící trosky. KRYTON je zavalen pod nějakým harampádím. Zřetelně je poškozen, jedno oko mu visí na drátech, levá ruka je znetvořená a nejspíš má i další potíže.
+
+Krytonův pohled 
+Na obrazovce se začnou objevovat písmena a slova. 
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*-------------------------------------------------------*
+| SERVER PRO VYHLEDÁVÁNÍ OMYLŮ................ |
+| SERVER PRO VYHLEDÁVÁNÍ OMYLŮ................ |
+| SERVER PRO VYHLEDÁVÁNÍ OMYLŮ................ |
+| SERVER PRO VYHLEDÁVÁNÍ OMYLŮ................ |
+| SERVER PRO VYHLEDÁVÁNÍ OMYLŮ................ |
+| SERVER PRO VYHLEDÁVÁNÍ OMYLŮ................ |
+|                                                                                      |
+| OPRAVA NEMOŽNÁ                                                |
+*-------------------------------------------------------*
+
+CENTRÁLNÍ JEDNOTKA: Zachovej klid, Krytone. Mluví k tobě tvá centrální jednotka. Došlo k nehodě. Obě tvé nohy byly rozdrceny napadrť.
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+| ROZSAH ŠKOD:                                         |
+|                                                                      |
+| OBSAH: 72%                                               |
+| OPTICKÉ: 35%                                           |
+| AMBULANTNÍ: 100%                                |
+| PROHLEDÁVÁNÍ...................                    |
+|                                                                      |
+| STAV: SVĚTLE FIALOVÝ                         |
+*---------------------------------------------*
+
+CENTRÁLNÍ JEDNOTKA: Tvůj pohybový systém je zničený a do konce života ti momentálně zbývá zhruba 67 minut.
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*--------------------------------------------------------------------*
+| MOŽNÁ ŘEŠENÍ:                                                                          |
+|                                                                                                         |          
+| UVĚDOMIT KVALIFIKOVANÉHO MECHANIKA.                   |
+| PROVÉST TENTO POSTUP OPRAVY:                                        |
+| ROZMONTOVAT A PŘEKONFIGUROVAT,                              |
+| SEZNÁMIT SE S CENAMI ROBOTŮ SÉRIE 5000 NA TRHU    |
+| MODEL.                                                                                         |
+|                                                                                                         |
+| STAV: SVĚTLE FIALOVÝ                                                            |
+*---------------------------------------------------------------------*
+
+CENTRÁLNÍ JEDNOTKA: Pokud se objeví nové skutečnosti budeme tě informovat. Zatím si poslechni trochu hudby.
+Do KRYTONOVY hlavy zní svěží hudba. 
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+|                                                                      |
+|                                                                      |
+|                       OFFLINE                                |
+|                                                                       |         
+|                                                                       |
+*----------------------------------------------*
+CENTRÁLNÍ JEDNOTKA: Samoopravovací systémy mohou nyní obnovit zrak.
+
+Místo nehody, o něco později 
+Znovu vidíme KRYTONA, napůl zavaleného zbytky Kosmika. Tentokrát mluví do malého mikrofonu. 
+KRYTON: „Nahrávka z Krytonovy černé skříňky. Čas: neznámý. Místo: neznámé. Příčina nehody: neznámá. Doufám, že tento záznam pomůže objasnit nehodu, ke které tu došlo.“
+Zarazí se a rozhlédne kolem.
+KRYTON: Moje krátkodobá paměť byla zcela vymazána. Tuto skutečnost připisuji působení magnetických cívek ze zadního motoru Kosmiku. Za druhé, ea... následkem působení magnetických cívek byla zřejmě vymazána moje krátkodobá paměť. To v kombinaci s vymazáním mé krátkodobé paměti způsobilo dezorientaci (Zasekne se), dezorientaci, dezorientaci.
+
+Před jeho očima opět naskakuje zpráva CENTRÁLNÍ JEDNOTKY. 
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*--------------------------------------------------------------------*
+| MOŽNÁ ŘEŠENÍ:                                                                          |
+|                                                                                                         |
+| UVĚDOMIT KVALIFIKOVANÉHO MECHANIKA.                   |
+| PROVÉST TENTO POSTUP OPRAVY:                                        |
+| ROZMONTOVAT A PŘEKONFIGUROVAT,                              |
+| SEZNÁMIT SE S CENAMI ROBOTŮ SÉRIE 5000 NA TRHU    |
+| MODEL.                                                                                          |
+| PŘEDPOKLÁDANÁ ANALÝZA                                                  |
+| PALIVOVÉ NÁDRŽE EXPLODUJÍ ZA                                         |
+| 67                                                                                                    |
+| MINUT                                                                                           |
+| STAV: VYHLAZENÝ                                                                     |
+*---------------------------------------------------------------------*
+
+KRYTON:  67 minut !! Musím se odsud dostat !
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+| ROZSAH ŠKOD:                                         |
+|                                                                      |
+| OBSAH: 80%                                               |
+| OPTICKÉ: 35%                                           |
+| AMBULANTNÍ: 100%                                |
+| PROHLEDÁVÁNÍ...........                            |
+|                                                                      |
+| OPRAVNÁ - NUTNÁ                                 |
+|                                                                      |
+| STAV: ZELENÝ                                         |
+*---------------------------------------------* 
+
+CENTRÁLNÍ JEDNOTKA: Oprava nutná.
+KRYTON se pokouší odvalit ze sebe kovové trosky. Přeruší své marné snažení a zamyslí se. 
+KRYTON: Ovšem. 
+Vezme elektrickou frézu a uřízne si poškozenou levou ruku. Zatímco jí odmontovává, vesele si k tomu píská. Utrhne své klimbající oko a nasadí na prostředníček ruky. 
+KRYTON: Slyšíš mě?
+Ruka „kývne“. 
+KRYTON: Hm, prima. Tak najdi modul na vzorky rud. Poblíž místa nehody jich bude spousta. Odleť s ním na mateřskou loď a přiveď pomoc. Ano? Hodně štěstí. Tak utíkej.
+Ruka vrávoravě odběhne z jeho hrudníku a KRYTON jí zamává na rozloučenou. Z KRYTONOVA pohledu vidíme ruku, pospíchající pryč od rozbitého Kosmika. Potom se KRYTON přepne znovu do off-line - omdlí.
+
+Vesmír 
+Modul letí k Červenému trpaslíku.
+
+Koridor Červeného trpaslíka 
+Ruka se plazí koridorem.
+
+Řídící centrum Červeného trpaslíka 
+Vstupuje ospalý LISTER v županu. 
+LISTER: Jo, už jdu... O co kráčí?
+HOLLY: Máme návštěvu.
+LISTER: (Probere se) Cože?
+HOLLY: Před dvaceti minutami přiletěl modul. Něco v něm bylo, ale zmizelo to.
+LISTER: A víš, co to je?
+HOLLY: Víš, nerada bych tě plašila nebo děsila.
+LISTER: Jak to myslíš? Čeho bych se měl děsit?
+HOLLY: No, nikdy sis příliš nepotrpěl na tarantule, viď?
+LISTER: (Vyplašeně) Tarantule?
+HOLLY: Tento živočišný druh jsi nikdy neměl příliš v lásce, co?
+LISTER: To ne.
+HOLLY: A při pomyšlení, že se probudíš a zjistíš, že jedna leze po tvém vlhkém, nahém, bezmocném těle, ti vždycky běhal mráz po zádech.
+LISTER: No jasně, ale co to má znamenat?
+HOLLY: Jenom to, že nebudeš mít klidnou noc. Podívej, tohle je nejlepší snímek, jaký naše kamery pořídily.
+Vybledlý snímek pohybující se ruky, která by se dala považovat za pavouka. 
+LISTER: Kde je teď?
+HOLLY: Zmizela nám.
+LISTER: Co si myslí Kryton?
+HOLLY: Kryton lítá někde s Rimmerem. Rádiové spojení je přerušeno. Budu to zkoušet dál.
+Mezitím do řídící místnosti nepozorovaně dorazila ruka a ve chvíli, kdy chtěl LISTER vstát, začala mu lézt po noze. LISTER ztuhne na místě. Vstupuje KOCOUR. 
+KOCOUR: Co vyšiluješ? Hej, je ti něco? Vypadáš nervózně.
+LISTER: (Neschopen slova, píše na počítači) > POMOC > Něco mi leze po noze. Myslím, že to je tarantule.
+KOCOUR: Ty hraješ tu blbou dobrodružnou hru.
+LISTER: > Je to v mých trenkách. Myslím, že si to dělá hnízdečko.
+KOCOUR: Musíš si sehnat někde na lodi difusil. Mně to vždycky pomůže.
+LISTER: > Myslím to VÁŽNĚ.
+KOCOUR se podívá dolů a když zvedne hlavu, má ve tváři výraz zděšení. 
+KOCOUR: (Teď už také píše) > Má oko velký jako karbanátek.
+LISTER: > Zabij ji.
+KOCOUR: > Jak?
+LISTER: > Nemyslí mi to. V mejch slabinách si buduje domeček tarantule s okem velkým jako karbanátek. Pomoz mi.
+KOCOUR: > Mám nahnáno.
+LISTER: > TY máš nahnáno? Jak myslíš, že je mně?
+KOCOUR: > Tys ji NEVIDĚL!!
+LISTER: > Jsem od pasu dolů ochrnutej.
+KOCOUR: > To buď rád.
+LISTER: > Hejbe se to.
+KOCOUR: > Ach *#%^**!!!! 
+KRYTONOVA ruka se vyhoupne na stůl, mrkne a posune se ke klávesnici. 
+RUKA: (Píše) > Ahoj. > Kryton nebezpečí. Není čas na vysvětlování. Pojďte za mnou.
+Ruka odpochoduje. LISTER a KOCOUR si vymění udivené pohledy. 
+
+Vesmír 
+Kosmik letí vesmírem.
+
+Místo nehody 
+Opět vidíme KRYTONOVÝMA očima. LISTER se starostlivě sklání nad ním. 
+LISTER: Kryťáku, jenom klid. Já tě odsud dostanu.
+KRYTON: Moje nohy; necítím je.
+LISTER: Jo, máš je pod tou konstrukcí. Musím tě přeříznout vejpůl.
+KRYTON: Co jste říkal ?
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+| ROZSAH ŠKOD:                                         |
+| 72%                                                              |
+|                                                                      |
+|                                                                      |          
+|                                                                      |
+| STAV: ŤULPAS                                           |
+*---------------------------------------------*
+
+LISTER: Krytone, lež klidně! Pokouším se udělat čáru. Nechci, aby šla šejdrem. Chci z tebe zachovat co nejvíc.
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+| ROZSAH ŠKOD:                                         |
+| 72%                                                              |
+|                                                                      |
+|                                                                      |
+|                                                                      |
+| STAV: MĚSÍČEK                                        |                      
+*---------------------------------------------* 
+
+KRYTON pozoruje LISTERA, který se na operaci vybavil svářečkou a svářecí helmou s krytem. 
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+| ROZSAH ŠKOD:                                         |
+| 72%                                                               |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+| STAV: HELIOTROPNÍ                                |
+*----------------------------------------------*
+
+KRYTON: (Starostlivě) Pane, několik stručných poznámek. Za prvé - nejste kvalifikovaný mechanik, a proto když mě přeříznete vejpůl, zrušíte platnost mé záruky. Za druhé - nesvěřil bych Vám ani otevření sardinek, byť by byly bez víčka.
+LISTER ho praští kladivem a KRYTONŮV display zhasne. 
+
+Střední část Kosmiku 
+KOCOUROVA tvář zírá zblízka do KRYTONOVÝCH očí. 
+
+MODEL: KRYTON (C) DIVADROID
+SÉRIE: 4000 INT. 2340
+*---------------------------------------------*
+| ROZSAH ŠKOD:                                         |
+| 27%                                                              |
+|                                                                      |
+|                                                                      |                                             
+|                                                                      |
+| STAV: MANDARINKA                              |
+*---------------------------------------------*
+
+KOCOUR: Ho! Máš pravdu. Fakt není mrtvej. Dlužim ti dvacku.
+Střih na scénu viděnou z normální perspektivy: KRYTON leží na dvou bednách. LISTER vyjede zezdola mezi bednami jako autoopravář. 
+LISTER: Krytone, jak to jde?
+KRYTON: (Pohne svou nově připevněnou levou rukou) Řekl bych, že dobře.
+LISTER: No, ňáký drobnosti mi tu přebejvaj, ale to je vždycky, když si hraješ na domácího kutila.
+KRYTON: Kde je pan Rimmer?
+KOCOUR: To bys nám měl říct ty, ne?
+S pomocí LISTERA a KOCOURA se KRYTON zvedne. 
+LISTER: Co se stalo?
+KRYTON: Mám výpadky paměti. Pamatuju si, že pan Rimmer zahlédl na radaru planetu S3 a chtěl ji obsadit jménem Vesmírného sboru. Jako obvykle ten obřad spočíval ve vztyčení vlajky a zpěvu třiadvaceti slok hymny Vesmírného sboru. Najednou začala planeta soptit, což byla upřímně řečeno docela úleva.
+LISTER: Otřesy půdy?
+KRYTON: Nejen to. Celá planeta jako by měnila tvar. Teraformovala se před našimi zraky.
+LISTER: A pak?
+KRYTON: Pak se mi vybavují jen útržky. Přišla exploze a potom už jen tma. A pak si pamatuju, jak pan Rimmer křičel. Vidím jeho tvář zkřivenou strachem, bolestí, úzkostí, hrůzou, děsem - naprosto ochromenou.
+KOCOUR: To po něm někdo chtěl, aby zaplatil oběd?
+KRYTON: Něco ho ovládlo. Něco hrůzného.
+LISTER: Můžeme ho vystopovat, Holly? Můžeš zaměřit jeho majáček?
+HOLLY: Mám ho. Kilometr a půl směrem na jih.
+KRYTON: Navrhuji, abychom dál pokračovali po zemi. Spustím pásový podvozek.
+Začne rychle couvat pozadu do kokpitu. 
+KRYTON: Asi už vím, k čemu byl ten chybějící obvod, pane.
+
+Planeta 
+Kosmik na pásovém podvozku putuje planetou, právě se probíjí rozlehlým lesem. 
+
+Kokpit Kosmiku 
+KOCOUR: Tady to vypadá strašidelně. Podivné kvílení zvěře, nesnesitelný zápach, všude samé bahno. (K LISTEROVI) Je to jako tvůj koš na špínu koncem měsíce.
+LISTER: Zjistil jsi něco?
+KRYTON: Podle mého odhadu: je to psychoměsíc.
+LISTER a KOCOUR: Psychoměsíc?
+KRYTON: Hm, umělá planetka. Vyladí se na duši jedince a přizpůsobí svůj terén tak, aby byl odrazem jeho duševního stavu. Takže si změnila tvar podle vzorce podvědomí pana Rimmera.
+LISTER: Co to znamená, Krytone?
+KRYTON: Stali jsme se vetřelci v duši pana Rimmera.
+Nedaleko Kosmiku se ozývá hlasité kvílení nějakého Psa baskervillského. 
+KOCOUR: (Povzdech) To jsem si měl vzít tak dvanáctery spodky.
+LISTER: Jestli je tohle Rimmerova duše, tak co se ho zmocnilo?
+KRYTON: Všechny jeho neurózy, všichni jeho osobní démoni tady teď ožijí - zhmotní se.
+LISTER: Například?
+KRYTON: No, krajina lidské duše je jedinečná. Můžem ale potkat třeba chtíč pana Rimmera v podobě nějaké uslintané běsnící bestie.
+LISTER: Jeho zhmotnělej chtíč? (Zašklebí se) Blé.
+KRYTON: Mentální krajině jedince dominuje vždy jedna síla. Někdy může jít o ctižádost, jindy o chamtivost, závist nebo touhu potěšit. Ať už ho ovládlo cokoli, můžeme se jen modlit, aby mu to neublížilo.
+LISTER: Ale běž. Nic mu nehrozí. Vždyť Rimmer je hologram.
+KRYTON: Tady ne. Tady bude mít fyzickou podobu, dokud neodletí. A jakékoli nebezpečí bude opravdu velmi reálné.
+
+Psychoměsíc, noc 
+RIMMER oblečený do bílé řízy a s věncem kolem hlavy je přivázán ke kříži. Kříž nese podivná skupina lidí, vypadajících jako druidové s rudýma očima, v dlouhých černých pláštích.
+RIMMER: Poslyšte, nevím, kdo jste, ani co to děláte, ale upozorňuju vás, že mám právo si zavolat.
+Procesí se zastaví.
+RIMMER: Ano, věděl jsem, že vás to zastaví, že vás hrozba žaloby přiměje vzít nohy na ramena.
+RIMMER, odvázaný z kříže, je nyní kamsi vlečen za ruce. 
+RIMMER: Snažím se dost ovládat, ale vy si vážně zahráváte s ohněm.
+
+Žalář 
+RIMMER je připoutáván ke kůlu. 
+RIMMER: To je britské vyslanectví? Připomíná tohle snad britskou ambasádu? Chci vědět, kdo jste a co tady dělám. A chci to vědět hned!
+DRUID: (Vytáhne svitek a čte) V souladu s choutkami pána temnot, zlovolného vládce, přinášíme my, černé kápě, tuto oběť k ukojení vilné zvrácené choutky Velkého Úchyla.
+RIMMER: Tím se vše vysvětluje.
+Dovnitř vejdou dvě blonďaté panny, oblečené v kraťoučkých tunikách, se džbány. 
+RIMMER: Á! Chválabohu, chválabohu. Všude tu pobíhali velmi podivní muži v černých kápích s bubínky a dost nedůvěryhodnýma červenýma očima. Díky Bohu, že jste tady. Už jsem si fakt myslel, že mi hrozí nějaké nebezpečí.
+Svými dlouhými nehty rozpářou panny jeho roucho a odhodí jej na zem. Naštěstí má pod ním ještě nějaký hadr obtočený kolem beder. 
+RIMMER: Zdá se mi to nebo je tu takové vedro?
+
+Kokpit Kosmiku 
+LISTER: Co se děje ? Proč jsme zastavili ?
+KRYTON: Nelíbí se mi tahle bažina, pane. Myslím, že Kosmika neunese. Navrhuju, abychom pokračovali dál pěšky.
+LISTER: To máme vylízt ven?
+KOCOUR: Hupsnout do Rimmerovy duše?
+HOLLY: Jste skoro u něj. Nemělo by to být víc než 200, 300 metrů.
+LISTER: Pánové, tam venku je Rimmerova duše. (Popadne bazukoid a nadhodí si ho) To bude na blití.
+
+Žalář 
+Připoutaný RIMMER je pečlivě natírán olejem. 
+RIMMER: Jsem druhý technik ve Vesmírném sboru. Mám instrukce, abych vám řekl pouze jméno a číslo. Nevím, co jste zač, ani co máte za lubem, ale nic víc ze mě nedostanete. Klidně si mě natírejte olejem. Můžete svým jazykem a plnými smyslnými
+rty dráždit mé erotogenní zóny až na hranici sexuální extáze. Musím vám ale říct, že moje koule něco vydrží. (Lapá po dechu)
+Ovšem nemíním bránit vašim hrátkám, pokud trváte na erotickém nátlaku, jenž je nástrojem vašich úchylných cílů. Poslužte si. Jen bych prosil velkou pizzu s dvojitou porcí oliv, až bude po všem.
+Obě panny skončí s natíráním a odejdou na schodiště, kde visí velký gong. 
+RIMMER: (Rozladěný) Ea... kam jdete? Co to děláte? Pane Bože! Vy se chcete zdejchnout?
+PANNA: Chystáme se povolat našeho pána.
+RIMMER: Pána?
+DRUHÁ PANNA: My jsme tě pro něj jen připravily.
+RIMMER: Ten zmíněný pán - a připouštím, že možná nebudu chtít celou odpověď - proč mě chce proboha natřeného olejem? Ať už má v úmyslu cokoli, zřejmě je potřeba, abych byl kluzký a poddajný, že?
+PANNA: Své oběti má rád naolejované. Naolejované tělo vede mnohem lépe elektřinu.
+RIMMER: Hm, to není povzbudivé, ale mohlo by být hůř.
+Jedna z panen udeří do gongu. 
+
+Bažina zoufalství, noc 
+Hoši z Trpaslíka pádlují přes bublající bažinu. Kolem nich hoří bahenní plyn a zpovzdálí je pozorují ukryté Černé kápě. 
+
+Kraj Lesa ponížení, noc 
+Člun přistane na mělčině a posádka se brodí vodou. V pozadí skřehotají žáby. 
+LISTER: (Mírně znepokojen) Proč jsem souhlasil, že půjdu na procházku Rimmerovou duší, to nechápu.
+Pozastaví se u tabule s nápisem: „BAŽINA ZOUFALSTVÍ“. 
+KOCOUR: Paráda. Je to čím dál tím lepší. Jsme v Bažině zoufalství.
+LISTER: Zdá se mi to, nebo ty žáby kvákaj: „Nýmand“?
+ŽÁBY: Nýmand. Nýmand. Nýmand. Nýmand. .
+KOCOUR: Ježiš! Co je tohle? Na krku máš obrovskou krvežíznivou pijavici.
+S menší námahou ji odtrhne a ukazuje LISTEROVI. 
+KOCOUR: Má lidský obličej.
+LISTER: To je Rimmerova máma!
+KRYTON: (Který je o kus před nimi) Pánové, pojďte honem. Myslím, že jsem našel metaforu.
+LISTER: Cože?
+KRYTON: Podívejte se na ty náhrobky. (Prohlížejí si nějaký malý hřbitov)
+LISTER: (Čte)  „ZDE LEŽÍ SEBEÚCTA. ZESNULA VE VĚKU ČTYŘIADVACETI.“
+KRYTON: To jsou stránky osobnosti pana Rimmera dávno mrtvé. (Čte) „ŠTĚDROST ZEMŘELA VE VĚKU DEVÍTI LET.“ „SEBEVĚDOMÍ ODEŠLO NA VĚČNOST VE DVAADVACETI LETECH.“
+LISTER: (Čte) „ČEST, MRTVA LEČ NEZAPOMENUTA SKONALA VE DVANÁCTI.“
+KOCOUR: (Svítí baterkou na malý náhrobek) Koukejte. Tenhle je mrňavej. (Čte) „ŠARM“?
+LISTER: A heleme, ten je čerstvě vykopanej.
+KRYTON: Pro koho je ?
+Náhrobek nad prázdným hrobem je nadepsán „NADĚJE“.
+KRYTON: (Čte) „NADĚJE“. (Starostlivě)  Oh, podle všeho je pan Rimmer zřejmě v mnohem větším maléru, než kdokoli z nás čekal. Pokud ho nezachráníme dřív, než bude hrob naplněn, možná se z toho pekla nikdy nedostanem.
+
+Žalář 
+VELKÝ ÚCHYL vylézá z díry v podlaze. Můžeme ho zahlédnout jen zčásti, ale vydává hlasitý vrčivý zvuk. Podle stínu, který se rýsuje na zdi by to taky mohla být obluda z „Vetřelců“. 
+RIMMER: Jé, to jsem rád, že Vás vidím. Vy musíte být Velký Úchyl, že? Abyste byl v obraze, došlo k obrovskému úřednímu omylu. Z nějakého důvodu si mě Váš personál spletl s pannou.
+VELKÝ ÚCHYL: Nech toho mrzkého kňourání, ty plesnivý chomáčku rektálních chloupků.
+RIMMER: Promiňte, ale mám sklon trochu blábolit, když jsem nervózní.
+VELKÝ ÚCHYL vytáhne z ohně rozžhavené železo. Je to cejch ve tvaru "H". 
+RIMMER: (Nervózně) Nikdy jsem neokusil fyzické mučení. Vlastně toho jsem se vždycky bál. Ze všeho nejvíc..., abych tak řekl.
+VELKÝ ÚCHYL: Tak tady se všechny tvoje nejhorší obavy zhmotní. Do poslední.
+
+Šachta nad žalářem 
+LISTER: Určitě tady někde je. Měli bysme bejt přímo u něj.
+Vyruší je hlasité zařvání. Všichni strnou.
+KOCOUR: Ať je to cokoli, doufejme, že je po obědě.
+KRYTON: Je to přímo pod námi.
+RIMMER: (Hlas pod nimi) Kdo jste? 
+LISTER: (Najde mříž) Tady.
+Přikrčí se nad mříží, která je na stropě místnosti pod nimi. Skrz ni vidí RIMMERA, stále přivázaného ke kůlu. 
+RIMMER: (Kňourajícím hlasem) A proč jste na mě tak zlý ?
+
+Žalář
+VELKÝ ÚCHYL: Ty sám jsi mě stvořil, živils mě, pomohls mi zesílit. Jsem ta tvoje část, která tě nenávidí. Jsem tvé sebepohrdání.
+RIMMER: (Nevěřícně) Moje sebepohrdání?
+VELKÝ ÚCHYL: Není snad pravda, že pohrdáš sám sebou? Že nenávidíš vlastní neschopnost a hloupost? Že sebou opovrhuješ pro svá nesčetná selhání a zklamání? Není pravda, že necítíš nic než nejhlubší trýznivou averzi vůči těm chodícím zvratkům, kterým svět říká „Arnold Rimmer“? Není to pravda?
+RIMMER: (Během celého ÚCHYLOVA obviňování se chystá protestovat, ale nakonec jen tiše souhlasí) Je.
+
+Šachta nad žalářem 
+LISTER: Máme dvě možnosti. Buď tam vlítnout s bazukoidama a zkusit ho nějak osvobodit a nebo budeme čumět jako vrány na to, jak ho mučej.
+KOCOUR: Nemáte někdo kukátko?
+LISTER: Nastavte bazukoidy na zabít-a-zničit. Jdeme na to. (Naznačuje KRYTONOVI, aby mu pomohl odklopit mříž) Krytone.
+
+Žalář 
+VELKÝ ÚCHYL přistupuje k RIMMEROVI s rozžhaveným cejchem. V té chvíli dorazí rychlá rota s bazukoidy. Nějaké střely příšeru sice zasáhnou, ale ta jenom zavrávorá a přestojí celou palbu. Zato se nad nimi začne sypat strop. 
+VELKÝ ÚCHYL: Teď jsem na řadě já.
+VELKÝ ÚCHYL, zjevně nezraněn, se vydá směrem k nim. 
+LISTER: (V panice) Nabijte!
+KRYTON: Pane, další dávka by mohla způsobit sesuv kamení a pohřbít nás zaživa!
+LISTER: Nabijte!
+RIMMER: (Nevěřícně) Chcete riskovat život pro mě?
+KRYTON: Ovšem. Jste členem posádky.
+VELKÝ ÚCHYL jakoby v bolesti couvá, až zmizí zpátky v díře, odkud předtím vylezl. RIMMER má najednou volné ruce a je v uniformě. 
+RIMMER: (Překvapen) Co se stalo ?
+LISTER: Fakt divný.
+KOCOUR: Kam zmizel ?
+KRYTON: Androidi mají staré přísloví, které se teď obzvlášť hodí.
+Ostatní, KRYTONEM nepovšimnutí, se odplíží ke schodům a rychle odcházejí. 
+KRYTON: V binárním jazyce je to něco jako: „0011001100110011001100110011“. Volně přeloženo to znamená: „Nestůj a nežvaň, když jsi ve smrtelném nebezpečí.“
+Teprve teď se rozhlédne, zjistí, že je úplně sám, a dle své rady, pospíchá za nimi. 
+
+Kraj Lesa ponížení 
+RIMMER: Kudy?
+KRYTON: Půjdeme přímo k Bažině zoufalství, pak rovně kolem Lesa ponížení a prudce doleva k Propasti beznaděje.
+KOCOUR: Jsi pěknej úchyl, víš to? (RIMMER se nezmůže na slovo)
+
+Bažina zoufalství, noc 
+Posádka na loďce pádluje zpátky ke Kosmiku.
+
+Střední část Kosmiku 
+Všichni upřeně zírají na RIMMERA. 
+RIMMER: Proč se na mě všichni tak díváte? Jako by to všechno byla moje vina. Umíte si představit, jaký jsem měl den? Byl jsem unesen, svlečen, naolejován, napadán, spoután, olizován, okusován, svázán, zesměšňován, ponižován a málem mi nacpali ostnatou věc velikosti a tvaru mexické agáve tam, kam se odváží podívat jen celníci.
+KOCOUR: Tak ty nevíš, kde to jsme?
+RIMMER: Ano, je to zlý sen. Je to přímo peklo. Je to smradlavá, zamořená díra plná hniloby.
+LISTER: (Důrazně) Rimmere, je to tvoje duše.
+KRYTON: Má pravdu. Tohle je psychoměsíc. Jeho terén byl zbrázděn Vaší psýchou.
+RIMMER: Co? Co mi to vykládáš? Ta věc... ta bestie, žije uvnitř mé mysli?
+KRYTON: Obrazně řečeno, ano.
+RIMMER: Sebepohrdání? Já sebou nepohrdám. A proč by někdo opovrhoval mnou?
+KRYTON: Chtěl byste seznam, pane?
+RIMMER: Jaký seznam?
+KRYTON: No, například Vámi pohrdali rodiče, neboť jste nesplnil jejich očekávání a Vaši tři bratři byli důstojníky ve Vesmírném sboru a Vy jste skončil jako obsluha automatů na polévku. Pak je tu Vaše neschopnost navázat trvalý vztah s kýmkoli. Vaše zbabělost. Váš nedostatek šarmu, cti či kouzla a trýznivé svědomí, že Vás za celý život neměl nikdo doopravdy
+rád, protože jste tak naprosto odpudivý.
+RIMMER: Jo, tohle.
+KRYTON: Prosím, nepřerušujte mě. Jsem teprve v půlce. Tak kde jsem skončil...
+LISTER: (Zarazí ho) On už to pochopil, Krytone.
+RIMMER: (V depresi) Bože, jsem tak příšerný.
+Kosmik se otřese. 
+LISTER: Uf, co to bylo?
+HOLLY: Problém. Uvízli jsme v tekutém písku.
+LISTER: Zapni brzdící motory.
+HOLLY: Nezvedáme se, ale jsme alespoň stabilní. Za pár minut motor vyhoří.
+KOCOUR: Navrhuju, abychom si natáhli tryskový raketový kaťata a vystřelili vodsud.
+KRYTON: Výborný a originální návrh, pane, ale má dvě drobné vady: za A - nemáme tryskové raketové kalhoty; a za B - tryskové raketové kalhoty existují jenom, jenom ve fiktivním seriálu Robbie Rakeťák.
+KOCOUR: Tak to nám zhatí jinak zatraceně dobrej plán.
+HOLLY: Pozor. Zachytila jsem silnou emisi energie.
+
+Kokpit Kosmiku 
+Skupina přispěchá do kokpitu, vyburcovaná mocným hlasem. 
+VELKÝ ÚCHYL: (Hlas) Vydejte toho červa a vaše životy budou ušetřeny. Nevedu spor s vámi, ale s tou hromádkou výkalů, která se mezi vámi skrývá. Jestli se ho pokusíte zachránit, zakusíte na vlastní kůži sílu a zuřivost mých černých hord. Máte deset minut.
+
+Střední část Kosmiku 
+RIMMER prkenně odchází z kokpitu, následován LISTEREM. 
+LISTER: Kam chceš jít?
+RIMMER: A kam si myslíš? Slyšels ho! Když se mu nevzdám, ukáže Kosmiku, zač je toho loket.
+LISTER: Co? Ty se chceš fakt vzdát?
+RIMMER: Ne. Jdu dolů do strojovny a schovám se za jedním z kotlů. Radím i vám, abyste si našli něco, za čím se budete třást.
+HOLLY: Jestli vás zajímá můj názor, je lepší vymyslet nějaký způsob, jak toho tvora zabít.
+KRYTON: Ale jak? Bazukoidy se neosvědčily. Je velmi odolný.
+RIMMER: (V beznaději) To je konec.
+Kosmik se znovu otřese a klesne níž. 
+HOLLY: Brzdící motory na plný výkon. Teď jsme stabilní.
+KRYTON: (Jakoby ho něco napadlo) Ale počkat ! Ehm, ehm. (Odkašle si a přistoupí k RIMMEROVI) Je to všechno tvoje vina, ty jeden mrňavej tuberáckej chrchlíčku.
+Kosmik se otřese a klesne. 
+KRYTON: Hm, zajímavé. (Směje se) Pane, jste odporný uťapaný skřet oblíbený asi stejně jako svědivá bradavice.
+Další otřes. 
+KRYTON: Výborně. Pane Listere, Kocoure - máme poradu v kokpitu.
+Odcházejí do kokpitu a RIMMER chce jít za nimi. 
+KRYTON: (K RIMMEROVI) Vy ne, pane.
+Další záchvěv.
+
+Kokpit Kosmiku                                                                                                                                        
+KRYTON, LISTER a KOCOUR vejdou do kokpitu a zavřou se za nimi dveře.                                                        KRYTON: Pánové, myslím, že to mám. Náš nepřítel není tam venku. Je s námi v Kosmiku. Náš nepřítel je ukryt v hlavě pana Rimmera.
+KOCOUR: (Nadšen) Dobrý plán. Tak mu uřízneme hlavu a všechno bude v pohodě.
+LISTER: Ne, moment. Už mi to všechno konečně došlo, Krytone. Vzdávám ti hold.
+KOCOUR: (Stále nechápající) Co?
+LISTER: Jak jsme tu bestii zatlačili do jeskyně, to nebyl bazukoid, co jí zahnal do tý díry, ale to, že jsi řek` Rimmerovi, že ho neopustíme.
+KRYTON: Přesně tak.
+LISTER: Takže když v něm probudíme pocit, že je milovanej...
+KRYTON: Když ho přimějeme, aby se měl rád, když se nám podaří vrátit mu sebevědomí a hrdost, tak tím přemůžeme tu sebemrskačskou bestii nebo ji oslabíme na tak dlouho, než se dostaneme z tekutého písku a odletíme z tohoto pekla.
+KOCOUR: Ale kdy bude spokojenej? Co mu říct, aby se sobě líbil?
+LISTER: To, že ho máme rádi.
+KOCOUR: (Znechuceně) Né, jsi cvok? To by byla přímo zvrácenost!
+KRYTON: A nesmí poznat, že nejsme upřímní. Závisí na tom naše životy. (Ke KOCOUROVI) Připraven?
+KOCOUR: Na tohle nikdy nebudu.
+
+Střední část Kosmiku 
+RIMMER sedí sklesle na přepravní kleci, ve tváři směs hanby, strachu a sebelítosti. Dveře ke kokpitu se otevřou a KOCOUR, KRYTON a LISTER vyhlížejí ven, jak sami věří, s přátelským a povzbudivým úsměvem. Jdou k RIMMEROVI.
+LISTER: Rimmere, rozhodli jsme se, že s tebou zůstanem a porvem se s tim netvorem. Jeden za všechny. Všichni za jednoho.
+RIMMER: (Nevěřícně) Vážně?
+KRYTON: Pane, rád bych využil této příležitosti, abych Vám řekl, že jste báječný člověk.
+LISTER: Chce říct, že nás tady všechny čeká jistá smrt a že je na čase, abysme si řekli, co k sobě navzájem cítíme.
+RIMMER: Myslíš, že je to vhodný?
+Všichni se shromáždí kolem RIMMERA. LISTER si sedne vedle něj a KRYTON z druhé strany. Jenom KOCOUR zůstane stát v bezpečné vzdálenosti. 
+LISTER: (Zajíkavě) Hele, tohle chlapi nedokážou. Neuměj to... dyť víš...
+KRYTON: Dát najevo své city.
+LISTER: Jo, maj furt blbý kecy a urážej se, ale přitom si myslej... neuměj říct, co si fakt myslej. 
+RIMMER: (Nechápavě) Co mi to vykládáš?
+LISTER: Jenom ti chci říct, že ať se stane cokoli, měl bys vědět, že tě mám fakt rád.
+LISTER položí ruku na RIMMEROVI koleno a ten to pozoruje, poněkud šokován. 
+KRYTON: My všichni, pane.
+KRYTON položí ruku na jeho druhé koleno a RIMMER se tváří skoro znechuceně. 
+KOCOUR: Je to pravda. Fakt tě maj moc rádi.
+RIMMER: (K LISTEROVI) Ještě dnes ráno jsi říkal, že jsem rakovinnej polyp na řiti lidstva.
+LISTER: Ale v dobrym. Z hecu. Fakt. Žertovně, přátelsky, láskyplně.
+KRYTON: Pane, chce vyjádřit, že už možná nebudeme mít příležitost vyjádřit své city. A já osobně bych toho rád využil, abych Vám sdělil, že jste báječný muž a velmi vážený kolega a - k čertu - opravdový přítel. (Přátelsky ale trochu moc ho praští do ramene) 
+HOLLY: Trochu se zvedáme.
+RIMMER: (Vstane) Počkejte. Já vím, proč to děláte.
+HOLLY: Klesáme.
+RIMMER: Mám se cítit vinen, viďte? Měl bych se chytit za nos a opustit vás a vzdát se té bestii.
+LISTER a KRYTON: (Protestují společně) Ne, to vůbec ne!
+LISTER: Ani náhodou.
+KRYTON: (S LISTEREM) Jak jste na to přišel?
+RIMMER: Tak proč to děláte?
+LISTER: Máme to spočítaný, a proto chci odejít s čistým svědomím. Není lehký to říct jako chlap chlapovi, ale mám tě rád. (Dívá se stranou) Doopravdy tě mám rád.
+HOLLY: Stoupáme.
+KRYTON: Myslím, že by teď neškodilo, kdybychom zkusili něco, něco jako čtyřnásobné objetí.(Kruh kolem RIMMERA se začíná uzavírat)
+RIMMER: Co je to s vámi?
+KRYTON: Myslím, že se málo dotýkáme a že by se lidé měli víc dotýkat.
+LISTER a KRYTON popadnou KOCOURA a všichni začnou v semknuté skupině objímat RIMMERA. KOCOUR vypadá, že vůbec nemůže uvěřit tomu, co teď dělá. 
+LISTER: Mám tě rád, Arnie.
+KRYTON: Já také.
+LISTER: Seš skvělej kluk. Fakt.
+KRYTON: To je nádherný okamžik, viďte?
+LISTER: Seš frajer.
+KRYTON: Áno.
+LISTER: Milujem tě, A.J.i!
+KRYTON: My všichni.
+RIMMER se konečně usmívá.
+HOLLY: Rychle všichni do kokpitu. Venku se děje něco moc divného.
+
+Hřbitov 
+RIMMEROVA SEBEÚCTA a jeho SEBEVĚDOMÍ vstávají z hrobů a vypadají jako RIMMER s knírkem oděný v mušketýrském.
+VELKÝ ÚCHYL: Vpřed, mé hordy temnot! Přineste mi hlavu Opovrženíhodného.
+SEBEÚCTA a SEBEVĚDOMÍ s kordy přehradí cestu Černým kápím a začnou je kosit. 
+SEBEÚCTA: Je konec, Hořkosti!
+SEBEVĚDOMÍ: Tu máš, Pochybnosti!
+SEBEÚCTA: Chcípni jako prašivý pes, Nedůvěro!
+SEBEVĚDOMÍ: Okus můj meč, Osamělosti. Ať se tvá mrzkost smaží v pekle!
+
+Kokpit Kosmiku
+HOLLY: Trochu stoupáme.
+KRYTON: 20 metrů. To ke startu stačí.
+HOLLY: Jsme skoro venku.
+
+Psychoměsíc
+Kosmik odlétá z psychoměsíce. 
+
+Kokpit Kosmiku 
+RIMMER: (Je opět hologramem, i se svým "H" na čele) Byla to komedie, viďte?
+LISTER: Co myslíš?
+RIMMER: Všechno to vaše objímání. Byl to jen trik, jak se odtud dostat. Nemysleli jste si doopravdy, že jsem v jádru docela dobrý chlap; že nejsem tak hrozný trouba, když se to tak vezme. To nebylo vážně, viďte?
+Ostatní chvíli mlčí a vzájemně se po sobě rozhlížejí. 
+OSTATNÍ: (Společně) Ne.

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{$locale}">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>{ifset title}{include title|striptags} | {/ifset}DwarfSearch</title>
+	<meta name="author" content="Marek Šneberger">
+	<meta n:ifset="description" name="description" content="{include description}">
+	<meta n:ifset="keywords" name="keywords" content="{include keywords}">
+
+	<meta n:ifset="title" property="og:title" content="{include title|striptags}">
+	<meta n:ifset="description" property="og:description" content="{include description}">
+	<meta property="og:site_name" content="DwarfSearch">
+	<meta property="og:url" content="{link //this}">
+	<meta property="og:locale" content="{$locale}">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	{control css}
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+<header>
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Zobrazit navigaci</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" n:href="Homepage:default">DwarfSearch</a>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				{control search}
+			</div>
+		</div>
+	</nav>
+</header>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-3 col-md-2 sidebar">
+			<ul class="nav nav-sidebar">
+				<li class="nav-header">
+					<a href="#" data-toggle="collapse" data-target="#characters"> Postavy <i class="glyphicon glyphicon-chevron-right"></i></a>
+					<ul class="nav nav-stacked collapse" id="characters">
+						<li>
+							<a href="#">Rimmer</a>
+						</li>
+						<li>
+							<a href="#">Lister</a>
+						</li>
+						<li>
+							<a href="#">Kocour</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+			{ifset breadcrumb}
+				<ol class="breadcrumb">
+					<li>
+						<a n:href="Homepage:">DwarfSearch</a>
+					</li>
+					{include breadcrumb}
+				</ol>
+			{/ifset}
+			{include content}
+		</div>
+	</div>
+</div>
+<footer class="footer">
+	<div class="container-fluid">
+		<div class="col-sm-3 col-md-2 sidebar">&nbsp;</div>
+		<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
+			<p class="text-muted text-center">&copy; 2015 <a href="https://sneberger.cz">Marek Šneberger</a></p>
+		</div>
+	</div>
+</footer>
+{control js}
+</body>
+</html>

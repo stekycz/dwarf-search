@@ -1,0 +1,18 @@
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h2 class="panel-title">
+			<a href="{plink Episode: $result['episode']['id']}">
+				{$result['episode']['name']} (S{$result['season']['number']}E{$result['episode']['number']})
+			</a>
+		</h2>
+	</div>
+	<div class="panel-body">
+		<strong>
+			<a href="{plink Character: $result['character']['slug']}">{$result['character']['name']}</a>:
+		</strong>
+		{$result['text']}
+	</div>
+	<div class="panel-footer">
+
+	</div>
+</div>
