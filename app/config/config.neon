@@ -31,5 +31,10 @@ doctrine:
 	metadata:
 		DwarfSearch: %appDir%/../libs
 
+redis:
+	journal: on
+	storage: on
+	session: on
+
 services:
 	router: App\RouterFactory::createRouter

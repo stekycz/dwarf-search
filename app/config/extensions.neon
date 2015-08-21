@@ -8,3 +8,4 @@ extensions:
 	doctrine: Kdyby\Doctrine\DI\OrmExtension
 	curl: Kdyby\Curl\DI\CurlExtension
 	webloader: WebLoader\Nette\Extension
+	redis: Kdyby\Redis\DI\RedisExtension
