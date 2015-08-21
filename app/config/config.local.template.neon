@@ -2,6 +2,6 @@ parameters:
 
 doctrine:
 	user: root
-	password: someStrongPassword:-)
+	password: "someStrongPassword:-)"
 	dbname: dwarfSearch
 	host: localhost
