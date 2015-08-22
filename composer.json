@@ -9,7 +9,7 @@
 		"GPL-3.0"
 	],
 	"require": {
-		"php": ">= 5.4.0",
+		"php": ">= 5.5.0",
 		"nette/application": "@dev",
 		"nette/bootstrap": "@dev",
 		"nette/caching": "@dev",
