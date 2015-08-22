@@ -9,3 +9,4 @@ extensions:
 	curl: Kdyby\Curl\DI\CurlExtension
 	webloader: WebLoader\Nette\Extension
 	redis: Kdyby\Redis\DI\RedisExtension
+	dwarfSearch: DwarfSearch\DI\DwarfSearchExtension
