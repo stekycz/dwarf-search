@@ -23,6 +23,8 @@ session:
 
 monolog:
 	name: dwarf-search
+	handlers:
+		- Monolog\Handler\SyslogHandler('dwarf-search', 'local4')
 
 elasticSearch:
 	debugger: on
