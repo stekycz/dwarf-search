@@ -3,3 +3,4 @@ services:
 	- DwarfSearch\Elastic\MappingCreator
 	- DwarfSearch\Characters\CharacterFinder
 	- DwarfSearch\Episodes\EpisodesFinder
+	- DwarfSearch\Searching\SearchDirector

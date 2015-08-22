@@ -4,13 +4,8 @@ namespace DwarfSearch\Presenters;
 
 use DwarfSearch\Components\SearchBox\ISearchBoxControlFactory;
 use DwarfSearch\Searching\Search;
+use DwarfSearch\Searching\SearchDirector;
 use DwarfSearch\Searching\SearchManager;
-use Elastica\Query\Bool;
-use Elastica\Query\Fuzzy;
-use Elastica\Query\Match;
-use Elastica\Query\MatchPhrase;
-use Elastica\Query\Term;
-use Kdyby\ElasticSearch\Client;
 use Nette\Application\UI\Multiplier;
 
 
@@ -29,21 +24,22 @@ class SearchPresenter extends BasePresenter
 	private $search;
 
 	/**
-	 * @var Client
+	 * @var SearchDirector
 	 */
-	private $client;
+	private $searchDirector;
 
 
 
 	/**
 	 * @param SearchManager $searchManager
+	 * @param SearchDirector $searchDirector
 	 */
-	public function __construct(SearchManager $searchManager, Client $client)
+	public function __construct(SearchManager $searchManager, SearchDirector $searchDirector)
 	{
 		parent::__construct();
 
 		$this->searchManager = $searchManager;
-		$this->client = $client;
+		$this->searchDirector = $searchDirector;
 	}
 
 
@@ -70,21 +66,8 @@ class SearchPresenter extends BasePresenter
 	 */
 	public function renderDefault($slug)
 	{
-		$index = $this->client->getIndex('dwarf');
 		$this->template->search = $this->search;
-
-		$bool = new Bool();
-		$match = new Match();
-		$match->setField('text', $this->search->getInput());
-
-		$bool->addMust($match);
-
-		$searchResults = $index->search($bool, 50)->getResults();
-		$results = [];
-		foreach ($searchResults as $result) {
-			$results[] = $result->getData();
-		}
-		$this->template->results = $results;
+		$this->template->results = $this->searchDirector->search($this->search);
 	}
 
 
