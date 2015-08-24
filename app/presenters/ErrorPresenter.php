@@ -3,37 +3,26 @@
 namespace DwarfSearch\Presenters;
 
 use Nette\Application\BadRequestException;
-use Nette\Application\UI\Presenter;
 use Tracy\ILogger;
-use WebLoader\Nette\CssLoader;
-use WebLoader\Nette\JavaScriptLoader;
-use WebLoader\Nette\LoaderFactory;
 
 
 
-class ErrorPresenter extends Presenter
+class ErrorPresenter extends BasePresenter
 {
 
 	/** @var ILogger */
 	private $logger;
 
-	/**
-	 * @var LoaderFactory
-	 */
-	private $loaderFactory;
-
 
 
 	/**
 	 * @param ILogger $logger
-	 * @param LoaderFactory $loaderFactory
 	 */
-	public function __construct(ILogger $logger, LoaderFactory $loaderFactory)
+	public function __construct(ILogger $logger)
 	{
 		parent::__construct();
 
 		$this->logger = $logger;
-		$this->loaderFactory = $loaderFactory;
 	}
 
 
@@ -57,26 +46,6 @@ class ErrorPresenter extends Presenter
 			$this->payload->error = TRUE;
 			$this->terminate();
 		}
-	}
-
-
-
-	/**
-	 * @return CssLoader
-	 */
-	protected function createComponentCss()
-	{
-		return $this->loaderFactory->createCssLoader('default');
-	}
-
-
-
-	/**
-	 * @return JavaScriptLoader
-	 */
-	protected function createComponentJs()
-	{
-		return $this->loaderFactory->createJavaScriptLoader('default');
 	}
 
 }
