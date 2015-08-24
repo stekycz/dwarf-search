@@ -20,6 +20,8 @@ application:
 
 session:
 	expiration: 14 days
+	autoStart: false
+	savePath: %wwwDir%/../temp/sessions
 
 monolog:
 	name: dwarf-search
