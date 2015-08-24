@@ -25,7 +25,6 @@ namespace :load do
 end
 
 namespace :cache do
-
   task :flush_old_redis do
     on release_roles(:app) do
       execute "redis-cli", "flushall"
@@ -70,7 +69,7 @@ namespace :bower do
     task :install do
       on release_roles(:app) do
         within release_path do
-          execute "bower", "install"
+          execute "bower", "--quiet", "install"
         end
       end
     end
