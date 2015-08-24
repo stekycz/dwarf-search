@@ -75,11 +75,22 @@ namespace :bower do
     end
 end
 
+namespace :permissions do
+  task :chmodDirs do
+    on release_roles(:app) do
+      within release_path do
+        execute "chmod", "-R", "0777", "log temp www/webtemp"
+      end
+    end
+  end
+end
+
 namespace :deploy do
   before :updated, :"cleanup:remove_dirs"
+  before :updated, :"permissions:chmodDirs"
+  before :updated, :"compile:doctrine_proxies"
 
   after :updated, :"bower:install"
-  after :updated, :"compile:doctrine_proxies"
   after :updated, :"cleanup:clear_logs"
 
   before :reverted, :"cleanup:remove_dirs"
@@ -89,5 +100,3 @@ namespace :deploy do
   # publish
   after :published, :"cache:flush_old_redis"
 end
-
-after 'composer:install', 'bower:install'
