@@ -20,7 +20,7 @@ application:
 
 session:
 	expiration: 14 days
-	autoStart: smart
+	autoStart: false
 	savePath: %wwwDir%/../temp/sessions
 
 monolog:
