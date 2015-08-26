@@ -41,6 +41,15 @@ abstract class BasePresenter extends Presenter
 
 
 
+	protected function startup()
+	{
+		parent::startup();
+
+		$this->getSession()->start();
+	}
+
+
+
 	protected function beforeRender()
 	{
 		parent::beforeRender();
@@ -66,6 +75,7 @@ abstract class BasePresenter extends Presenter
 	{
 		return $this->webLoader->createJavaScriptLoader('default');
 	}
+
 
 
 	/**
