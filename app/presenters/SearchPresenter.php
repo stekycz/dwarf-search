@@ -2,6 +2,8 @@
 
 namespace DwarfSearch\Presenters;
 
+use DwarfSearch\Components\Search\ISearchControlFactory;
+use DwarfSearch\Components\Search\SearchControl;
 use DwarfSearch\Components\SearchBox\ISearchBoxControlFactory;
 use DwarfSearch\Searching\Search;
 use DwarfSearch\Searching\SearchDirector;
@@ -79,6 +81,22 @@ class SearchPresenter extends BasePresenter
 	protected function createComponentSearchBox(ISearchBoxControlFactory $factory)
 	{
 		return $factory->create();
+	}
+
+
+
+	/**
+	 * @param ISearchControlFactory $factory
+	 * @return SearchControl
+	 */
+	protected function createComponentSearch(ISearchControlFactory $factory)
+	{
+		$control = parent::createComponentSearch($factory);
+		if ($this->search) {
+			$control->setSearch($this->search);
+		}
+
+		return $control;
 	}
 
 }

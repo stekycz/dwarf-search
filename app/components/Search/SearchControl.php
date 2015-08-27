@@ -31,6 +31,11 @@ class SearchControl extends Control
 	 */
 	private $searchManager;
 
+	/**
+	 * @var Search|NULL
+	 */
+	private $search;
+
 
 
 	public function __construct(ITranslator $translator, SearchManager $searchManager)
@@ -39,6 +44,16 @@ class SearchControl extends Control
 
 		$this->translator = $translator;
 		$this->searchManager = $searchManager;
+	}
+
+
+
+	/**
+	 * @param Search $search
+	 */
+	public function setSearch(Search $search)
+	{
+		$this->search = $search;
 	}
 
 
@@ -59,8 +74,13 @@ class SearchControl extends Control
 		$form->setTranslator($this->translator);
 		$form->addProtection();
 
+		$defaultSearchValue = $this->search
+			? $this->search->getInput()
+			: NULL;
+
 		$form->addText('search')
-			->setRequired();
+			->setRequired()
+			->setValue($defaultSearchValue);
 
 		$form->addSubmit('submit');
 
