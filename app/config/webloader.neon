@@ -7,6 +7,8 @@ services:
 webloader:
 	css:
 		default:
+			remoteFiles:
+				- '//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'
 			files:
 				- %bowerDir%/bootstrap/dist/css/bootstrap.min.css
 				- %wwwDir%/css/dwarfSearch.css
