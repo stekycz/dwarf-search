@@ -4,15 +4,17 @@ namespace DwarfSearch\Searching;
 
 use Closure;
 use Elastica\Index;
+use Elastica\Query;
 use Elastica\Query\Bool;
 use Elastica\Query\Match;
+use Elastica\Result;
 use Kdyby\ElasticSearch\Client;
 use Nette\Object;
 
 
 
 /**
- * @method onSearch(Search $search, $results)
+ * @method onSearch(Search $search, array $results)
  */
 class SearchDirector extends Object
 {
@@ -43,7 +45,7 @@ class SearchDirector extends Object
 
 	/**
 	 * @param Search $search
-	 * @return array
+	 * @return Result[]
 	 */
 	public function search(Search $search)
 	{
@@ -52,10 +54,25 @@ class SearchDirector extends Object
 		$match->setField('text', $search->getInput());
 		$bool->addMust($match);
 
-		$results = [];
-		foreach ($this->getIndex()->search($bool, 50)->getResults() as $result) {
-			$results[] = $result->getData();
-		}
+		$query = new Query();
+		$query->setQuery($bool);
+		$query->setHighlight([
+			'pre_tags' => [
+				'<mark>',
+			],
+			'post_tags' => [
+				'</mark>',
+			],
+			'fields' => [
+				'text' => [
+					'highlight_query' => [
+						$bool->toArray(),
+					],
+				],
+			],
+		]);
+
+		$results = $this->getIndex()->search($query, 50)->getResults();
 
 		$this->onSearch($search, $results);
 
