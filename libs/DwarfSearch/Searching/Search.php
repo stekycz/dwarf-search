@@ -75,6 +75,20 @@ class Search extends Object
 
 
 	/**
+	 * @return string
+	 */
+	public function getInputWithoutAccents()
+	{
+		$input = Strings::toAscii($this->getInput());
+		$input = preg_replace('#[^a-z0-9]+#i', ' ', $input);
+		$input = trim($input, ' ');
+
+		return $input;
+	}
+
+
+
+	/**
 	 * @return DateTime
 	 */
 	public function getSearchTime()

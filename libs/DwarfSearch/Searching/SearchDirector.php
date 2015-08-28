@@ -51,7 +51,7 @@ class SearchDirector extends Object
 	{
 		$bool = new Bool();
 		$match = new Match();
-		$match->setField('text', $search->getInput());
+		$match->setField('text', $search->getInputWithoutAccents());
 		$bool->addMust($match);
 
 		$query = new Query();
