@@ -19,3 +19,4 @@ webloader:
 				- %bowerDir%/jquery/dist/jquery.min.js
 				- %appDir%/../vendor/nette/forms/src/assets/netteForms.js
 				- %bowerDir%/bootstrap/dist/js/bootstrap.min.js
+				- %wwwDir%/js/dwarfSearch.js

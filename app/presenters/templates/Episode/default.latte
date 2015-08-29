@@ -1,6 +1,6 @@
 {block content}
-<div class="list-group" n:inner-foreach="$episode->getScenarios() as $screenplay">
-	<a n:href="//this#screenplay{$screenplay->getLine()}" class="list-group-item screenplayLine">
+<div class="list-group" id="screenplay" n:inner-foreach="$episode->getScenarios() as $screenplay">
+	<a href="#screenplay-line-{$screenplay->getLine()}" id="screenplay-line-{$screenplay->getLine()}" class="list-group-item screenplay-line-link">
 		<h3 class="list-group-item-heading">
 			{if $screenplay->isIntro()}
 				Intro:
@@ -9,7 +9,7 @@
 			{/if}
 		</h3>
 
-		<p id="screenplay{$screenplay->getLine()}" class="list-group-item-text">
+		<p class="list-group-item-text">
 			{$screenplay->getText()}
 		</p>
 	</a>
